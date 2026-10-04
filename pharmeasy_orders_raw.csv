@@ -1,0 +1,2160 @@
+order_id,order_date,region,category,product,quantity,sales_inr,profit_inr
+PE00928,2026-05-07,Nellore,,Whey Protein 1kg,3,2898.42,394.66
+PE00690,2026-04-09,Hyderabad,Personal Care,Antiseptic Liquid,5,2520.4,435.28
+PE01937,2026-06-04,Warangal,OTC Medicines,Cough Syrup 100ml,1,115.67,24.63
+PE01348,2026-05-21,Vijayawada,Personal Care,Hand Sanitizer 500ml,2,208.16,36.31
+PE01028,2026-05-22,Warangal,OTC Medicines,Cetirizine 10mg,2,391.48,51.69
+PE00495,2026-04-29,Hyderabad,OTC Medicines,Cetirizine 10mg,3,427.38,36.77
+PE00814,2026-05-12,Vijayawada,Prescription Medicines,Azithromycin 500mg,5,2791.25,398.34
+PE00524,2026-04-08,Guntur,,Cetirizine 10mg,5,311.25,33.76
+PE01626,2026-06-16,Warangal,OTC Medicines,ORS Sachet,3,299.49,36.88
+PE00427,2026-04-07,Hyderabad,OTC Medicines,Cetirizine 10mg,5,324.95,40.94
+PE00349,2026-04-18,Hyderabad,,Hand Sanitizer 500ml,4,985.4,158.9
+PE01668,2026-06-10,Karimnagar,Prescription Medicines,Azithromycin 500mg,5,1809.4,327.38
+PE00905,2026-05-24,Bengaluru,Personal Care,Antiseptic Liquid,5,2378.65,291.03
+PE01817,2026-06-14,Hyderabad,OTC Medicines,ORS Sachet,4,668.88,113.32
+PE01870,2026-06-09,Visakhapatnam,OTC Medicines,Cetirizine 10mg,3,505.77,107.31
+PE00406,2026-04-23,Karimnagar,Medical Devices,Glucometer Kit,3,2141.31,220.64
+PE00577,2026-04-03,Visakhapatnam,Prescription Medicines,Atorvastatin 10mg,3,856.68,168.46
+PE00018,2026-04-24,Bengaluru,Prescription Medicines,Amlodipine 5mg,4,687.84,143.28
+PE01935,2026-06-20,Guntur,Medical Devices,Digital BP Monitor,3,7632.78,1528.47
+PE01412,2026-06-21,Hyderabad,Prescription Medicines,Azithromycin 500mg,4,1036.48,161.71
+PE02086,2026-06-06,Hyderabad,Lab Tests,Full Body Checkup,1,1468.96,247.55
+PE01446,2026-06-22,Hyderabad,OTC Medicines,Antacid Tablets,2,83.18,11.2
+PE01886,2026-06-19,Vijayawada,Prescription Medicines,Azithromycin 500mg,1,473.36,82.57
+PE00509,2026-04-19,Guntur,OTC Medicines,Cough Syrup 100ml,3,169.74,14.09
+PE01601,2026-06-19,Vijayawada,Medical Devices,Glucometer Kit,3,7978.8,
+PE00278,2026-04-28,Karimnagar,OTC Medicines,Paracetamol 500mg,4,172.16,15.88
+PE01675,2026-06-16,Guntur,Wellness & Nutrition,Multivitamin Tablets,5,3989.8,693.3
+PE01650,2026-06-09,Guntur,Personal Care,Hand Sanitizer 500ml,5,633.65,78.92
+PE01783,2026-06-09,Vijayawada,Wellness & Nutrition,Whey Protein 1kg,2,704.14,95.74
+PE01516,2026-06-21,Hyderabad,Lab Tests,HbA1c Test,3,4416.03,885.61
+PE01252,2026-05-03,Vijayawada,Wellness & Nutrition,Immunity Booster Syrup,1,901.53,109.02
+PE01807,2026-06-09,Bengaluru,Wellness & Nutrition,Multivitamin Tablets,4,3056.8,323.52
+PE01069,2026-05-28,Vijayawada,Personal Care,Hand Sanitizer 500ml,1,337.96,43.92
+PE01656,2026-06-25,Hyderabad,OTC Medicines,Paracetamol 500mg,1,120.57,18.23
+PE00569,2026-04-18,Warangal,Medical Devices,Thermometer,1,427.23,78.8
+PE01052,2026-05-06,Warangal,Personal Care,Sunscreen SPF50,3,1565.88,319.88
+PE01379,2026-05-27,Hyderabad,Prescription Medicines,Azithromycin 500mg,4,2470.88,270.08
+PE01297,2026-05-11,Hyderabad,Prescription Medicines,Amlodipine 5mg,5,926.9,155.17
+PE01956,2026-06-29,Hyderabad,,ORS Sachet,4,339.0,34.23
+PE00231,2026-04-16,Tirupati,Medical Devices,Pulse Oximeter,1,2743.26,599.65
+PE01938,2026-06-22,Karimnagar,Wellness & Nutrition,Fish Oil Capsules,2,1093.74,127.39
+PE01371,2026-05-26,Tirupati,OTC Medicines,Paracetamol 500mg,2,211.06,33.38
+PE00677,2026-04-09,Bengaluru,Prescription Medicines,Insulin Pen,4,1095.84,123.53
+PE00794,2026-05-11,Guntur,Wellness & Nutrition,Calcium + D3 Tablets,2,1676.18,245.17
+PE00866,2026-05-06, Vijayawada ,Prescription Medicines,Insulin Pen,2,1038.78,93.37
+PE01308,2026-05-21,Guntur,OTC Medicines,Cough Syrup 100ml,2,208.5,33.89
+PE00702,2026-05-24,Karimnagar,Medical Devices,Digital BP Monitor,2,2663.42,236.55
+PE00252,2026-04-03,Hyderabad,OTC Medicines,Cough Syrup 100ml,4,212.28,36.14
+PE00047,2026-04-02,Visakhapatnam,Prescription Medicines,Insulin Pen,1,180.79,17.57
+PE00003,2026-04-10,Warangal,Wellness & Nutrition,Multivitamin Tablets,1,767.1,
+PE01203,2026-05-17,Bengaluru,Prescription Medicines,Insulin Pen,5,1903.2,344.16
+PE01536,2026-06-22,Warangal,Personal Care,Antiseptic Liquid,5,2326.55,497.06
+PE01038,2026-05-13,Vijayawada,Prescription Medicines,Metformin 500mg,3,1549.98,200.0
+PE01177,2026-05-20,Bengaluru,Medical Devices,Digital BP Monitor,5,10434.0,2196.54
+PE01672,2026-06-07,Nellore,Wellness & Nutrition,Fish Oil Capsules,3,3648.33,788.85
+PE00949,2026-05-07,Hyderabad,OTC Medicines,ORS Sachet,5,489.25,83.89
+PE00072,2026-04-13,Vijayawada,Medical Devices,Nebulizer,3,2561.16,494.03
+PE00809,2026-05-26,Guntur,Medical Devices,Pulse Oximeter,4,2368.08,268.41
+PE00841,2026-05-25,Tirupati,Medical Devices,Glucometer Kit,4,10595.08,1715.71
+PE01522,2026-06-21,Guntur,Prescription Medicines,Amlodipine 5mg,1,141.74,20.0
+PE01872,2026-06-05,Vijayawada,Personal Care,Hand Sanitizer 500ml,1,379.76,38.91
+PE00307,2026-04-17,Vijayawada,OTC Medicines,Antacid Tablets,1,171.89,22.64
+PE00232,2026-04-04,Nellore,OTC Medicines,Cough Syrup 100ml,3,421.35,40.78
+PE02012,2026-06-28,Guntur,Medical Devices,Glucometer Kit,2,4392.12,885.46
+PE01549,2026-06-17,Hyderabad,Personal Care,Sunscreen SPF50,2,1045.46,
+PE00375,2026-04-10,Vijayawada,Prescription Medicines,Azithromycin 500mg,3,1827.45,298.33
+PE00192,2026-04-12,Visakhapatnam,OTC Medicines,Cetirizine 10mg,4,206.52,35.02
+PE00142,2026-04-09,Guntur,Prescription Medicines,Azithromycin 500mg,1,338.81,41.12
+PE01201,2026-05-19,Tirupati,Medical Devices,Glucometer Kit,3,1922.58,349.38
+PE00558,2026-04-01,Warangal,Lab Tests,Thyroid Profile,5,4778.5,969.66
+PE00492,2026-04-19,Visakhapatnam,Wellness & Nutrition,Fish Oil Capsules,4,2431.12,316.69
+PE01325,2026-05-21,Vijayawada,OTC Medicines,Paracetamol 500mg,4,633.52,137.03
+PE01825,2026-06-12,Bengaluru,Personal Care,Face Wash,1,355.45,77.03
+PE01044,2026-05-14,Nellore,OTC Medicines,ORS Sachet,1,52.51,8.05
+PE00412,2026-04-02,Visakhapatnam,Prescription Medicines,Metformin 500mg,3,343.74,69.24
+PE00542,2026-04-16,Tirupati,OTC Medicines,Cetirizine 10mg,4,376.16,80.92
+PE00607,2026-04-14,Warangal,Prescription Medicines,Insulin Pen,2,985.58,110.77
+PE00573,2026-04-28,Warangal,Medical Devices,Glucometer Kit,1,2728.04,407.42
+PE00597,2026-04-06,Bengaluru,Wellness & Nutrition,Fish Oil Capsules,5,6432.7,996.87
+PE00223,2026-04-29,Visakhapatnam,Wellness & Nutrition,Multivitamin Tablets,4,5445.32,740.41
+PE01220,2026-05-27,Tirupati,Personal Care,Hand Sanitizer 500ml,2,353.32,30.73
+PE00666,2026-04-22,Warangal,Medical Devices,Pulse Oximeter,3,1822.59,316.79
+PE00723,2026-05-07,Hyderabad,Medical Devices,Glucometer Kit,5,15645.1,1406.45
+PE01170,2026-05-11,Guntur,Prescription Medicines,Atorvastatin 10mg,1,553.79,57.2
+PE00985,2026-05-31,Hyderabad,Medical Devices,Glucometer Kit,2,4994.06,795.85
+PE00897,2026-05-16,Bengaluru,OTC Medicines,Antacid Tablets,5,751.75,153.26
+PE01858,2026-06-06,Warangal,Prescription Medicines,Metformin 500mg,2,984.76,207.65
+PE00993,2026-05-31,Nellore,Prescription Medicines,Azithromycin 500mg,3,1579.62,223.29
+PE01306,2026-05-26,Vijayawada,OTC Medicines,Cough Syrup 100ml,2,436.36,68.05
+PE01936,2026-06-14,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,4,2504.32,271.11
+PE00992,2026-05-12,Tirupati,Personal Care,Face Wash,3,1479.18,265.11
+PE01996,2026-06-03,Hyderabad,Prescription Medicines,Metformin 500mg,5,2273.95,408.19
+PE01382,2026-05-09,Hyderabad,OTC Medicines,Cough Syrup 100ml,4,404.0,40.98
+PE00539,2026-04-04, hyderabad,Lab Tests,Full Body Checkup,3,3912.45,372.74
+PE01137,2026-05-30,Nellore,Prescription Medicines,Atorvastatin 10mg,1,648.99,118.63
+PE00586,2026-04-07,Vijayawada,Prescription Medicines,Insulin Pen,2,461.44,52.06
+PE00277,2026-04-14,Guntur,Wellness & Nutrition,Immunity Booster Syrup,1,283.87,52.8
+PE00714,2026-05-21,Guntur,Wellness & Nutrition,Fish Oil Capsules,5,6371.3,859.64
+PE00469,2026-04-14,Vijayawada,Medical Devices,Digital BP Monitor,4,5713.36,728.36
+PE00913,2026-05-10,Guntur,Lab Tests,Vitamin D Test,5,8262.15,1656.22
+PE01915,2026-06-23,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,3,2558.52,297.41
+PE01845,2026-06-19,Vijayawada,Lab Tests,Full Body Checkup,4,3386.08,326.68
+PE00823,2026-05-23,Warangal,Wellness & Nutrition,Fish Oil Capsules,2,1444.54,276.28
+PE01004,2026-05-10,Karimnagar,Wellness & Nutrition,Fish Oil Capsules,3,2955.48,427.19
+PE01163,2026-05-26,Warangal,OTC Medicines,Cough Syrup 100ml,3,493.35,70.32
+PE00822,2026-05-30,Guntur,Medical Devices,Nebulizer,3,8510.64,990.84
+PE01796,2026-06-21,Guntur,Personal Care,Baby Diaper Pack,1,457.28,70.59
+PE00685,2026-04-28,Visakhapatnam,Prescription Medicines,Atorvastatin 10mg,3,1593.51,348.21
+PE01689,2026-06-20,Nellore,Medical Devices,Pulse Oximeter,3,1439.4,153.84
+PE01234,2026-05-09,Guntur,Prescription Medicines,Insulin Pen,1,278.48,53.71
+PE00453,2026-04-01,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,2,1482.76,270.98
+PE00927,2026-05-09,Visakhapatnam,Prescription Medicines,Metformin 500mg,1,279.4,26.46
+PE00138,2026-04-21,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,3,1571.07,208.66
+PE01636,2026-06-10,Warangal,Prescription Medicines,Amlodipine 5mg,5,1427.2,150.54
+PE00389,2026-04-03,Nellore,,Sunscreen SPF50,2,215.6,41.95
+PE01288,2026-05-22,Tirupati,Prescription Medicines,Amlodipine 5mg,4,928.0,193.28
+PE01283,2026-05-07,Warangal,OTC Medicines,Cetirizine 10mg,5,1035.15,128.59
+PE01338,2026-05-31,Bengaluru,Prescription Medicines,Insulin Pen,2,913.3,152.23
+PE00892,2026-05-19,Visakhapatnam,OTC Medicines,ORS Sachet,1,127.07,13.29
+PE00910,2026-05-23,Hyderabad,Prescription Medicines,Atorvastatin 10mg,1,194.95,42.24
+PE00630,2026-04-30,Visakhapatnam,Prescription Medicines,Atorvastatin 10mg,5,1512.25,304.16
+PE00411,2026-04-08,Hyderabad,Prescription Medicines,Metformin 500mg,3,1639.74,196.49
+PE01690,2026-06-29,Hyderabad,OTC Medicines,ORS Sachet,2,283.12,37.46
+PE00380,2026-04-07,Warangal,Prescription Medicines,Amlodipine 5mg,2,693.6,129.58
+PE01340,2026-05-02,Hyderabad,OTC Medicines,Cough Syrup 100ml,4,466.44,55.24
+PE00404,2026-04-15,Nellore,Personal Care,Sunscreen SPF50,5,2492.15,453.53
+PE01673,2026-06-07,Tirupati,OTC Medicines,Paracetamol 500mg,1,131.14,14.25
+PE00960,2026-05-18,Tirupati,Prescription Medicines,Azithromycin 500mg,1,295.52,34.27
+PE01885,2026-06-26,Hyderabad,OTC Medicines,Paracetamol 500mg,2,358.94,78.18
+PE01364,2026-05-22,Nellore,,Atorvastatin 10mg,5,1697.9,157.02
+PE01821,2026-06-06,Visakhapatnam,OTC Medicines,ORS Sachet,2,370.44,80.57
+PE00806,2026-05-25,Guntur,Prescription Medicines,Azithromycin 500mg,2,598.5,
+PE00370,2026-04-24,Guntur,Prescription Medicines,Azithromycin 500mg,3,1380.48,266.1
+PE01030,2026-05-31,Hyderabad,Lab Tests,HbA1c Test,4,2391.64,334.35
+PE00054,2026-04-16,Nellore,OTC Medicines,Cetirizine 10mg,1,214.63,37.58
+PE01485,2026-06-14,Vijayawada,OTC Medicines,Cough Syrup 100ml,1,48.62,8.7
+PE00352,2026-04-07,Vijayawada,Personal Care,Hand Sanitizer 500ml,3,975.45,149.4
+PE00673,2026-04-13,Warangal,OTC Medicines,Paracetamol 500mg,1,118.85,16.52
+PE01107,2026-05-05,Hyderabad,OTC Medicines,ORS Sachet,3,620.58,118.12
+PE01415,2026-06-05,Hyderabad,OTC Medicines,Antacid Tablets,1,96.1,7.94
+PE01318,2026-05-03,Hyderabad,OTC Medicines,ORS Sachet,3,546.48,56.26
+PE00840,2026-05-26,Bengaluru,Personal Care,Antiseptic Liquid,5,1312.05,178.89
+PE01050,2026-05-27,Guntur,OTC Medicines,Antacid Tablets,4,591.12,103.61
+PE02041,2026-06-02,Hyderabad,Lab Tests,HbA1c Test,2,2925.92,237.31
+PE01986,2026-06-09,Guntur,Lab Tests,HbA1c Test,2,3396.78,403.18
+PE02080,2026-06-06,Bengaluru,Wellness & Nutrition,Fish Oil Capsules,5,5392.0,1048.98
+PE00982,2026-05-06,Bengaluru,OTC Medicines,Cough Syrup 100ml,1,69.81,10.85
+PE00881,2026-05-07, BENGALURU,Wellness & Nutrition,Multivitamin Tablets,2,1551.22,296.11
+PE00172,2026-04-30,HYDERABAD ,Wellness & Nutrition,Multivitamin Tablets,2,1882.0,239.52
+PE01518,2026-06-08,Bengaluru,OTC Medicines,Cough Syrup 100ml,5,586.55,125.87
+PE01553,2026-06-07,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,394.24,41.92
+PE00125,2026-04-17,Hyderabad,OTC Medicines,Cetirizine 10mg,3,612.57,56.26
+PE01745,2026-06-23,Visakhapatnam,Wellness & Nutrition,Calcium + D3 Tablets,1,886.01,130.31
+PE00200,2026-04-23,Guntur,OTC Medicines,Antacid Tablets,4,834.28,123.81
+PE01067,2026-05-06,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,1,1357.37,122.4
+PE01351,2026-05-15,Karimnagar,OTC Medicines,Paracetamol 500mg,4,609.96,83.42
+PE00119,2026-04-08,Bengaluru,Prescription Medicines,Azithromycin 500mg,5,966.0,102.79
+PE01945,2026-06-05,Vijayawada,Personal Care,Sunscreen SPF50,4,970.28,92.95
+PE01667,2026-06-01,Nellore,OTC Medicines,Cough Syrup 100ml,2,179.74,21.2
+PE01916,2026-06-14,Hyderabad,Lab Tests,Full Body Checkup,1,1111.75,186.94
+PE01741,2026-06-28,Guntur,OTC Medicines,Cough Syrup 100ml,3,136.38,18.13
+PE00691,2026-04-20,Nellore,Prescription Medicines,Azithromycin 500mg,1,117.82,19.43
+PE00920,2026-05-31,Warangal,Prescription Medicines,Metformin 500mg,2,308.94,45.51
+PE00434,2026-04-09,Visakhapatnam,OTC Medicines,ORS Sachet,1,59.25,7.4
+PE01594,2026-06-06,Hyderabad,Personal Care,Face Wash,3,1234.71,173.39
+PE00236,2026-04-19,Tirupati,Prescription Medicines,Atorvastatin 10mg,4,798.92,125.3
+PE00983,2026-05-27,Hyderabad,OTC Medicines,ORS Sachet,5,230.95,47.72
+PE00281,2026-04-28,Warangal,OTC Medicines,Paracetamol 500mg,4,718.88,
+PE00061,2026-04-26,Vijayawada,Wellness & Nutrition,Calcium + D3 Tablets,2,2719.86,257.54
+PE01372,2026-05-23,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,5,3116.95,571.37
+PE00708,2026-05-12,Tirupati,OTC Medicines,Antacid Tablets,1,217.59,25.18
+PE02057,2026-06-22,Guntur,Medical Devices,Nebulizer,4,2160.88,471.94
+PE01761,2026-06-19,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,4,1552.68,177.39
+PE01464,2026-06-17,Bengaluru,Prescription Medicines,Atorvastatin 10mg,4,1121.72,157.63
+PE00193,2026-04-02,Hyderabad,Lab Tests,Lipid Profile,5,4416.05,931.66
+PE00197,2026-04-10, BENGALURU,OTC Medicines,Paracetamol 500mg,4,224.84,24.33
+PE00930,2026-05-15,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,5,2684.25,252.77
+PE00882,2026-05-07,Bengaluru,OTC Medicines,Antacid Tablets,5,850.15,125.78
+PE00618,2026-04-01,Hyderabad,Medical Devices,Glucometer Kit,1,747.49,63.26
+PE00911,2026-05-01,Warangal,OTC Medicines,Cetirizine 10mg,3,537.66,74.85
+PE01360,2026-05-28,bengaluru ,Prescription Medicines,Azithromycin 500mg,4,1196.88,120.34
+PE01136,2026-05-03,Visakhapatnam,OTC Medicines,Cetirizine 10mg,3,273.96,23.74
+PE00103,2026-04-14,Visakhapatnam,Medical Devices,Digital BP Monitor,4,3673.56,726.83
+PE00505,2026-04-22,Guntur,Wellness & Nutrition,Calcium + D3 Tablets,3,2483.76,460.1
+PE00870,2026-05-08,Vijayawada,OTC Medicines,ORS Sachet,3,542.49,70.24
+PE01960,2026-06-18,Bengaluru,OTC Medicines,Paracetamol 500mg,4,222.84,32.01
+PE01267,2026-05-23,Warangal,Personal Care,Baby Diaper Pack,1,299.96,52.26
+PE00216,2026-04-01,Bengaluru,,ORS Sachet,3,611.61,97.37
+PE00160,2026-04-15,Hyderabad,Prescription Medicines,Amlodipine 5mg,4,582.96,55.25
+PE02009,2026-06-06,Guntur,OTC Medicines,Antacid Tablets,1,61.28,9.6
+PE00423,2026-04-03,Karimnagar,Prescription Medicines,Metformin 500mg,3,957.45,136.37
+PE00523,2026-04-23,Warangal,Wellness & Nutrition,Calcium + D3 Tablets,3,3943.95,589.34
+PE01122,2026-05-20,Guntur,Medical Devices,Nebulizer,4,5791.08,1196.83
+PE00699,2026-04-29,Tirupati,Wellness & Nutrition,Immunity Booster Syrup,3,3340.95,309.44
+PE01671,2026-06-02,Hyderabad,OTC Medicines,Cough Syrup 100ml,5,485.0,56.46
+PE00964,2026-05-01,Bengaluru,Wellness & Nutrition,Fish Oil Capsules,1,807.43,73.42
+PE01001,2026-05-16,Guntur,Prescription Medicines,Metformin 500mg,1,167.12,28.7
+PE00187,2026-04-25,Guntur,OTC Medicines,Cetirizine 10mg,3,136.77,12.91
+PE01389,2026-05-13,Bengaluru,Wellness & Nutrition,Multivitamin Tablets,5,5057.4,944.72
+PE01580,2026-06-04,Visakhapatnam,Prescription Medicines,Metformin 500mg,5,1086.7,193.37
+PE01725,2026-06-17,Hyderabad,Prescription Medicines,Atorvastatin 10mg,1,543.02,64.29
+PE00276,2026-04-16,Vijayawada,Prescription Medicines,Insulin Pen,1,152.94,12.79
+PE00916,2026-05-01,Guntur,Wellness & Nutrition,Calcium + D3 Tablets,4,4470.36,373.08
+PE01156,2026-05-08,Tirupati,Wellness & Nutrition,Fish Oil Capsules,3,2016.81,167.69
+PE01712,2026-06-12,Tirupati,Medical Devices,Digital BP Monitor,5,4522.05,515.35
+PE01008,2026-05-30,Hyderabad,Medical Devices,Pulse Oximeter,4,4749.88,
+PE01397,2026-05-25,Warangal,Wellness & Nutrition,Multivitamin Tablets,4,5471.76,751.89
+PE00251,2026-04-04,Hyderabad,Lab Tests,Vitamin D Test,1,1422.76,309.2
+PE00179,2026-04-18,Hyderabad,Personal Care,Baby Diaper Pack,4,513.88,85.18
+PE01627,2026-06-18,Vijayawada,OTC Medicines,Cetirizine 10mg,3,480.66,50.71
+PE00839,2026-05-12,Hyderabad,OTC Medicines,Paracetamol 500mg,5,687.3,148.56
+PE00224,2026-04-08,Hyderabad,OTC Medicines,Cough Syrup 100ml,3,165.15,13.33
+PE00080,2026-04-27,Vijayawada,Wellness & Nutrition,Immunity Booster Syrup,4,4916.12,725.66
+PE01566,2026-06-06,Guntur,Lab Tests,Vitamin D Test,2,1052.64,203.58
+PE01891,2026-06-18,Nellore,Lab Tests,Vitamin D Test,5,7245.8,708.98
+PE00961,2026-05-28,Warangal,Personal Care,Face Wash,5,1225.4,259.1
+PE00745,2026-05-06,Bengaluru,Prescription Medicines,Atorvastatin 10mg,2,964.32,94.72
+PE01571,2026-06-23,Nellore,Wellness & Nutrition,Fish Oil Capsules,1,725.77,157.4
+PE01782,2026-06-12,Karimnagar,OTC Medicines,Antacid Tablets,5,624.75,70.64
+PE01216,2026-05-25,Vijayawada,Personal Care,Baby Diaper Pack,5,648.75,84.68
+PE01182,2026-05-09,Warangal,Personal Care,Sunscreen SPF50,4,1188.68,209.83
+PE01726,2026-06-21,Guntur,OTC Medicines,Cough Syrup 100ml,5,393.75,61.98
+PE01422,2026-06-07,Vijayawada,OTC Medicines,Cetirizine 10mg,3,450.45,85.47
+PE01410,2026-06-13,Bengaluru,Medical Devices,Digital BP Monitor,3,1972.53,333.49
+PE01277,2026-05-02,Nellore,Wellness & Nutrition,Immunity Booster Syrup,3,2405.46,
+PE01832,2026-06-28,Bengaluru,OTC Medicines,Paracetamol 500mg,4,434.6,35.25
+PE01435,2026-06-20,Vijayawada,Prescription Medicines,Azithromycin 500mg,3,1803.6,349.67
+PE00511,2026-04-03,Bengaluru,Prescription Medicines,Azithromycin 500mg,5,1417.1,152.77
+PE00447,2026-04-02,Vijayawada,Prescription Medicines,Metformin 500mg,1,647.09,53.54
+PE00053,2026-04-11, BENGALURU,Prescription Medicines,Atorvastatin 10mg,5,2562.7,
+PE01585,2026-06-09,Warangal,Personal Care,Face Wash,5,1387.8,234.42
+PE00328,2026-04-29,Visakhapatnam,OTC Medicines,Cough Syrup 100ml,2,174.08,21.34
+PE00651,2026-04-06,Warangal,Prescription Medicines,Azithromycin 500mg,5,804.9,127.67
+PE01312,2026-05-08,Hyderabad,OTC Medicines,Paracetamol 500mg,4,644.56,81.93
+PE00021,2026-04-23,Guntur,Personal Care,Antiseptic Liquid,2,673.06,98.41
+PE01194,2026-05-05,Bengaluru,OTC Medicines,Cetirizine 10mg,2,162.94,20.0
+PE00550,2026-04-02,Guntur,Prescription Medicines,Azithromycin 500mg,3,1157.25,184.4
+PE01369,2026-05-22,Hyderabad,Prescription Medicines,Atorvastatin 10mg,1,641.16,118.65
+PE00059,2026-04-18,Guntur,OTC Medicines,ORS Sachet,3,194.49,35.7
+PE01526,2026-06-04,Warangal,OTC Medicines,Cough Syrup 100ml,1,48.42,10.34
+PE01289,2026-05-12,Guntur,Personal Care,Face Wash,2,201.48,
+PE00869,2026-05-03,Warangal,Personal Care,Antiseptic Liquid,5,2053.15,355.1
+PE00885,2026-05-30,Hyderabad,Medical Devices,Glucometer Kit,3,2986.86,406.56
+PE00860,2026-05-25,Hyderabad,Prescription Medicines,Amlodipine 5mg,5,1929.75,259.0
+PE01065,2026-05-02,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,2,1756.84,168.67
+PE01816,2026-06-04,Hyderabad,Prescription Medicines,Metformin 500mg,5,1117.6,230.87
+PE00733,2026-05-26,Warangal,OTC Medicines,Cetirizine 10mg,3,292.02,56.07
+PE00634,2026-04-25,Bengaluru,OTC Medicines,Antacid Tablets,2,205.52,31.53
+PE00680,2026-04-02,Warangal,OTC Medicines,Cetirizine 10mg,3,253.41,32.25
+PE01914,2026-06-06,Tirupati,Lab Tests,Vitamin D Test,5,3729.75,400.15
+PE00894,2026-05-14,Bengaluru,OTC Medicines,Cough Syrup 100ml,1,95.28,12.03
+PE01808,2026-06-26,Hyderabad,OTC Medicines,Paracetamol 500mg,1,215.32,
+PE01058,2026-05-18,Vijayawada,Prescription Medicines,Atorvastatin 10mg,2,996.02,174.13
+PE01605,2026-06-25,Tirupati,OTC Medicines,Cough Syrup 100ml,1,183.45,20.43
+PE01125,2026-05-06,Guntur,Personal Care,Antiseptic Liquid,1,375.46,65.08
+PE01651,2026-06-04,Tirupati,OTC Medicines,Cetirizine 10mg,1,145.05,25.16
+PE00015,2026-04-17,Hyderabad,Wellness & Nutrition,Immunity Booster Syrup,4,4716.6,745.68
+PE01472,2026-06-15,Tirupati,OTC Medicines,Paracetamol 500mg,1,194.86,24.13
+PE00998,2026-05-25,Tirupati,Wellness & Nutrition,Multivitamin Tablets,1,858.45,138.8
+PE01253,2026-05-04,Vijayawada,Wellness & Nutrition,Multivitamin Tablets,4,4097.52,335.21
+PE00602,2026-04-17,Karimnagar,OTC Medicines,Cough Syrup 100ml,3,436.74,63.86
+PE01229,2026-05-24,Warangal,Wellness & Nutrition,Whey Protein 1kg,1,1267.99,234.54
+PE01429,2026-06-24,Hyderabad,Personal Care,Hand Sanitizer 500ml,1,293.74,30.96
+PE00829,2026-05-04,Visakhapatnam,Personal Care,Face Wash,5,825.5,174.84
+PE01684,2026-06-26,Bengaluru,Medical Devices,Digital BP Monitor,5,10845.5,2051.04
+PE00931,2026-05-23,Visakhapatnam,Prescription Medicines,Metformin 500mg,1,560.44,55.29
+PE00560,2026-04-01,Bengaluru,Prescription Medicines,Atorvastatin 10mg,1,551.07,73.61
+PE01428,2026-06-20,Bengaluru,Personal Care,Antiseptic Liquid,2,162.94,
+PE01723,2026-06-23,Hyderabad,OTC Medicines,ORS Sachet,1,133.84,22.32
+PE00117,2026-04-04,Bengaluru,Personal Care,Baby Diaper Pack,3,1251.3,
+PE01092,2026-05-11,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,4,4048.96,862.74
+PE01459,2026-06-10,Vijayawada,OTC Medicines,Cetirizine 10mg,2,203.36,34.79
+PE01931,2026-06-25,Warangal,OTC Medicines,Cough Syrup 100ml,2,116.62,16.09
+PE01733,2026-06-17,Bengaluru,Prescription Medicines,Azithromycin 500mg,2,843.92,180.29
+PE01638,2026-06-14,Hyderabad,OTC Medicines,Cetirizine 10mg,5,728.5,95.83
+PE00481,2026-04-15,Hyderabad,Prescription Medicines,Metformin 500mg,5,3185.0,259.85
+PE01528,2026-06-03,Visakhapatnam,Personal Care,Hand Sanitizer 500ml,4,1423.72,152.7
+PE00057,2026-04-10,Karimnagar,Medical Devices,Thermometer,2,1602.28,220.27
+PE01021,2026-05-25,Bengaluru,Personal Care,Sunscreen SPF50,5,1070.15,195.84
+PE01160,2026-05-25,Karimnagar,Wellness & Nutrition,Fish Oil Capsules,2,1651.08,286.16
+PE00267,2026-04-10,Hyderabad,Prescription Medicines,Metformin 500mg,5,1553.45,330.56
+PE01899,2026-06-10,Visakhapatnam,OTC Medicines,Antacid Tablets,2,330.52,41.33
+PE00118,2026-04-23,Visakhapatnam,Prescription Medicines,Azithromycin 500mg,2,628.04,95.44
+PE00701,2026-05-13,Bengaluru,Prescription Medicines,Azithromycin 500mg,5,1488.5,163.42
+PE00084,2026-04-03,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,5,3647.95,558.33
+PE01515,2026-06-09,Tirupati,OTC Medicines,Paracetamol 500mg,4,782.24,117.06
+PE01425,2026-06-12,Vijayawada,Lab Tests,Full Body Checkup,1,955.62,180.44
+PE00432,2026-04-07,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,1,938.22,
+PE01496,2026-06-04,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,1,485.42,101.74
+PE01275,2026-05-21,Guntur,OTC Medicines,ORS Sachet,3,656.34,102.99
+PE00308,2026-04-24,Visakhapatnam,Prescription Medicines,Azithromycin 500mg,2,1025.74,108.09
+PE01898,2026-06-23,Warangal,OTC Medicines,Antacid Tablets,2,99.7,17.24
+PE01740,2026-06-20,Vijayawada,OTC Medicines,Paracetamol 500mg,2,102.18,10.79
+PE00619,2026-04-21,Guntur,Lab Tests,Vitamin D Test,3,4936.02,881.31
+PE00219,2026-04-01,Visakhapatnam,OTC Medicines,Antacid Tablets,1,49.85,4.1
+PE00504,2026-04-04,Hyderabad,OTC Medicines,ORS Sachet,3,378.0,
+PE00815,2026-05-10,Warangal,Prescription Medicines,Metformin 500mg,1,545.18,83.61
+PE01865,2026-06-24,Hyderabad,OTC Medicines,Cetirizine 10mg,4,602.84,75.38
+PE00940,2026-05-17,Guntur,Personal Care,Face Wash,4,1115.0,149.54
+PE01806,2026-06-19,Bengaluru,Prescription Medicines,Amlodipine 5mg,2,448.08,92.7
+PE00416,2026-04-03,Bengaluru,Medical Devices,Nebulizer,2,5781.32,864.62
+PE01680,2026-06-05,Vijayawada,OTC Medicines,ORS Sachet,3,659.61,62.95
+PE00669,2026-04-08,Bengaluru,Prescription Medicines,Atorvastatin 10mg,1,616.92,60.42
+PE01924,2026-06-16,Bengaluru,OTC Medicines,ORS Sachet,4,409.88,58.99
+PE01834,2026-06-02,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,2,1167.4,230.33
+PE00570,2026-04-21,Guntur,OTC Medicines,Paracetamol 500mg,5,779.3,108.31
+PE02081,2026-06-11,Visakhapatnam,Medical Devices,Thermometer,2,3473.16,757.2
+PE01248,2026-05-09,Bengaluru,OTC Medicines,Cough Syrup 100ml,1,145.1,23.19
+PE00579,2026-04-30,Vijayawada,OTC Medicines,Antacid Tablets,4,282.96,26.85
+PE00442,2026-04-24,Bengaluru,Personal Care,Face Wash,5,547.4,83.93
+PE00633,2026-04-05,Nellore,Personal Care,Hand Sanitizer 500ml,2,950.9,131.96
+PE00483,2026-04-24,Hyderabad,OTC Medicines,ORS Sachet,4,230.32,
+PE00648,2026-04-08,Vijayawada,OTC Medicines,Cetirizine 10mg,3,289.62,26.37
+PE01014,2026-05-25,Hyderabad,OTC Medicines,Cetirizine 10mg,1,59.31,7.1
+PE00092,2026-04-28,Vijayawada,OTC Medicines,Antacid Tablets,2,353.36,75.96
+PE00722,2026-05-13,Nellore,Wellness & Nutrition,Fish Oil Capsules,2,1877.84,272.54
+PE00589,2026-04-03,Bengaluru,Wellness & Nutrition,Calcium + D3 Tablets,5,6859.25,1479.37
+PE00107,2026-04-23,Hyderabad,Personal Care,Face Wash,5,2016.6,193.84
+PE00311,2026-04-06,Vijayawada,Prescription Medicines,Atorvastatin 10mg,4,1812.76,
+PE01763,2026-06-09,Karimnagar,Personal Care,Face Wash,1,389.6,36.36
+PE01930,2026-06-24,Vijayawada,OTC Medicines,Cough Syrup 100ml,2,149.14,24.96
+PE01595,2026-06-16,Guntur,Prescription Medicines,Atorvastatin 10mg,5,2790.75,399.24
+PE00546,2026-04-22,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,3,2272.98,196.04
+PE02034,2026-06-20,Hyderabad,Prescription Medicines,Amlodipine 5mg,1,459.84,99.84
+PE02094,2026-06-05,Bengaluru,OTC Medicines,Cetirizine 10mg,1,114.12,19.28
+PE00379,2026-04-09,Visakhapatnam,Medical Devices,Glucometer Kit,4,4567.96,
+PE01084,2026-05-28,Warangal,Prescription Medicines,Amlodipine 5mg,4,1191.52,213.06
+PE01193,2026-05-26,Tirupati,Wellness & Nutrition,Whey Protein 1kg,3,2212.8,
+PE00205,2026-04-15,Guntur,OTC Medicines,Cetirizine 10mg,1,61.83,11.35
+PE00621,2026-04-29,Vijayawada,OTC Medicines,ORS Sachet,1,61.85,10.36
+PE01596,2026-06-06,Hyderabad,OTC Medicines,Paracetamol 500mg,5,577.05,53.89
+PE02001,2026-06-06,Tirupati,OTC Medicines,Cough Syrup 100ml,5,461.4,94.98
+PE00207,2026-04-10,Warangal,Prescription Medicines,Azithromycin 500mg,4,2199.36,347.21
+PE00326,2026-04-21,Vijayawada,Lab Tests,Vitamin D Test,5,3336.7,661.59
+PE00853,2026-05-01,Hyderabad,Prescription Medicines,Amlodipine 5mg,4,786.32,99.02
+PE02064,2026-06-11,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,1,387.29,82.23
+PE01213,2026-05-31,Nellore,Prescription Medicines,Metformin 500mg,3,1088.37,110.93
+PE00855,2026-05-27,Hyderabad,Wellness & Nutrition,Immunity Booster Syrup,2,2453.14,473.96
+PE00751,2026-05-16,Hyderabad,OTC Medicines,Cetirizine 10mg,1,218.6,43.46
+PE01609,2026-06-05,Bengaluru,Personal Care,Sunscreen SPF50,1,256.46,33.13
+PE00491,2026-04-28,Tirupati,Personal Care,Baby Diaper Pack,1,103.82,12.83
+PE00578,2026-04-26,Bengaluru,OTC Medicines,Cough Syrup 100ml,2,201.12,32.69
+PE01395,2026-05-18,Guntur,Personal Care,Hand Sanitizer 500ml,1,385.41,62.3
+PE01646,2026-06-06,Karimnagar,Personal Care,Baby Diaper Pack,4,1574.2,193.98
+PE00898,2026-05-13,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,3,4061.64,622.48
+PE00620,2026-04-07,Guntur,OTC Medicines,Paracetamol 500mg,5,637.7,76.56
+PE00802,2026-05-18,bengaluru ,Wellness & Nutrition,Fish Oil Capsules,4,2477.08,229.22
+PE00253,2026-04-08,Hyderabad,Medical Devices,Glucometer Kit,2,4290.34,386.9
+PE00938,2026-05-21,Bengaluru,OTC Medicines,Paracetamol 500mg,4,435.16,34.83
+PE01932,2026-06-06,Visakhapatnam,Wellness & Nutrition,Fish Oil Capsules,3,3968.58,495.38
+PE00776,2026-05-28,Hyderabad,Wellness & Nutrition,Immunity Booster Syrup,3,1494.84,250.08
+PE01373,2026-05-30,Bengaluru,Prescription Medicines,Metformin 500mg,4,399.84,59.15
+PE00818,2026-05-12,Bengaluru,Medical Devices,Thermometer,2,1539.74,264.6
+PE01906,2026-06-13,Karimnagar,Personal Care,Sunscreen SPF50,1,358.36,75.96
+PE01809,2026-06-19,Guntur,Personal Care,Sunscreen SPF50,1,226.95,29.13
+PE01730,2026-06-21,Hyderabad,Medical Devices,Digital BP Monitor,4,5179.52,616.63
+PE01168,2026-05-23, BENGALURU,OTC Medicines,ORS Sachet,1,43.21,
+PE01385,2026-05-09,Hyderabad,Prescription Medicines,Insulin Pen,3,1123.8,210.35
+PE01717,2026-06-17,Vijayawada,Medical Devices,Pulse Oximeter,1,846.52,91.25
+PE00431,2026-04-25,Nellore,Prescription Medicines,Insulin Pen,5,2106.75,422.96
+PE00807,2026-05-24,Nellore,OTC Medicines,Cetirizine 10mg,5,397.6,77.65
+PE00803,2026-05-14,Bengaluru,Prescription Medicines,Metformin 500mg,2,1267.16,229.69
+PE00713,2026-05-12,Hyderabad,OTC Medicines,Cough Syrup 100ml,4,617.28,75.75
+PE00638,2026-04-19,Guntur,Prescription Medicines,Azithromycin 500mg,4,1215.6,166.3
+PE01833,2026-06-21,Hyderabad,Medical Devices,Nebulizer,4,1900.12,294.47
+PE01670,2026-06-19,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,1,844.98,156.94
+PE00166,2026-04-20,Vijayawada,OTC Medicines,Cetirizine 10mg,5,912.1,105.93
+PE01334,2026-05-27,Vijayawada,Personal Care,Face Wash,2,298.58,52.92
+PE00889,2026-05-24,Tirupati,OTC Medicines,Cetirizine 10mg,5,787.55,80.22
+PE00571,2026-04-14,Tirupati,Medical Devices,Glucometer Kit,3,3447.24,749.06
+PE01838,2026-06-25,Bengaluru,Wellness & Nutrition,Whey Protein 1kg,4,3395.64,686.43
+PE01376,2026-05-21,Warangal,Medical Devices,Pulse Oximeter,2,1001.8,113.17
+PE01517,2026-06-14,Tirupati,Wellness & Nutrition,Calcium + D3 Tablets,4,3116.92,604.47
+PE01179,2026-05-14,Vijayawada,OTC Medicines,Antacid Tablets,1,54.25,4.89
+PE00919,2026-05-27,Nellore,Lab Tests,Lipid Profile,2,2425.28,402.41
+PE01002,2026-05-26,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,1,724.47,158.33
+PE01010,2026-05-18,VIJAYAWADA,Prescription Medicines,Azithromycin 500mg,2,397.64,
+PE00668,2026-04-23,Hyderabad,OTC Medicines,Paracetamol 500mg,2,213.02,43.24
+PE00143,2026-04-15,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,5,1948.55,217.92
+PE01232,2026-05-09,Nellore,Prescription Medicines,Insulin Pen,1,372.96,65.22
+PE01363,2026-05-20,Hyderabad,Prescription Medicines,Insulin Pen,1,566.57,94.68
+PE00972,2026-05-12,Guntur,Lab Tests,Lipid Profile,3,3163.8,340.64
+PE01138,2026-05-04,Karimnagar,Medical Devices,Pulse Oximeter,1,2696.67,480.13
+PE02028,2026-06-01,Hyderabad,OTC Medicines,Cetirizine 10mg,2,81.16,11.26
+PE00049,2026-04-25,Vijayawada,Prescription Medicines,Amlodipine 5mg,4,1844.2,347.61
+PE01925,2026-06-06,Bengaluru,Personal Care,Hand Sanitizer 500ml,5,632.35,65.25
+PE01895,2026-06-27,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,1,1227.85,180.09
+PE00146,2026-04-07,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,2,2774.52,336.34
+PE00643,2026-04-11,Visakhapatnam,,Cough Syrup 100ml,1,49.1,7.56
+PE01841,2026-06-14,Guntur,OTC Medicines,Cough Syrup 100ml,5,241.3,34.01
+PE01216,2026-05-25,Vijayawada,Personal Care,Baby Diaper Pack,5,648.75,84.68
+PE01314,2026-05-31,Hyderabad,Personal Care,Face Wash,2,956.28,99.8
+PE01588,2026-06-11,Bengaluru,Wellness & Nutrition,Multivitamin Tablets,3,1343.07,183.24
+PE00388,2026-04-04,Nellore,Wellness & Nutrition,Fish Oil Capsules,4,2426.08,363.38
+PE01342,2026-05-22,Bengaluru,OTC Medicines,Antacid Tablets,1,184.39,40.38
+PE01604,2026-06-29,Guntur,Prescription Medicines,Insulin Pen,3,657.39,105.58
+PE00292,2026-04-11,Tirupati,Personal Care,Face Wash,1,548.57,49.32
+PE00318,2026-04-17,Bengaluru,Personal Care,Sunscreen SPF50,1,422.84,88.6
+PE02065,2026-06-08,Bengaluru,Personal Care,Antiseptic Liquid,1,363.97,31.65
+PE02054,2026-06-09,Hyderabad,OTC Medicines,Paracetamol 500mg,2,281.78,46.07
+PE00171,2026-04-27,Nellore,Prescription Medicines,Atorvastatin 10mg,5,1315.1,
+PE00783,2026-05-26,Warangal,Personal Care,Sunscreen SPF50,4,1731.88,337.67
+PE01722,2026-06-24,Tirupati,Wellness & Nutrition,Calcium + D3 Tablets,1,1278.04,170.83
+PE00365,2026-04-17,Nellore,Prescription Medicines,Metformin 500mg,1,408.7,63.47
+PE00530,2026-04-03,Warangal,,Cetirizine 10mg,2,242.24,45.38
+PE00299,2026-04-23,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,3,3988.83,491.44
+PE00443,2026-04-29,Vijayawada,Medical Devices,Glucometer Kit,1,534.75,50.56
+PE00254,2026-04-28,Vijayawada,Prescription Medicines,Insulin Pen,5,2285.1,496.56
+PE01952,2026-06-22,Visakhapatnam,Prescription Medicines,Insulin Pen,2,612.54,116.7
+PE00385,2026-04-15,Vijayawada,Prescription Medicines,Metformin 500mg,5,2430.9,292.27
+PE00684,2026-04-08,Hyderabad,Personal Care,Hand Sanitizer 500ml,1,373.5,49.69
+PE01939,2026-06-01,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,2,605.74,95.52
+PE00324,2026-04-13,Visakhapatnam,Wellness & Nutrition,Calcium + D3 Tablets,1,813.45,117.28
+PE00407,2026-04-08,Guntur,Medical Devices,Glucometer Kit,3,1771.41,361.2
+PE01354,2026-05-02,Warangal,Prescription Medicines,Metformin 500mg,3,1132.08,152.44
+PE00209,2026-04-09,Guntur,Personal Care,Antiseptic Liquid,3,1619.58,183.71
+PE00556,2026-04-12,Hyderabad,OTC Medicines,ORS Sachet,3,456.06,55.93
+PE01019,2026-05-09,bengaluru ,OTC Medicines,Paracetamol 500mg,1,101.59,17.82
+PE00419,2026-04-09,Vijayawada,Wellness & Nutrition,Multivitamin Tablets,3,3758.43,
+PE00761,2026-05-06,Warangal,Wellness & Nutrition,Whey Protein 1kg,1,484.38,77.08
+PE01409,2026-06-11,Hyderabad,OTC Medicines,Antacid Tablets,1,114.95,24.79
+PE01779,2026-06-05,Nellore,Wellness & Nutrition,Fish Oil Capsules,1,340.38,30.4
+PE00109,2026-04-24,Bengaluru,Personal Care,Face Wash,3,801.6,117.61
+PE01423,2026-06-01,Guntur,Wellness & Nutrition,Whey Protein 1kg,1,714.92,111.33
+PE00149,2026-04-12,Visakhapatnam,Lab Tests,Vitamin D Test,4,2958.36,447.35
+PE01815,2026-06-26,Warangal,Personal Care,Baby Diaper Pack,1,308.27,54.25
+PE01411,2026-06-02,Warangal,,Insulin Pen,2,1243.82,238.13
+PE01637,2026-06-29,Tirupati,OTC Medicines,Antacid Tablets,4,476.92,86.21
+PE00582,2026-04-25, hyderabad,OTC Medicines,Antacid Tablets,5,972.2,209.67
+PE00976,2026-05-24,Vijayawada,OTC Medicines,Cough Syrup 100ml,2,411.18,63.82
+PE01396,2026-05-26,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,5,1300.55,142.46
+PE01742,2026-06-06,Vijayawada,Prescription Medicines,Azithromycin 500mg,2,368.26,58.75
+PE01450,2026-06-04,Hyderabad,Prescription Medicines,Atorvastatin 10mg,4,1752.96,303.12
+PE00786,2026-05-15,Hyderabad,Personal Care,Antiseptic Liquid,2,242.18,45.68
+PE00297,2026-04-29,Nellore,Wellness & Nutrition,Whey Protein 1kg,4,3353.04,692.37
+PE01158,2026-05-02,Warangal,Personal Care,Baby Diaper Pack,2,196.76,23.37
+PE02019,2026-06-20,Visakhapatnam,OTC Medicines,ORS Sachet,5,963.3,161.04
+PE01080,2026-05-28,Bengaluru,Prescription Medicines,Metformin 500mg,5,1912.15,173.16
+PE00159,2026-04-11,Bengaluru,OTC Medicines,Cetirizine 10mg,3,604.65,56.56
+PE00689,2026-04-15,Visakhapatnam,Prescription Medicines,Azithromycin 500mg,4,874.36,77.27
+PE01454,2026-06-04,Vijayawada,Personal Care,Face Wash,2,498.2,97.12
+PE02044,2026-06-05,Warangal,Personal Care,Baby Diaper Pack,2,450.8,62.4
+PE01211,2026-05-27,Guntur,Wellness & Nutrition,Whey Protein 1kg,5,4623.35,450.73
+PE02021,2026-06-12,Bengaluru,OTC Medicines,Cough Syrup 100ml,3,307.89,66.14
+PE00275,2026-04-02,Warangal,Prescription Medicines,Amlodipine 5mg,5,2202.85,449.4
+PE00040,2026-04-03,Bengaluru,OTC Medicines,ORS Sachet,1,114.1,23.47
+PE01356,2026-05-01,Vijayawada,Prescription Medicines,Insulin Pen,2,448.78,90.62
+PE00361,2026-04-17,Warangal,Prescription Medicines,Azithromycin 500mg,1,266.91,40.85
+PE00922,2026-05-12,Vijayawada,OTC Medicines,Cetirizine 10mg,4,273.6,34.95
+PE01904,2026-06-02,Hyderabad,Lab Tests,Lipid Profile,5,2534.85,281.31
+PE01153,2026-05-22,Bengaluru,Prescription Medicines,Amlodipine 5mg,2,444.12,92.69
+PE01414,2026-06-25,Hyderabad,OTC Medicines,Cetirizine 10mg,3,202.77,31.33
+PE01221,2026-05-31,Bengaluru,Personal Care,Sunscreen SPF50,4,2010.4,312.91
+PE01920,2026-06-06,Hyderabad,Personal Care,Face Wash,1,181.15,15.56
+PE00581,2026-04-26,Visakhapatnam,Personal Care,Antiseptic Liquid,2,294.66,28.3
+PE00152,2026-04-10,Tirupati,Prescription Medicines,Insulin Pen,4,865.84,153.05
+PE01752,2026-06-06,HYDERABAD ,Personal Care,Sunscreen SPF50,4,1055.84,178.31
+PE00926,2026-05-03,Guntur,Medical Devices,Pulse Oximeter,2,5529.0,564.52
+PE00868,2026-05-08,Vijayawada,Personal Care,Face Wash,4,1921.56,316.1
+PE00463,2026-04-24,Tirupati,Prescription Medicines,Atorvastatin 10mg,2,754.32,96.24
+PE01284,2026-05-17,Bengaluru,Prescription Medicines,Amlodipine 5mg,5,1005.05,110.02
+PE01644,2026-06-28,Nellore,Medical Devices,Digital BP Monitor,5,14211.35,2767.96
+PE01501,2026-06-30,Nellore,OTC Medicines,Paracetamol 500mg,5,225.75,38.33
+PE00346,2026-04-29,Warangal,OTC Medicines,ORS Sachet,1,54.06,9.46
+PE00543,2026-04-06,Vijayawada,Personal Care,Hand Sanitizer 500ml,5,744.2,76.99
+PE01016,2026-05-27,Warangal,Personal Care,Antiseptic Liquid,5,2186.6,388.79
+PE00098,2026-04-05,Hyderabad,Personal Care,Hand Sanitizer 500ml,3,1597.98,282.86
+PE01368,2026-05-19,Nellore,OTC Medicines,Paracetamol 500mg,1,138.72,14.49
+PE01014,2026-05-25,Hyderabad,OTC Medicines,Cetirizine 10mg,1,59.31,7.1
+PE00545,2026-04-19,Tirupati,Prescription Medicines,Amlodipine 5mg,1,513.43,65.69
+PE00687,2026-04-02,Nellore,Wellness & Nutrition,Fish Oil Capsules,1,997.5,119.69
+PE01036,2026-05-23,Hyderabad,Prescription Medicines,Insulin Pen,1,549.96,62.09
+PE01700,2026-06-10,Vijayawada,Wellness & Nutrition,Fish Oil Capsules,3,3923.7,839.99
+PE00700,2026-04-08,Tirupati,Prescription Medicines,Insulin Pen,5,1276.05,240.44
+PE01353,2026-05-13,Visakhapatnam,OTC Medicines,ORS Sachet,5,988.5,214.1
+PE00900,2026-05-19,Hyderabad,Personal Care,Antiseptic Liquid,5,1202.15,208.04
+PE00101,2026-04-05,Hyderabad,Wellness & Nutrition,Immunity Booster Syrup,3,1252.47,189.31
+PE00022,2026-04-10,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,1,730.45,74.81
+PE01619,2026-06-09,Tirupati,OTC Medicines,Cetirizine 10mg,1,144.27,19.54
+PE01304,2026-05-03,Guntur,Wellness & Nutrition,Multivitamin Tablets,4,4898.6,424.26
+PE01362,2026-05-17,Warangal,OTC Medicines,Cetirizine 10mg,1,72.11,13.68
+PE01902,2026-06-26,Tirupati,Prescription Medicines,Azithromycin 500mg,3,646.08,
+PE01749,2026-06-02,Bengaluru,OTC Medicines,ORS Sachet,1,183.51,21.8
+PE00808,2026-05-02,Bengaluru,OTC Medicines,ORS Sachet,2,387.38,57.98
+PE00908,2026-05-26,Warangal,OTC Medicines,Paracetamol 500mg,2,175.54,35.87
+PE01616,2026-06-21,Tirupati,Wellness & Nutrition,Immunity Booster Syrup,3,773.46,161.96
+PE02020,2026-06-18,Bengaluru,Prescription Medicines,Metformin 500mg,2,1199.56,258.8
+PE00139,2026-04-22,Warangal,Prescription Medicines,Insulin Pen,5,953.0,175.84
+PE01760,2026-06-10,Tirupati,OTC Medicines,Cough Syrup 100ml,5,630.6,128.41
+PE01013,2026-05-08,Hyderabad,OTC Medicines,ORS Sachet,1,83.14,8.76
+PE01535,2026-06-15,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,3,1422.54,155.16
+PE00531,2026-04-02,Guntur,Prescription Medicines,Azithromycin 500mg,1,137.72,
+PE02084,2026-06-19,Guntur,Personal Care,Face Wash,4,1031.44,226.32
+PE00274,2026-04-17,Warangal,OTC Medicines,Antacid Tablets,2,96.02,20.4
+PE01261,2026-05-24,Nellore,Personal Care,Baby Diaper Pack,5,437.0,94.68
+PE00756,2026-05-24,Nellore,Wellness & Nutrition,Calcium + D3 Tablets,4,4201.12,896.79
+PE01256,2026-05-18,Hyderabad,OTC Medicines,Paracetamol 500mg,2,322.42,49.81
+PE00294,2026-04-10,Bengaluru,Personal Care,Baby Diaper Pack,3,1282.47,267.34
+PE00616,2026-04-12,Bengaluru,OTC Medicines,Paracetamol 500mg,3,352.08,71.56
+PE00001,2026-04-21,Hyderabad,Prescription Medicines,Insulin Pen,1,585.11,120.11
+PE01953,2026-06-22,Vijayawada,OTC Medicines,Antacid Tablets,1,165.96,23.81
+PE00836,2026-05-21,Warangal,Prescription Medicines,Amlodipine 5mg,5,1026.3,216.46
+PE00891,2026-05-05,Hyderabad,Personal Care,Hand Sanitizer 500ml,2,976.56,211.05
+PE00304,2026-04-16,Hyderabad,OTC Medicines,Cetirizine 10mg,2,157.58,21.04
+PE00517,2026-04-02,Bengaluru,Personal Care,Baby Diaper Pack,2,329.62,66.86
+PE01204,2026-05-20,Karimnagar,OTC Medicines,Cough Syrup 100ml,5,250.1,30.34
+PE01218,2026-05-20,Nellore,Prescription Medicines,Insulin Pen,3,1768.11,251.94
+PE00732,2026-05-13,Tirupati,Prescription Medicines,Atorvastatin 10mg,3,1210.32,234.49
+PE01365,2026-05-13,Vijayawada,Lab Tests,Vitamin D Test,5,8112.5,964.98
+PE00094,2026-04-17,Hyderabad,OTC Medicines,Cough Syrup 100ml,5,313.85,34.39
+PE00250,2026-04-28,Warangal,Prescription Medicines,Azithromycin 500mg,3,1714.47,145.32
+PE01298,2026-05-11,Tirupati,OTC Medicines,Cough Syrup 100ml,1,195.36,30.92
+PE00695,2026-04-06,Hyderabad,Personal Care,Hand Sanitizer 500ml,1,509.64,49.49
+PE01178,2026-05-16,Hyderabad,Personal Care,Face Wash,4,336.16,58.57
+PE00291,2026-04-07,Visakhapatnam,Prescription Medicines,Azithromycin 500mg,3,818.1,114.68
+PE00980,2026-05-14,Hyderabad,,Digital BP Monitor,5,7420.7,702.31
+PE00755,2026-05-06,Bengaluru,OTC Medicines,Cetirizine 10mg,1,50.03,9.64
+PE01479,2026-06-12,Tirupati,Medical Devices,Pulse Oximeter,5,5669.3,693.87
+PE00188,2026-04-03,Visakhapatnam,OTC Medicines,Cough Syrup 100ml,1,106.07,18.44
+PE00797,2026-05-26,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,1,600.58,87.43
+PE00141,2026-04-17,Visakhapatnam,Lab Tests,Lipid Profile,4,2233.56,218.45
+PE00629,2026-04-09,Vijayawada,Prescription Medicines,Amlodipine 5mg,3,1359.87,179.35
+PE01080,2026-05-28,Bengaluru,Prescription Medicines,Metformin 500mg,5,1912.15,173.16
+PE00915,2026-05-28,Vijayawada,Prescription Medicines,Metformin 500mg,2,253.68,24.16
+PE00649,2026-04-02,Hyderabad,Prescription Medicines,Amlodipine 5mg,2,209.62,20.63
+PE01926,2026-06-20,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,3,3787.47,468.92
+PE00204,2026-04-04,Nellore,Prescription Medicines,Atorvastatin 10mg,3,467.97,65.13
+PE01989,2026-06-02,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,5,6714.6,623.86
+PE00580,2026-04-16,Bengaluru,Personal Care,Antiseptic Liquid,1,485.44,48.33
+PE01007,2026-05-10,Hyderabad,OTC Medicines,Cetirizine 10mg,5,203.1,44.35
+PE01608,2026-06-08,Visakhapatnam,Wellness & Nutrition,Whey Protein 1kg,1,670.35,74.51
+PE01123,2026-05-23,Karimnagar,Prescription Medicines,Azithromycin 500mg,3,739.95,100.58
+PE01504,2026-06-29,Tirupati,Medical Devices,Thermometer,5,6968.45,1421.35
+PE01949,2026-06-13, BENGALURU,Wellness & Nutrition,Fish Oil Capsules,5,3920.15,712.72
+PE00525,2026-04-02,Hyderabad,Medical Devices,Thermometer,3,5193.0,1112.84
+PE02043,2026-06-17,Hyderabad,Medical Devices,Glucometer Kit,1,719.81,97.03
+PE01967,2026-06-05,Nellore,Lab Tests,Vitamin D Test,4,6589.6,857.26
+PE01309,2026-05-14,Karimnagar,OTC Medicines,Cetirizine 10mg,3,371.46,79.75
+PE00503,2026-04-18,Hyderabad,OTC Medicines,Cough Syrup 100ml,4,854.16,143.56
+PE00627,2026-04-21,Bengaluru,Personal Care,Hand Sanitizer 500ml,5,1765.85,365.89
+PE01120,2026-05-18,Bengaluru,Medical Devices,Thermometer,5,4326.85,380.52
+PE00652,2026-04-19,Vijayawada,Prescription Medicines,Amlodipine 5mg,4,828.92,75.89
+PE02038,2026-06-28,Visakhapatnam,OTC Medicines,Antacid Tablets,1,184.07,36.96
+PE00123,2026-04-26,Bengaluru,OTC Medicines,ORS Sachet,2,291.16,45.9
+PE00112,2026-04-15,Guntur,,Sunscreen SPF50,4,970.36,189.83
+PE00438,2026-04-20,Visakhapatnam,OTC Medicines,Paracetamol 500mg,5,397.7,82.72
+PE01039,2026-05-16,Bengaluru,Wellness & Nutrition,Fish Oil Capsules,3,3074.22,395.7
+PE01850,2026-06-11,Bengaluru,Medical Devices,Thermometer,1,1348.23,246.66
+PE01108,2026-05-13,Warangal,OTC Medicines,Antacid Tablets,3,405.99,78.96
+PE01135,2026-05-20,Vijayawada,Personal Care,Antiseptic Liquid,3,1510.98,170.39
+PE00052,2026-04-27,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,2,1771.86,303.04
+PE00644,2026-04-24,Hyderabad,Prescription Medicines,Insulin Pen,5,2012.15,365.26
+PE00108,2026-04-01,Hyderabad,Prescription Medicines,Azithromycin 500mg,5,3168.8,541.06
+PE01971,2026-06-10,Tirupati,Prescription Medicines,Insulin Pen,4,1336.72,166.87
+PE01274,2026-05-20,Bengaluru,OTC Medicines,Cough Syrup 100ml,2,391.74,68.45
+PE00956,2026-05-09,Hyderabad,Lab Tests,Lipid Profile,2,901.42,78.83
+PE00418,2026-04-28,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,2,963.48,202.18
+PE00150,2026-04-10,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,2,2449.76,425.82
+PE01554,2026-06-25,Hyderabad,Prescription Medicines,Insulin Pen,3,1150.2,164.14
+PE01222,2026-05-02,Bengaluru,Personal Care,Hand Sanitizer 500ml,1,179.48,37.33
+PE01210,2026-05-14,Hyderabad,OTC Medicines,Antacid Tablets,5,825.95,89.8
+PE00959,2026-05-12,Hyderabad,Wellness & Nutrition,Immunity Booster Syrup,1,819.17,109.47
+PE02070,2026-06-11,Guntur,Wellness & Nutrition,Multivitamin Tablets,4,2857.24,493.03
+PE01903,2026-06-28,Bengaluru,OTC Medicines,ORS Sachet,1,215.54,21.49
+PE01159,2026-05-02,Vijayawada,Personal Care,Baby Diaper Pack,3,726.63,83.52
+PE01223,2026-05-23,Visakhapatnam,OTC Medicines,Paracetamol 500mg,2,304.04,40.67
+PE00736,2026-05-19,Guntur,Wellness & Nutrition,Calcium + D3 Tablets,5,3734.3,379.74
+PE01959,2026-06-14,Nellore,OTC Medicines,Cough Syrup 100ml,4,784.8,65.94
+PE00227,2026-04-06,Visakhapatnam,Prescription Medicines,Atorvastatin 10mg,5,1135.45,97.97
+PE01659,2026-06-24,Hyderabad,OTC Medicines,Antacid Tablets,5,612.35,49.69
+PE02071,2026-06-08,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,240.66,43.2
+PE01819,2026-06-10,Karimnagar,Personal Care,Sunscreen SPF50,3,1062.42,97.44
+PE01189,2026-05-21,Vijayawada,Prescription Medicines,Insulin Pen,4,1482.52,139.71
+PE00333,2026-04-03,Nellore,Prescription Medicines,Insulin Pen,1,152.23,32.21
+PE00123,2026-04-26,Bengaluru,OTC Medicines,ORS Sachet,2,291.16,45.9
+PE01088,2026-05-21,Hyderabad,OTC Medicines,Cough Syrup 100ml,5,917.35,119.33
+PE01096,2026-05-03,Tirupati,OTC Medicines,Paracetamol 500mg,3,208.38,34.7
+PE01801,2026-06-18,Warangal,OTC Medicines,Cetirizine 10mg,3,320.58,31.08
+PE02059,2026-06-11,Karimnagar,OTC Medicines,ORS Sachet,5,1057.6,179.35
+PE00127,2026-04-27,Nellore,Prescription Medicines,Azithromycin 500mg,5,2215.35,187.98
+PE00065,2026-04-06,Vijayawada,Personal Care,Baby Diaper Pack,5,469.35,58.22
+PE01612,2026-06-08,Bengaluru,Prescription Medicines,Atorvastatin 10mg,2,340.2,37.23
+PE00027,2026-04-11,Guntur,OTC Medicines,Antacid Tablets,4,590.72,103.37
+PE00896,2026-05-25,Karimnagar,Lab Tests,Thyroid Profile,5,2543.4,482.76
+PE00196,2026-04-10,Karimnagar,OTC Medicines,ORS Sachet,3,190.71,40.4
+PE01878,2026-06-25,Guntur,Prescription Medicines,Azithromycin 500mg,2,236.1,33.23
+PE01662,2026-06-12,Bengaluru,OTC Medicines,ORS Sachet,2,85.6,15.86
+PE01490,2026-06-27,Tirupati,Wellness & Nutrition,Whey Protein 1kg,2,825.8,
+PE02013,2026-06-08,Warangal,Wellness & Nutrition,Calcium + D3 Tablets,3,1811.94,154.13
+PE01545,2026-06-18,Nellore,OTC Medicines,Cough Syrup 100ml,1,182.33,21.54
+PE00114,2026-04-19,Hyderabad,,Immunity Booster Syrup,1,694.17,118.26
+PE00873,2026-05-26,Nellore,Prescription Medicines,Metformin 500mg,1,464.14,83.43
+PE00813,2026-05-17,Bengaluru,Personal Care,Sunscreen SPF50,2,294.46,48.38
+PE01118,2026-05-09,Bengaluru,Personal Care,Hand Sanitizer 500ml,5,750.1,102.98
+PE00048,2026-04-21,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,3,849.33,136.69
+PE01127,2026-05-08,Bengaluru,OTC Medicines,Cough Syrup 100ml,1,139.9,28.82
+PE01655,2026-06-04,Warangal,Wellness & Nutrition,Whey Protein 1kg,3,3460.65,733.12
+PE00667,2026-04-17,Warangal,Prescription Medicines,Azithromycin 500mg,2,756.02,157.08
+PE01639,2026-06-04,bengaluru ,Wellness & Nutrition,Multivitamin Tablets,1,712.61,120.34
+PE00157,2026-04-07,Bengaluru,OTC Medicines,Antacid Tablets,3,136.77,12.56
+PE00799,2026-05-29,Guntur,OTC Medicines,ORS Sachet,2,348.18,73.88
+PE01643,2026-06-10,Vijayawada,Medical Devices,Glucometer Kit,1,1557.87,265.31
+PE00360,2026-04-23,Nellore,OTC Medicines,Cetirizine 10mg,5,598.85,48.84
+PE01915,2026-06-23,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,3,2558.52,297.41
+PE01331,2026-05-17,Hyderabad,Personal Care,Sunscreen SPF50,3,1017.39,215.3
+PE00106,2026-04-16,Visakhapatnam,Lab Tests,Lipid Profile,1,1630.19,178.58
+PE01962,2026-06-09,Tirupati,OTC Medicines,Cetirizine 10mg,4,477.2,86.5
+PE01111,2026-05-23,Bengaluru,Personal Care,Baby Diaper Pack,2,889.32,156.61
+PE00820,2026-05-05,Hyderabad,OTC Medicines,Paracetamol 500mg,2,279.62,23.41
+PE00917,2026-05-12,Guntur,OTC Medicines,Cetirizine 10mg,3,356.13,74.91
+PE02079,2026-06-19,Karimnagar,OTC Medicines,ORS Sachet,4,579.0,98.75
+PE01285,2026-05-05,Nellore,Prescription Medicines,Amlodipine 5mg,4,2321.12,441.43
+PE00309,2026-04-03,Warangal,Lab Tests,HbA1c Test,5,7626.6,1060.19
+PE01693,2026-06-23,Vijayawada,Prescription Medicines,Azithromycin 500mg,4,1855.96,351.25
+PE00988,2026-05-10,Tirupati,Personal Care,Baby Diaper Pack,4,1267.64,103.75
+PE01969,2026-06-16,Karimnagar,Medical Devices,Thermometer,3,2472.6,389.51
+PE01664,2026-06-15,Visakhapatnam,Wellness & Nutrition,Calcium + D3 Tablets,2,1798.54,208.98
+PE00467,2026-04-14,Warangal,Personal Care,Face Wash,2,791.0,118.78
+PE00600,2026-04-20,Nellore,OTC Medicines,Cetirizine 10mg,5,633.95,133.77
+PE00639,2026-04-15,Bengaluru,Personal Care,Face Wash,2,312.92,59.22
+PE01344,2026-05-05,Vijayawada,Lab Tests,Thyroid Profile,3,2474.79,434.2
+PE01912,2026-06-16, hyderabad,Prescription Medicines,Amlodipine 5mg,4,1412.4,152.86
+PE00679,2026-04-16,Hyderabad,Lab Tests,HbA1c Test,4,6728.28,1062.43
+PE01982,2026-06-26,Karimnagar,Wellness & Nutrition,Immunity Booster Syrup,4,2644.08,565.51
+PE00289,2026-04-21,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,5,3400.6,565.22
+PE01882,2026-06-12,Bengaluru,Medical Devices,Thermometer,2,3337.36,294.34
+PE01215,2026-05-16,Tirupati,Personal Care,Hand Sanitizer 500ml,5,667.05,93.63
+PE01245,2026-05-19,Guntur,Wellness & Nutrition,Whey Protein 1kg,1,254.8,34.23
+PE00426,2026-04-25,Hyderabad,OTC Medicines,ORS Sachet,5,877.45,100.2
+PE00757,2026-05-15,Guntur,Wellness & Nutrition,Fish Oil Capsules,2,1381.82,287.67
+PE01055,2026-05-30,Bengaluru,Wellness & Nutrition,Multivitamin Tablets,3,4091.88,658.58
+PE00348,2026-04-30,Warangal,Medical Devices,Thermometer,1,854.99,165.29
+PE01695,2026-06-30,Warangal,OTC Medicines,Paracetamol 500mg,5,742.05,93.57
+PE00609,2026-04-03,Visakhapatnam,OTC Medicines,ORS Sachet,4,192.92,39.04
+PE00793,2026-05-01,Bengaluru,OTC Medicines,Paracetamol 500mg,2,398.76,56.92
+PE01047,2026-05-19,Guntur,Medical Devices,Pulse Oximeter,3,3090.39,527.47
+PE00844,2026-05-21,Guntur,Wellness & Nutrition,Immunity Booster Syrup,1,1196.87,165.17
+PE01934,2026-06-20,Guntur,Prescription Medicines,Amlodipine 5mg,2,397.42,41.33
+PE00223,2026-04-29,Visakhapatnam,Wellness & Nutrition,Multivitamin Tablets,4,5445.32,740.41
+PE02073,2026-06-13,Hyderabad,Lab Tests,HbA1c Test,1,1309.96,124.66
+PE00717,2026-05-04,Vijayawada,Prescription Medicines,Metformin 500mg,2,244.8,46.48
+PE01988,2026-06-18,Warangal,Prescription Medicines,Metformin 500mg,5,999.85,199.84
+PE01677,2026-06-23,Karimnagar,OTC Medicines,Cetirizine 10mg,4,338.16,68.45
+PE00128,2026-04-21,Bengaluru,Medical Devices,Pulse Oximeter,4,1935.96,179.57
+PE02058,2026-06-23,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,1,1326.89,262.34
+PE02091,2026-06-04,Hyderabad,Medical Devices,Nebulizer,4,6989.28,1340.63
+PE01737,2026-06-28,Visakhapatnam,OTC Medicines,Cough Syrup 100ml,1,75.83,12.0
+PE01404,2026-06-18,Hyderabad,Medical Devices,Thermometer,4,6367.76,849.49
+PE00363,2026-04-11,Nellore,Prescription Medicines,Amlodipine 5mg,2,830.98,131.34
+PE01250,2026-05-28,Vijayawada,Personal Care,Hand Sanitizer 500ml,4,2121.72,327.76
+PE01161,2026-05-18,Vijayawada,Lab Tests,Thyroid Profile,3,3950.46,695.66
+PE00301,2026-04-02,Guntur,Wellness & Nutrition,Multivitamin Tablets,2,1307.52,209.23
+PE01418,2026-06-23,Vijayawada,Personal Care,Sunscreen SPF50,2,617.6,99.35
+PE00811,2026-05-06,Warangal,Prescription Medicines,Atorvastatin 10mg,1,598.14,100.3
+PE01964,2026-06-03,Warangal,Medical Devices,Pulse Oximeter,5,4886.35,889.49
+PE01701,2026-06-28,Bengaluru,Prescription Medicines,Atorvastatin 10mg,2,911.36,126.91
+PE00272,2026-04-27,Vijayawada,OTC Medicines,Cetirizine 10mg,4,440.08,76.97
+PE02085,2026-06-06,Hyderabad,Lab Tests,HbA1c Test,3,1212.03,97.08
+PE01658,2026-06-30,Hyderabad,Prescription Medicines,Metformin 500mg,4,1324.12,109.96
+PE01346,2026-05-22,Vijayawada,Medical Devices,Thermometer,4,2614.44,332.17
+PE00877,2026-05-26,Vijayawada,Medical Devices,Digital BP Monitor,4,4939.32,725.73
+PE01579,2026-06-19,Vijayawada,OTC Medicines,Antacid Tablets,3,596.43,125.65
+PE00953,2026-05-16,Warangal,Personal Care,Antiseptic Liquid,2,912.76,135.75
+PE01998,2026-06-17,Guntur,OTC Medicines,Cough Syrup 100ml,5,394.85,56.09
+PE00108,2026-04-01,Hyderabad,Prescription Medicines,Azithromycin 500mg,5,3168.8,541.06
+PE00746,2026-05-09,Vijayawada,OTC Medicines,Paracetamol 500mg,2,110.62,9.24
+PE01273,2026-05-05,Warangal,Personal Care,Sunscreen SPF50,4,786.76,163.18
+PE00614,2026-04-05,Hyderabad,Personal Care,Hand Sanitizer 500ml,3,955.35,186.37
+PE00450,2026-04-05,Bengaluru,OTC Medicines,Cough Syrup 100ml,4,249.16,36.27
+PE00043,2026-04-20,Guntur,Medical Devices,Glucometer Kit,2,4086.12,570.66
+PE00501,2026-04-03,Vijayawada,OTC Medicines,Cetirizine 10mg,1,124.54,23.13
+PE02029,2026-06-04,Bengaluru,Prescription Medicines,Azithromycin 500mg,4,434.04,43.14
+PE01587,2026-06-10,Nellore,OTC Medicines,ORS Sachet,3,353.58,74.47
+PE00184,2026-04-06,vijayawada,OTC Medicines,Antacid Tablets,5,557.5,48.41
+PE00936,2026-05-08,Hyderabad,,Glucometer Kit,1,712.8,93.29
+PE01242,2026-05-25,Hyderabad,Personal Care,Face Wash,3,718.77,122.51
+PE01758,2026-06-19,Bengaluru,Wellness & Nutrition,Whey Protein 1kg,3,2297.46,322.13
+PE01032,2026-05-01,Warangal,Prescription Medicines,Azithromycin 500mg,4,1245.12,215.84
+PE01800,2026-06-25,Hyderabad,Prescription Medicines,Amlodipine 5mg,4,1193.16,171.52
+PE02056,2026-06-12,Warangal,OTC Medicines,Antacid Tablets,2,152.14,27.83
+PE01787,2026-06-18,Bengaluru,Personal Care,Sunscreen SPF50,3,665.73,100.66
+PE01621,2026-06-23,Hyderabad,Prescription Medicines,Azithromycin 500mg,1,205.48,18.04
+PE01151,2026-05-13,Bengaluru,OTC Medicines,ORS Sachet,1,132.45,12.83
+PE01748,2026-06-22,Hyderabad,Medical Devices,Digital BP Monitor,2,2778.84,240.84
+PE01750,2026-06-15,Vijayawada,Prescription Medicines,Azithromycin 500mg,4,2282.2,317.34
+PE00978,2026-05-01,Warangal,Medical Devices,Pulse Oximeter,4,2441.0,251.03
+PE02002,2026-06-03,Vijayawada,OTC Medicines,Cetirizine 10mg,4,390.88,85.1
+PE00319,2026-04-30,Vijayawada,Prescription Medicines,Metformin 500mg,4,685.72,121.09
+PE01420,2026-06-01,Karimnagar,OTC Medicines,Cetirizine 10mg,2,288.66,58.07
+PE01575,2026-06-21,Hyderabad,Prescription Medicines,Insulin Pen,2,205.38,41.89
+PE01480,2026-06-05,Guntur,Lab Tests,Vitamin D Test,4,4287.4,524.6
+PE00991,2026-05-05, hyderabad,Prescription Medicines,Amlodipine 5mg,4,509.8,80.18
+PE01611,2026-06-07,Vijayawada,OTC Medicines,Cetirizine 10mg,4,431.8,85.72
+PE01387,2026-05-02,Tirupati,Lab Tests,Lipid Profile,5,7478.5,606.11
+PE00636,2026-04-12,Hyderabad,Personal Care,Face Wash,2,450.72,43.87
+PE01051,2026-05-14,Hyderabad,Prescription Medicines,Amlodipine 5mg,4,562.36,88.25
+PE01089,2026-05-25,Guntur,Prescription Medicines,Atorvastatin 10mg,5,1074.45,186.7
+PE01893,2026-06-18,Nellore,OTC Medicines,ORS Sachet,3,440.46,51.62
+PE01005,2026-05-05,Bengaluru,Medical Devices,Digital BP Monitor,5,3916.35,674.84
+PE02033,2026-06-13,Karimnagar,Medical Devices,Glucometer Kit,3,2685.51,300.94
+PE00322,2026-04-22,Karimnagar,OTC Medicines,Cetirizine 10mg,3,600.99,87.28
+PE01482,2026-06-18,Bengaluru,OTC Medicines,ORS Sachet,5,975.4,120.4
+PE00565,2026-04-16,Vijayawada,Wellness & Nutrition,Multivitamin Tablets,4,4348.04,785.91
+PE01287,2026-05-08,Vijayawada,Medical Devices,Glucometer Kit,5,7413.2,1127.49
+PE01392,2026-05-05,Vijayawada,Medical Devices,Digital BP Monitor,5,5286.95,504.55
+PE01922,2026-06-14,Hyderabad,Prescription Medicines,Insulin Pen,3,440.01,73.68
+PE01666,2026-06-25,Vijayawada,Wellness & Nutrition,Whey Protein 1kg,5,2811.25,575.4
+PE01795,2026-06-05,Vijayawada,Prescription Medicines,Amlodipine 5mg,1,520.84,80.03
+PE00222,2026-04-07,Hyderabad,Prescription Medicines,Metformin 500mg,1,264.6,57.67
+PE01715,2026-06-19,Vijayawada,Medical Devices,Pulse Oximeter,1,1552.88,313.99
+PE02008,2026-06-04,Tirupati,Wellness & Nutrition,Fish Oil Capsules,1,1240.71,115.89
+PE01799,2026-06-02,Hyderabad,OTC Medicines,ORS Sachet,2,321.82,61.16
+PE01269,2026-05-07,Visakhapatnam,Prescription Medicines,Insulin Pen,5,672.5,87.44
+PE01130,2026-05-16,Hyderabad,Medical Devices,Pulse Oximeter,4,5726.0,999.07
+PE00497,2026-04-01,Bengaluru,OTC Medicines,Antacid Tablets,3,146.37,21.73
+PE01683,2026-06-04,Vijayawada,OTC Medicines,Paracetamol 500mg,1,93.83,12.21
+PE00088,2026-04-27,Hyderabad,Personal Care,Face Wash,4,693.64,82.06
+PE00872,2026-05-18,Bengaluru,Wellness & Nutrition,Calcium + D3 Tablets,4,1760.0,230.52
+PE01226,2026-05-30,Bengaluru,OTC Medicines,Antacid Tablets,3,271.38,22.62
+PE01713,2026-06-14,Vijayawada,Wellness & Nutrition,Calcium + D3 Tablets,5,6192.25,1124.52
+PE00479,2026-04-11,Tirupati,Personal Care,Baby Diaper Pack,2,728.54,117.81
+PE00594,2026-04-29,Bengaluru,OTC Medicines,Antacid Tablets,2,378.58,83.09
+PE00900,2026-05-19,Hyderabad,Personal Care,Antiseptic Liquid,5,1202.15,208.04
+PE01023,2026-05-10,Nellore,Prescription Medicines,Atorvastatin 10mg,5,1729.1,330.98
+PE01458,2026-06-02,Bengaluru,Personal Care,Sunscreen SPF50,1,523.27,60.14
+PE01326,2026-05-22,Warangal,Prescription Medicines,Metformin 500mg,1,188.63,30.63
+PE01383,2026-05-06,Bengaluru,Personal Care,Baby Diaper Pack,1,477.3,98.48
+PE00031,2026-04-06,Vijayawada,OTC Medicines,ORS Sachet,3,214.35,31.07
+PE01169,2026-05-03,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,5,3143.9,
+PE01320,2026-05-28,Warangal,Personal Care,Baby Diaper Pack,4,485.68,55.14
+PE00603,2026-04-03,Guntur,OTC Medicines,Cough Syrup 100ml,1,181.32,39.78
+PE00574,2026-04-27,Bengaluru,Prescription Medicines,Azithromycin 500mg,2,196.3,28.68
+PE01813,2026-06-02,Hyderabad,Medical Devices,Glucometer Kit,2,6120.78,1307.5
+PE01141,2026-05-28,Tirupati,OTC Medicines,Cough Syrup 100ml,3,143.67,12.53
+PE01874,2026-06-13,Visakhapatnam,Medical Devices,Digital BP Monitor,1,1921.31,180.46
+PE01539,2026-06-09,Hyderabad,Personal Care,Baby Diaper Pack,2,568.66,102.35
+PE01992,2026-06-26,Bengaluru,Personal Care,Hand Sanitizer 500ml,1,478.62,63.59
+PE01129,2026-05-14,Hyderabad,Prescription Medicines,Azithromycin 500mg,1,282.09,39.49
+PE00208,2026-04-28,Hyderabad,Prescription Medicines,Atorvastatin 10mg,2,860.88,157.87
+PE00970,2026-05-27,Bengaluru,OTC Medicines,Cough Syrup 100ml,1,111.1,11.18
+PE00696,2026-04-09,Hyderabad,Lab Tests,HbA1c Test,3,3137.1,439.36
+PE01455,2026-06-23,Hyderabad,OTC Medicines,Paracetamol 500mg,2,391.74,52.63
+PE00008,2026-04-29,Vijayawada,Personal Care,Baby Diaper Pack,4,1068.52,163.97
+PE01577,2026-06-29,Hyderabad,Prescription Medicines,Amlodipine 5mg,4,599.56,96.69
+PE00996,2026-05-14,Tirupati,,Amlodipine 5mg,4,663.68,94.54
+PE01170,2026-05-11,Guntur,Prescription Medicines,Atorvastatin 10mg,1,553.79,57.2
+PE00918,2026-05-26,Guntur,OTC Medicines,Cetirizine 10mg,4,317.32,45.07
+PE01755,2026-06-09,Warangal,OTC Medicines,Paracetamol 500mg,5,416.2,50.79
+PE00258,2026-04-07,Nellore,Personal Care,Baby Diaper Pack,3,403.56,33.28
+PE01623,2026-06-09,Hyderabad,OTC Medicines,Cetirizine 10mg,2,225.36,18.37
+PE00201,2026-04-28,Vijayawada,,Fish Oil Capsules,3,1446.39,305.59
+PE01113,2026-05-27,Vijayawada,OTC Medicines,Cough Syrup 100ml,4,673.88,73.72
+PE00132,2026-04-18,Warangal,OTC Medicines,Cough Syrup 100ml,1,119.4,19.96
+PE00659,2026-04-04,Visakhapatnam,Prescription Medicines,Amlodipine 5mg,4,2179.48,447.63
+PE01648,2026-06-15,Vijayawada,Prescription Medicines,Azithromycin 500mg,4,2547.28,266.74
+PE00552,2026-04-13,Warangal,OTC Medicines,ORS Sachet,1,205.97,27.13
+PE01085,2026-05-24,HYDERABAD ,Wellness & Nutrition,Whey Protein 1kg,2,1707.76,311.4
+PE01441,2026-06-26,bengaluru ,Prescription Medicines,Atorvastatin 10mg,4,875.32,138.97
+PE00787,2026-05-08,Bengaluru,OTC Medicines,Paracetamol 500mg,4,519.0,110.22
+PE00518,2026-04-09,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,1,959.34,108.41
+PE01217,2026-05-17,Nellore,Wellness & Nutrition,Whey Protein 1kg,4,5253.4,542.57
+PE00317,2026-04-07,Bengaluru,OTC Medicines,ORS Sachet,5,817.25,159.33
+PE00596,2026-04-22,Nellore,Prescription Medicines,Atorvastatin 10mg,4,1052.52,221.74
+PE00033,2026-04-27,Hyderabad,Personal Care,Face Wash,1,478.5,
+PE01493,2026-06-13,Bengaluru,Personal Care,Baby Diaper Pack,4,1533.68,
+PE01786,2026-06-24,Hyderabad,Personal Care,Sunscreen SPF50,5,960.35,82.07
+PE01432,2026-06-06,Vijayawada,Prescription Medicines,Metformin 500mg,3,419.85,51.23
+PE00228,2026-04-02,bengaluru ,OTC Medicines,Cough Syrup 100ml,5,834.0,158.07
+PE01507,2026-06-09,Guntur,Medical Devices,Digital BP Monitor,3,7518.03,1452.72
+PE00989,2026-05-26,Karimnagar,Prescription Medicines,Insulin Pen,3,502.32,64.48
+PE01324,2026-05-19,Warangal,Personal Care,Antiseptic Liquid,3,754.35,107.96
+PE01559,2026-06-17,Visakhapatnam,Personal Care,Antiseptic Liquid,5,2697.85,590.56
+PE01951,2026-06-05,Visakhapatnam,OTC Medicines,Paracetamol 500mg,2,119.92,9.78
+PE01421,2026-06-11,Tirupati,Prescription Medicines,Metformin 500mg,1,445.26,65.31
+PE01826,2026-06-01,Hyderabad,Personal Care,Sunscreen SPF50,1,140.86,22.86
+PE01103,2026-05-07,Guntur,Personal Care,Face Wash,3,1315.5,234.29
+PE01225,2026-05-16,Visakhapatnam,Personal Care,Baby Diaper Pack,2,343.32,64.8
+PE00924,2026-05-09,Vijayawada,Medical Devices,Glucometer Kit,4,2643.76,555.04
+PE00356,2026-04-05,Vijayawada,Medical Devices,Pulse Oximeter,4,5614.16,632.57
+PE00296,2026-04-03,Bengaluru,OTC Medicines,Cetirizine 10mg,3,351.39,40.8
+PE01856,2026-06-14,Bengaluru,OTC Medicines,ORS Sachet,2,256.46,54.45
+PE01185,2026-05-09,Nellore,Wellness & Nutrition,Immunity Booster Syrup,2,1563.76,321.06
+PE00312,2026-04-22,Visakhapatnam,OTC Medicines,ORS Sachet,2,168.62,24.5
+PE01980,2026-06-08,Visakhapatnam,Prescription Medicines,Amlodipine 5mg,4,1440.48,274.86
+PE01812,2026-06-19,Vijayawada,Personal Care,Antiseptic Liquid,3,740.94,64.37
+PE00952,2026-05-11,Vijayawada,Wellness & Nutrition,Multivitamin Tablets,5,3301.05,485.98
+PE01977,2026-06-30,Guntur,OTC Medicines,Paracetamol 500mg,4,635.76,84.73
+PE00010,2026-04-29,Tirupati,Personal Care,Baby Diaper Pack,1,417.13,58.45
+PE00810,2026-05-21,Vijayawada,,Baby Diaper Pack,5,2190.95,310.56
+PE00171,2026-04-27,Nellore,Prescription Medicines,Atorvastatin 10mg,5,1315.1,
+PE00456,2026-04-21,Guntur,Lab Tests,HbA1c Test,3,4946.1,961.07
+PE02068,2026-06-26,Warangal,Personal Care,Hand Sanitizer 500ml,3,1604.25,225.54
+PE01863,2026-06-20,Hyderabad,Prescription Medicines,Atorvastatin 10mg,3,1039.2,141.49
+PE02077,2026-06-30,Hyderabad,,Paracetamol 500mg,4,436.92,64.27
+PE00090,2026-04-22,Nellore,,Calcium + D3 Tablets,5,5653.6,688.64
+PE00362,2026-04-22,Vijayawada,Prescription Medicines,Metformin 500mg,5,1059.6,195.88
+PE01929,2026-06-11,Vijayawada,Prescription Medicines,Insulin Pen,4,2157.36,440.09
+PE01638,2026-06-14,Hyderabad,OTC Medicines,Cetirizine 10mg,5,728.5,95.83
+PE01084,2026-05-28,Warangal,Prescription Medicines,Amlodipine 5mg,4,1191.52,213.06
+PE01330,2026-05-09,Hyderabad,Prescription Medicines,Amlodipine 5mg,1,241.04,44.93
+PE01327,2026-05-04,Vijayawada,OTC Medicines,Paracetamol 500mg,5,828.35,89.26
+PE00489,2026-04-30,Nellore,Personal Care,Antiseptic Liquid,1,176.27,20.05
+PE00637,2026-04-30,Nellore,Prescription Medicines,Insulin Pen,1,188.94,18.59
+PE00124,2026-04-26,Visakhapatnam,Personal Care,Sunscreen SPF50,4,1073.72,86.77
+PE01987,2026-06-20,VIJAYAWADA,OTC Medicines,ORS Sachet,4,770.56,124.95
+PE01702,2026-06-25,Guntur,Wellness & Nutrition,Fish Oil Capsules,2,522.84,81.84
+PE01447,2026-06-01,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,2,2512.64,252.85
+PE01860,2026-06-02,Hyderabad,OTC Medicines,Antacid Tablets,2,281.6,45.12
+PE01359,2026-05-11,Vijayawada,OTC Medicines,Cetirizine 10mg,5,456.85,66.75
+PE01685,2026-06-23,Tirupati,Prescription Medicines,Azithromycin 500mg,5,2801.7,436.51
+PE01393,2026-05-04,Visakhapatnam,Wellness & Nutrition,Multivitamin Tablets,4,3455.28,759.48
+PE01732,2026-06-24,Vijayawada,Wellness & Nutrition,Immunity Booster Syrup,4,1066.68,161.35
+PE00391,2026-04-16,Vijayawada,Medical Devices,Thermometer,1,3051.55,497.68
+PE00852,2026-05-18,Nellore,Prescription Medicines,Metformin 500mg,2,214.32,25.97
+PE01132,2026-05-05,Vijayawada,OTC Medicines,Cetirizine 10mg,5,629.15,113.89
+PE02074,2026-06-12,Visakhapatnam,Wellness & Nutrition,Multivitamin Tablets,4,5249.44,808.29
+PE00290,2026-04-13,Hyderabad,OTC Medicines,ORS Sachet,3,387.78,
+PE00042,2026-04-11,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,4,3793.36,651.17
+PE00625,2026-04-08,Visakhapatnam,Personal Care,Baby Diaper Pack,5,2176.9,468.58
+PE00883,2026-05-15,Nellore,Medical Devices,Thermometer,1,3046.91,363.16
+PE01254,2026-05-08,Tirupati,Wellness & Nutrition,Whey Protein 1kg,2,664.16,93.6
+PE01532,2026-06-24,Vijayawada,OTC Medicines,Cough Syrup 100ml,3,337.02,46.67
+PE00537,2026-04-06,Tirupati,Wellness & Nutrition,Whey Protein 1kg,3,1834.26,254.63
+PE01582,2026-06-19,Visakhapatnam,OTC Medicines,Cough Syrup 100ml,5,1037.4,202.38
+PE01206,2026-05-23,Nellore,OTC Medicines,Paracetamol 500mg,3,455.67,48.75
+PE00508,2026-04-08,Vijayawada,Prescription Medicines,Metformin 500mg,1,624.4,74.52
+PE00963,2026-05-02,Bengaluru,OTC Medicines,Antacid Tablets,2,376.82,76.68
+PE01477,2026-06-28,Hyderabad,OTC Medicines,Cetirizine 10mg,2,259.42,28.01
+PE00191,2026-04-09,Hyderabad,OTC Medicines,Antacid Tablets,1,110.26,17.9
+PE02066,2026-06-05,Warangal,Personal Care,Face Wash,2,1005.24,178.12
+PE01143,2026-05-31,Nellore,Personal Care,Antiseptic Liquid,3,686.13,62.03
+PE01709,2026-06-11,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,5,1879.75,168.17
+PE01187,2026-05-14,Bengaluru,Prescription Medicines,Metformin 500mg,1,539.19,67.74
+PE01718,2026-06-09,Warangal,OTC Medicines,Cough Syrup 100ml,3,650.01,105.08
+PE00301,2026-04-02,Guntur,Wellness & Nutrition,Multivitamin Tablets,2,1307.52,209.23
+PE01444,2026-06-07,Visakhapatnam,OTC Medicines,Paracetamol 500mg,2,350.46,35.01
+PE01875,2026-06-19,Tirupati,Lab Tests,Lipid Profile,3,3385.32,499.41
+PE00225,2026-04-02,Hyderabad,Prescription Medicines,Metformin 500mg,3,279.42,30.42
+PE00599,2026-04-28,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,2,828.24,85.82
+PE01489,2026-06-19,Nellore,Prescription Medicines,Insulin Pen,2,278.36,45.71
+PE01474,2026-06-29,Vijayawada,Wellness & Nutrition,Calcium + D3 Tablets,2,1062.62,162.9
+PE00342,2026-04-03,Karimnagar,OTC Medicines,Antacid Tablets,5,1010.45,110.08
+PE00111,2026-04-20,Warangal,Prescription Medicines,Azithromycin 500mg,5,585.05,103.99
+PE01600,2026-06-04,Hyderabad,OTC Medicines,ORS Sachet,4,193.2,24.26
+PE01300,2026-05-18,Tirupati,OTC Medicines,Paracetamol 500mg,4,782.88,165.47
+PE00762,2026-05-16,Warangal,Lab Tests,Thyroid Profile,3,2329.23,194.29
+PE01697,2026-06-25,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,4,5387.32,1085.84
+PE00737,2026-05-30,Hyderabad,OTC Medicines,Paracetamol 500mg,4,247.44,39.36
+PE00336,2026-04-04,Tirupati,OTC Medicines,Paracetamol 500mg,3,430.53,64.51
+PE00444,2026-04-02,Guntur,Prescription Medicines,Amlodipine 5mg,1,228.43,27.69
+PE01573,2026-06-22,Warangal,Wellness & Nutrition,Whey Protein 1kg,3,2498.79,474.37
+PE00218,2026-04-13,Karimnagar,Prescription Medicines,Amlodipine 5mg,1,436.15,59.55
+PE00344,2026-04-18,Warangal,Personal Care,Face Wash,4,1062.0,
+PE01688,2026-06-25,Bengaluru,Prescription Medicines,Amlodipine 5mg,1,502.29,93.09
+PE00439,2026-04-21,Bengaluru,Lab Tests,Thyroid Profile,5,4158.95,695.66
+PE01622,2026-06-21,Guntur,Wellness & Nutrition,Immunity Booster Syrup,2,2333.78,195.92
+PE00950,2026-05-01,Guntur,Prescription Medicines,Amlodipine 5mg,2,399.7,81.86
+PE01394,2026-05-14,Guntur,Prescription Medicines,Metformin 500mg,4,1043.68,109.74
+PE00452,2026-04-23,Hyderabad,Prescription Medicines,Insulin Pen,2,911.26,173.14
+PE00801,2026-05-27,Vijayawada,OTC Medicines,Antacid Tablets,4,462.68,84.48
+PE00262,2026-04-10,Visakhapatnam,Prescription Medicines,Metformin 500mg,1,291.37,60.4
+PE01557,2026-06-20,Guntur,Personal Care,Hand Sanitizer 500ml,3,872.04,142.06
+PE01175,2026-05-02,Vijayawada,Wellness & Nutrition,Fish Oil Capsules,3,3511.26,727.49
+PE00876,2026-05-30,Hyderabad,Medical Devices,Pulse Oximeter,5,3490.6,647.49
+PE01533,2026-06-27,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,4,1776.48,347.02
+PE01110,2026-05-09,Nellore,OTC Medicines,Paracetamol 500mg,2,88.4,12.39
+PE01649,2026-06-17,Hyderabad,Prescription Medicines,Azithromycin 500mg,2,885.2,157.55
+PE01711,2026-06-16,Hyderabad,OTC Medicines,Cough Syrup 100ml,1,112.41,13.98
+PE00335,2026-04-16,Visakhapatnam,OTC Medicines,Paracetamol 500mg,3,289.74,28.21
+PE00654,2026-04-14,Bengaluru,Prescription Medicines,Atorvastatin 10mg,5,1873.25,245.48
+PE01145,2026-05-08,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,1,1238.63,234.73
+PE00726,2026-05-27,Hyderabad,Personal Care,Sunscreen SPF50,2,860.64,139.14
+PE00283,2026-04-03,Bengaluru,Prescription Medicines,Amlodipine 5mg,3,424.08,56.03
+PE00458,2026-04-04,Warangal,OTC Medicines,Cetirizine 10mg,1,129.79,18.89
+PE00466,2026-04-28,Vijayawada,Medical Devices,Thermometer,1,1024.36,136.29
+PE00471,2026-04-22,Warangal,Wellness & Nutrition,Calcium + D3 Tablets,5,5009.3,650.95
+PE01374,2026-05-01,Guntur,Personal Care,Face Wash,2,164.48,15.79
+PE01598,2026-06-10,Hyderabad,Prescription Medicines,Metformin 500mg,3,720.48,124.61
+PE00727,2026-05-31,Nellore,Personal Care,Baby Diaper Pack,1,412.96,38.14
+PE00925,2026-05-04,Nellore,Prescription Medicines,Metformin 500mg,1,321.89,66.44
+PE01657,2026-06-17,Tirupati,Medical Devices,Pulse Oximeter,2,5891.62,690.75
+PE01114,2026-05-04,Bengaluru,Personal Care,Face Wash,2,853.16,145.26
+PE01174,2026-05-21,Guntur,OTC Medicines,ORS Sachet,4,700.28,90.72
+PE01686,2026-06-06,Visakhapatnam,Wellness & Nutrition,Whey Protein 1kg,3,2703.75,535.89
+PE02092,2026-06-28,Bengaluru,Medical Devices,Nebulizer,5,5702.3,1246.36
+PE01597,2026-06-02,Tirupati,Wellness & Nutrition,Fish Oil Capsules,3,1789.32,321.93
+PE01329,2026-05-10,Tirupati,Lab Tests,Thyroid Profile,2,1398.04,127.75
+PE01457,2026-06-04,Karimnagar,Prescription Medicines,Atorvastatin 10mg,1,475.18,64.48
+PE01786,2026-06-24,Hyderabad,Personal Care,Sunscreen SPF50,5,960.35,82.07
+PE00834,2026-05-24,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,5,2594.4,365.99
+PE00692,2026-04-01,Bengaluru,Prescription Medicines,Azithromycin 500mg,5,1483.25,241.01
+PE01131,2026-05-24,Visakhapatnam,Prescription Medicines,Atorvastatin 10mg,4,1367.76,
+PE01173,2026-05-12,Warangal,Personal Care,Face Wash,3,1488.48,178.27
+PE01417,2026-06-25,Vijayawada,OTC Medicines,ORS Sachet,5,568.9,47.93
+PE01317,2026-05-12,Bengaluru,Personal Care,Face Wash,3,315.51,56.85
+PE01728,2026-06-11,Nellore,Medical Devices,Digital BP Monitor,3,4700.91,418.71
+PE01581,2026-06-22,Hyderabad,Prescription Medicines,Atorvastatin 10mg,2,647.2,118.29
+PE01388,2026-05-03,Bengaluru,Medical Devices,Pulse Oximeter,3,5991.75,1226.08
+PE00060,2026-04-28,Bengaluru,OTC Medicines,Cetirizine 10mg,5,476.05,41.06
+PE01944,2026-06-01,Hyderabad,Prescription Medicines,Insulin Pen,5,2423.0,380.01
+PE00343,2026-04-11,Visakhapatnam,Wellness & Nutrition,Calcium + D3 Tablets,4,2299.28,426.51
+PE00790,2026-05-21,Guntur,OTC Medicines,ORS Sachet,3,423.09,81.9
+PE00071,2026-04-06,Visakhapatnam,Prescription Medicines,Amlodipine 5mg,3,996.75,158.11
+PE01592,2026-06-02,Hyderabad,Prescription Medicines,Azithromycin 500mg,5,847.95,145.94
+PE02035,2026-06-11,Bengaluru,Personal Care,Hand Sanitizer 500ml,1,548.62,
+PE00656,2026-04-18,Vijayawada,Personal Care,Sunscreen SPF50,1,548.79,59.11
+PE01016,2026-05-27,Warangal,Personal Care,Antiseptic Liquid,5,2186.6,388.79
+PE01244,2026-05-24,Visakhapatnam,OTC Medicines,Cough Syrup 100ml,1,73.27,8.2
+PE01950,2026-06-03,Bengaluru,Wellness & Nutrition,Multivitamin Tablets,1,578.77,124.01
+PE00284,2026-04-10,Bengaluru,Medical Devices,Glucometer Kit,4,8722.64,1435.62
+PE00816,2026-05-08,Guntur,OTC Medicines,Cough Syrup 100ml,1,46.61,10.04
+PE00019,2026-04-30,Hyderabad,Prescription Medicines,Insulin Pen,1,431.67,46.55
+PE01753,2026-06-02,Hyderabad,OTC Medicines,Paracetamol 500mg,1,157.11,21.13
+PE00396,2026-04-01,Tirupati,Prescription Medicines,Insulin Pen,4,2172.88,
+PE00544,2026-04-15,Visakhapatnam,Wellness & Nutrition,Multivitamin Tablets,2,542.16,109.96
+PE01494,2026-06-30,Tirupati,Medical Devices,Pulse Oximeter,3,2377.35,468.91
+PE00093,2026-04-21,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,1,1314.33,285.39
+PE01054,2026-05-27,Guntur,Wellness & Nutrition,Whey Protein 1kg,5,6203.45,846.93
+PE00424,2026-04-12,Hyderabad,Lab Tests,HbA1c Test,2,1500.94,138.86
+PE00293,2026-04-14,Warangal,Wellness & Nutrition,Fish Oil Capsules,1,1202.33,192.59
+PE00016,2026-04-15,Bengaluru,Personal Care,Face Wash,1,286.07,51.58
+PE00403,2026-04-13,Hyderabad,OTC Medicines,Cetirizine 10mg,2,183.46,19.36
+PE00899,2026-05-25,Warangal,Personal Care,Baby Diaper Pack,3,240.66,34.38
+PE00564,2026-04-18,Nellore,Lab Tests,HbA1c Test,4,6775.08,914.84
+PE00613,2026-04-01,Visakhapatnam,Medical Devices,Nebulizer,2,3799.6,652.72
+PE01811,2026-06-10,Hyderabad,OTC Medicines,Cetirizine 10mg,1,201.82,25.24
+PE01436,2026-06-22, hyderabad,Prescription Medicines,Amlodipine 5mg,1,504.89,61.41
+PE00849,2026-05-05,Bengaluru,OTC Medicines,ORS Sachet,2,232.18,35.74
+PE00886,2026-05-17,Bengaluru,OTC Medicines,Cough Syrup 100ml,2,142.54,28.1
+PE00202,2026-04-18,Visakhapatnam,Wellness & Nutrition,Immunity Booster Syrup,1,981.94,200.48
+PE01679,2026-06-19,Bengaluru,Prescription Medicines,Metformin 500mg,3,1388.88,248.73
+PE01349,2026-05-01,Hyderabad,Prescription Medicines,Azithromycin 500mg,1,616.14,104.79
+PE00376,2026-04-17,Bengaluru,OTC Medicines,Cough Syrup 100ml,5,799.2,167.27
+PE00154,2026-04-01,Vijayawada,Prescription Medicines,Amlodipine 5mg,4,1537.52,206.39
+PE02016,2026-06-20,Nellore,Personal Care,Face Wash,1,440.03,40.36
+PE00030,2026-04-06,Tirupati,Prescription Medicines,Amlodipine 5mg,2,616.76,86.07
+PE01542,2026-06-23,Bengaluru,OTC Medicines,Antacid Tablets,4,560.36,78.56
+PE01190,2026-05-05,Warangal,Personal Care,Baby Diaper Pack,4,442.2,96.44
+PE00243,2026-04-15,Visakhapatnam,Wellness & Nutrition,Calcium + D3 Tablets,1,593.43,73.46
+PE00845,2026-05-25,Nellore,Prescription Medicines,Amlodipine 5mg,4,2257.4,411.03
+PE01384,2026-05-01,Tirupati,Prescription Medicines,Metformin 500mg,2,951.16,142.8
+PE01286,2026-05-16,Tirupati,OTC Medicines,Paracetamol 500mg,2,152.38,29.85
+PE00997,2026-05-26,Nellore,OTC Medicines,Paracetamol 500mg,3,499.17,98.26
+PE00760,2026-05-27,Bengaluru,Wellness & Nutrition,Multivitamin Tablets,1,978.54,180.22
+PE01188,2026-05-04,Tirupati,Lab Tests,Thyroid Profile,5,4424.95,469.2
+PE00935,2026-05-21,Bengaluru,OTC Medicines,ORS Sachet,3,324.24,31.14
+PE00830,2026-05-12,Hyderabad,Lab Tests,Thyroid Profile,3,4598.01,999.78
+PE00298,2026-04-14,Guntur,Personal Care,Baby Diaper Pack,1,511.95,42.06
+PE00055,2026-04-23,Bengaluru,Medical Devices,Nebulizer,3,9181.05,1033.34
+PE01262,2026-05-03,Vijayawada,OTC Medicines,Cough Syrup 100ml,1,198.3,16.69
+PE01829,2026-06-14,Nellore,Prescription Medicines,Amlodipine 5mg,3,1063.11,149.91
+PE00977,2026-05-26,Warangal,Wellness & Nutrition,Whey Protein 1kg,3,1210.56,206.63
+PE00195,2026-04-07,Bengaluru,Lab Tests,Full Body Checkup,3,1718.88,370.36
+PE01871,2026-06-29,Tirupati,Wellness & Nutrition,Whey Protein 1kg,3,1964.58,377.88
+PE00767,2026-05-21,Vijayawada,Prescription Medicines,Atorvastatin 10mg,1,495.32,87.16
+PE01521,2026-06-22, hyderabad,Personal Care,Sunscreen SPF50,4,920.32,176.08
+PE01531,2026-06-29,Hyderabad,Medical Devices,Thermometer,5,7041.85,1424.19
+PE00133,2026-04-17,Hyderabad,OTC Medicines,Cetirizine 10mg,3,335.91,73.13
+PE00056,2026-04-12,Karimnagar,Prescription Medicines,Amlodipine 5mg,3,1041.57,
+PE01358,2026-05-22,Guntur,Wellness & Nutrition,Calcium + D3 Tablets,5,6051.8,589.82
+PE00765,2026-05-30,Bengaluru,Prescription Medicines,Azithromycin 500mg,1,114.53,10.45
+PE00731,2026-05-20,Visakhapatnam,Wellness & Nutrition,Fish Oil Capsules,4,4994.96,848.26
+PE00942,2026-05-25,Guntur,OTC Medicines,Cough Syrup 100ml,3,297.63,63.86
+PE01296,2026-05-01,Guntur,Lab Tests,Thyroid Profile,1,601.94,113.01
+PE00158,2026-04-15,Hyderabad,OTC Medicines,Paracetamol 500mg,5,512.3,77.99
+PE01503,2026-06-22,Bengaluru,Prescription Medicines,Azithromycin 500mg,5,1560.15,253.38
+PE01843,2026-06-05,Bengaluru,OTC Medicines,Cetirizine 10mg,5,642.45,115.05
+PE00163,2026-04-03,Bengaluru,Personal Care,Hand Sanitizer 500ml,1,402.3,56.01
+PE00240,2026-04-05,Nellore,OTC Medicines,ORS Sachet,2,89.72,10.87
+PE00295,2026-04-11,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,1,1290.77,201.44
+PE00161,2026-04-28,Karimnagar,Medical Devices,Thermometer,4,5286.08,556.92
+PE00827,2026-05-06,Nellore,Prescription Medicines,Amlodipine 5mg,1,267.28,29.78
+PE00076,2026-04-09,Vijayawada,OTC Medicines,Paracetamol 500mg,3,430.17,72.55
+PE02003,2026-06-29,Vijayawada,Wellness & Nutrition,Whey Protein 1kg,2,977.42,194.43
+PE01562,2026-06-06,Vijayawada,Personal Care,Sunscreen SPF50,4,1618.24,257.83
+PE00943,2026-05-16,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,5,5286.35,719.19
+PE00506,2026-04-04,Hyderabad,Personal Care,Antiseptic Liquid,5,2162.6,445.53
+PE01033,2026-05-24,Hyderabad,Wellness & Nutrition,Immunity Booster Syrup,3,935.07,131.49
+PE00987,2026-05-23,Nellore,Personal Care,Hand Sanitizer 500ml,1,522.68,57.09
+PE01961,2026-06-29,Hyderabad,Prescription Medicines,Azithromycin 500mg,2,201.04,21.5
+PE00484,2026-04-24,Bengaluru,Wellness & Nutrition,Calcium + D3 Tablets,5,4554.8,902.49
+PE01941,2026-06-04,Guntur,OTC Medicines,Cetirizine 10mg,4,273.12,
+PE00805,2026-05-05,Guntur,Medical Devices,Thermometer,1,836.82,
+PE00282,2026-04-06,bengaluru ,Prescription Medicines,Amlodipine 5mg,2,306.58,54.53
+PE00131,2026-04-12,Warangal,Personal Care,Baby Diaper Pack,2,664.56,96.34
+PE00498,2026-04-13,Warangal,OTC Medicines,Antacid Tablets,1,127.42,26.19
+PE01908,2026-06-03,Visakhapatnam,Wellness & Nutrition,Whey Protein 1kg,5,4376.1,864.21
+PE00771,2026-05-23,Bengaluru,Prescription Medicines,Azithromycin 500mg,4,394.64,70.77
+PE01104,2026-05-08,Hyderabad,Personal Care,Antiseptic Liquid,5,884.1,190.72
+PE01613,2026-06-28,Visakhapatnam,Personal Care,Face Wash,4,1250.04,217.79
+PE01512,2026-06-07,Nellore,Medical Devices,Pulse Oximeter,4,12149.68,1031.69
+PE01663,2026-06-23,Bengaluru,Lab Tests,Thyroid Profile,3,1674.15,195.8
+PE02014,2026-06-20,Nellore,Personal Care,Antiseptic Liquid,3,707.19,123.11
+PE00451,2026-04-26,Hyderabad,Personal Care,Baby Diaper Pack,5,1066.1,215.64
+PE01463,2026-06-21,Hyderabad,Personal Care,Hand Sanitizer 500ml,4,1598.08,176.64
+PE00050,2026-04-22,Hyderabad,OTC Medicines,Antacid Tablets,5,557.15,64.46
+PE00521,2026-04-14,Vijayawada,Lab Tests,Lipid Profile,4,1798.2,
+PE01442,2026-06-01,Hyderabad,OTC Medicines,Antacid Tablets,4,265.64,48.5
+PE02025,2026-06-16,Bengaluru,Prescription Medicines,Azithromycin 500mg,4,877.48,124.16
+PE00097,2026-04-05,Nellore,OTC Medicines,Cetirizine 10mg,5,254.95,
+PE00514,2026-04-02,Guntur,Prescription Medicines,Atorvastatin 10mg,1,548.39,105.87
+PE01148,2026-05-21,Hyderabad,OTC Medicines,Cetirizine 10mg,1,207.35,24.87
+PE01543,2026-06-28,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,5,4401.35,494.21
+PE00721,2026-05-10,Vijayawada,OTC Medicines,ORS Sachet,3,384.18,78.7
+PE02045,2026-06-23,Hyderabad,OTC Medicines,ORS Sachet,2,390.52,78.94
+PE01602,2026-06-21,Vijayawada,Prescription Medicines,Insulin Pen,3,1521.33,188.08
+PE01794,2026-06-19,Warangal,Personal Care,Baby Diaper Pack,5,1600.65,220.75
+PE01777,2026-06-09,Visakhapatnam,Medical Devices,Nebulizer,2,6361.34,1152.4
+PE00906,2026-05-30,Visakhapatnam,Personal Care,Baby Diaper Pack,3,392.4,35.82
+PE01082,2026-05-30,Tirupati,Prescription Medicines,Atorvastatin 10mg,1,237.88,21.63
+PE00624,2026-04-04,Nellore,Prescription Medicines,Atorvastatin 10mg,4,1576.12,173.53
+PE02052,2026-06-14,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,434.54,86.03
+PE01347,2026-05-15,Warangal,OTC Medicines,Cetirizine 10mg,4,251.64,31.08
+PE01555,2026-06-06,Warangal,OTC Medicines,Cough Syrup 100ml,2,115.3,14.59
+PE01294,2026-05-14,Vijayawada,OTC Medicines,ORS Sachet,1,122.73,14.05
+PE01798,2026-06-14,Tirupati,OTC Medicines,ORS Sachet,4,854.92,139.85
+PE00909,2026-05-25,Tirupati,Prescription Medicines,Metformin 500mg,2,702.36,
+PE01590,2026-06-08,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,3,2100.93,265.78
+PE01377,2026-05-16,Hyderabad,Prescription Medicines,Atorvastatin 10mg,5,469.55,72.15
+PE01978,2026-06-25,Hyderabad,Medical Devices,Digital BP Monitor,1,1577.82,185.26
+PE01453,2026-06-14,Nellore,Personal Care,Sunscreen SPF50,5,770.1,156.79
+PE00670,2026-04-05,Hyderabad,Prescription Medicines,Atorvastatin 10mg,1,144.65,18.98
+PE00912,2026-05-25,Visakhapatnam,Prescription Medicines,Atorvastatin 10mg,1,205.46,44.73
+PE00536,2026-04-21,VIJAYAWADA,Personal Care,Sunscreen SPF50,2,853.66,161.87
+PE00611,2026-04-07,Visakhapatnam,Prescription Medicines,Metformin 500mg,1,403.66,73.74
+PE01075,2026-05-09,Tirupati,Prescription Medicines,Azithromycin 500mg,2,737.76,86.81
+PE00847,2026-05-12,Hyderabad,Lab Tests,Vitamin D Test,5,6298.25,680.5
+PE02046,2026-06-28,Bengaluru,Lab Tests,Vitamin D Test,5,4463.55,595.69
+PE00655,2026-04-16,Tirupati,OTC Medicines,Cough Syrup 100ml,4,530.32,68.42
+PE00075,2026-04-09,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,276.24,32.47
+PE01625,2026-06-11,Vijayawada,Medical Devices,Nebulizer,3,3793.41,766.77
+PE01015,2026-05-12,Nellore,OTC Medicines,ORS Sachet,1,47.36,4.88
+PE01981,2026-06-10,Hyderabad,OTC Medicines,Paracetamol 500mg,1,145.33,25.94
+PE01271,2026-05-13,Nellore,Prescription Medicines,Atorvastatin 10mg,4,859.52,173.14
+PE02051,2026-06-26,Bengaluru,OTC Medicines,Cough Syrup 100ml,4,541.56,76.76
+PE00305,2026-04-28,Guntur,Prescription Medicines,Atorvastatin 10mg,1,323.84,40.71
+PE00430,2026-04-01,Visakhapatnam,Prescription Medicines,Metformin 500mg,5,3113.05,355.31
+PE01698,2026-06-20,Hyderabad,Lab Tests,Thyroid Profile,1,803.24,71.02
+PE01407,2026-06-11,Guntur,Wellness & Nutrition,Fish Oil Capsules,5,1605.55,319.18
+PE01814,2026-06-20,Bengaluru,OTC Medicines,Antacid Tablets,1,156.29,24.92
+PE01452,2026-06-06,Warangal,Prescription Medicines,Azithromycin 500mg,1,136.74,20.27
+PE00023,2026-04-10,Hyderabad,Personal Care,Baby Diaper Pack,5,1368.3,264.25
+PE00198,2026-04-11,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,2,563.78,111.47
+PE00068,2026-04-13,Visakhapatnam,Medical Devices,Digital BP Monitor,3,6324.96,1079.39
+PE01195,2026-05-21,Vijayawada,Medical Devices,Thermometer,2,2389.08,414.07
+PE01861,2026-06-18,VIJAYAWADA,Lab Tests,Vitamin D Test,4,5356.72,847.64
+PE00622,2026-04-11,Vijayawada,Personal Care,Antiseptic Liquid,5,2266.75,192.99
+PE01236,2026-05-27,Tirupati,Medical Devices,Glucometer Kit,3,8683.02,1808.86
+PE00971,2026-05-26,Hyderabad,OTC Medicines,ORS Sachet,3,316.44,65.44
+PE00044,2026-04-28,Nellore,OTC Medicines,ORS Sachet,5,813.25,170.23
+PE00144,2026-04-09,Vijayawada,Personal Care,Antiseptic Liquid,4,1766.32,321.31
+PE01947,2026-06-16,Vijayawada,Personal Care,Sunscreen SPF50,5,800.7,137.76
+PE00710,2026-05-29,Nellore,Lab Tests,Thyroid Profile,5,8636.4,904.18
+PE00357,2026-04-26,Vijayawada,Wellness & Nutrition,Whey Protein 1kg,3,1727.67,203.24
+PE00566,2026-04-16,Warangal,Prescription Medicines,Metformin 500mg,4,2431.76,534.67
+PE00856,2026-05-05,Nellore,Lab Tests,Thyroid Profile,1,1100.66,189.16
+PE01917,2026-06-24,Guntur,Wellness & Nutrition,Fish Oil Capsules,3,1849.8,239.41
+PE00682,2026-04-23,Warangal,Prescription Medicines,Azithromycin 500mg,2,1122.3,
+PE01456,2026-06-12,Vijayawada,Personal Care,Hand Sanitizer 500ml,2,603.38,49.85
+PE00340,2026-04-10,Warangal,Medical Devices,Digital BP Monitor,2,5397.68,863.58
+PE00235,2026-04-27,vijayawada,Prescription Medicines,Amlodipine 5mg,3,431.94,64.69
+PE00005,2026-04-21,Vijayawada,Prescription Medicines,Insulin Pen,1,494.94,45.81
+PE00414,2026-04-01,Visakhapatnam,OTC Medicines,Paracetamol 500mg,5,289.95,28.65
+PE01572,2026-06-08,Tirupati,OTC Medicines,Cetirizine 10mg,1,207.22,34.0
+PE01475,2026-06-07,Hyderabad,Prescription Medicines,Insulin Pen,5,1968.9,256.15
+PE01818,2026-06-19,Bengaluru,OTC Medicines,Antacid Tablets,2,96.14,10.56
+PE01336,2026-05-25,Bengaluru,Wellness & Nutrition,Calcium + D3 Tablets,4,5290.92,662.2
+PE00465,2026-04-05,Hyderabad,Prescription Medicines,Amlodipine 5mg,5,2264.15,348.59
+PE01140,2026-05-07,Bengaluru,OTC Medicines,ORS Sachet,4,442.44,50.83
+PE00592,2026-04-21,Vijayawada,OTC Medicines,ORS Sachet,4,292.56,
+PE00461,2026-04-11,Warangal,OTC Medicines,Cetirizine 10mg,2,302.46,65.1
+PE01191,2026-05-27,Bengaluru,Wellness & Nutrition,Whey Protein 1kg,3,2556.75,450.01
+PE00140,2026-04-23,Hyderabad,OTC Medicines,Cetirizine 10mg,4,584.72,66.64
+PE00974,2026-05-11,Bengaluru,OTC Medicines,ORS Sachet,1,136.78,24.82
+PE00716,2026-05-28,Vijayawada,OTC Medicines,Cetirizine 10mg,3,493.62,58.8
+PE01560,2026-06-10,bengaluru ,OTC Medicines,Paracetamol 500mg,1,196.72,31.69
+PE01541,2026-06-04,Hyderabad,Lab Tests,Thyroid Profile,4,2901.84,424.24
+PE00024,2026-04-04,Visakhapatnam,OTC Medicines,Paracetamol 500mg,4,799.2,69.68
+PE02098,2026-06-12,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,3,1227.27,262.22
+PE01994,2026-06-12,Guntur,Prescription Medicines,Atorvastatin 10mg,1,172.73,21.45
+PE01706,2026-06-29,Warangal,Wellness & Nutrition,Multivitamin Tablets,3,4001.79,692.68
+PE01208,2026-05-25,Bengaluru,OTC Medicines,Antacid Tablets,4,448.48,68.18
+PE02040,2026-06-15,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,1,476.56,62.26
+PE00711,2026-05-15,Tirupati,Prescription Medicines,Insulin Pen,3,1052.55,157.84
+PE00477,2026-04-06,Visakhapatnam,Medical Devices,Glucometer Kit,3,6375.27,998.1
+PE01060,2026-05-27,Hyderabad,Prescription Medicines,Azithromycin 500mg,5,1071.7,193.79
+PE00386,2026-04-15,Nellore,Wellness & Nutrition,Multivitamin Tablets,2,1465.54,215.72
+PE00175,2026-04-25,Vijayawada,Prescription Medicines,Metformin 500mg,3,919.05,118.65
+PE01048,2026-05-17,Warangal,,Azithromycin 500mg,5,1933.8,
+PE00735,2026-05-24,Hyderabad,Medical Devices,Glucometer Kit,3,3074.25,343.26
+PE01439,2026-06-20,Hyderabad,,Cough Syrup 100ml,4,581.6,91.04
+PE01710,2026-06-07,Hyderabad,Prescription Medicines,Amlodipine 5mg,1,306.83,50.4
+PE01831,2026-06-05,Hyderabad,OTC Medicines,Cetirizine 10mg,2,193.84,24.43
+PE00780,2026-05-07,Bengaluru,Personal Care,Face Wash,2,744.96,106.07
+PE00772,2026-05-03,Hyderabad,OTC Medicines,Cough Syrup 100ml,4,876.32,138.17
+PE00862,2026-05-31,Tirupati,OTC Medicines,Cough Syrup 100ml,2,272.92,30.61
+PE00990,2026-05-06,Visakhapatnam,OTC Medicines,Cough Syrup 100ml,1,135.87,22.48
+PE00371,2026-04-22,Bengaluru,OTC Medicines,Antacid Tablets,1,134.48,20.33
+PE00099,2026-04-25,Hyderabad,OTC Medicines,Paracetamol 500mg,2,324.78,44.8
+PE01762,2026-06-16,Warangal,Personal Care,Hand Sanitizer 500ml,4,1702.2,328.62
+PE01983,2026-06-15,Bengaluru,OTC Medicines,ORS Sachet,4,371.8,76.97
+PE01869,2026-06-10,Hyderabad,Prescription Medicines,Atorvastatin 10mg,5,3243.3,617.41
+PE00551,2026-04-27,Vijayawada,Personal Care,Antiseptic Liquid,5,1020.45,194.97
+PE00435,2026-04-28,Vijayawada,OTC Medicines,Cough Syrup 100ml,1,53.18,5.63
+PE00303,2026-04-10,Visakhapatnam,Prescription Medicines,Metformin 500mg,5,2140.55,246.05
+PE01822,2026-06-03,Hyderabad,Prescription Medicines,Insulin Pen,1,597.43,117.75
+PE01568,2026-06-06,Hyderabad,OTC Medicines,Paracetamol 500mg,3,276.78,24.96
+PE00366,2026-04-05,Bengaluru,Prescription Medicines,Amlodipine 5mg,4,973.28,115.71
+PE00194,2026-04-30,Nellore,Prescription Medicines,Metformin 500mg,3,525.12,75.41
+PE00413,2026-04-30,Guntur,Personal Care,Antiseptic Liquid,3,876.6,132.31
+PE00955,2026-05-02,Bengaluru,Wellness & Nutrition,Fish Oil Capsules,2,1686.72,179.54
+PE00819,2026-05-24,Warangal,OTC Medicines,Cetirizine 10mg,5,328.75,64.09
+PE00422,2026-04-23,Bengaluru,Medical Devices,Pulse Oximeter,2,3818.92,482.35
+PE01207,2026-05-15,Warangal,Prescription Medicines,Amlodipine 5mg,4,996.72,125.43
+PE01852,2026-06-02,Visakhapatnam,Wellness & Nutrition,Fish Oil Capsules,1,472.04,40.32
+PE01393,2026-05-04,Visakhapatnam,Wellness & Nutrition,Multivitamin Tablets,4,3455.28,759.48
+PE01157,2026-05-10,Hyderabad,Prescription Medicines,Azithromycin 500mg,4,2247.0,285.91
+PE00221,2026-04-07,Guntur,OTC Medicines,Paracetamol 500mg,5,340.25,36.79
+PE00382,2026-04-30,Warangal,Prescription Medicines,Insulin Pen,1,157.49,23.76
+PE02075,2026-06-19,Visakhapatnam,Wellness & Nutrition,Calcium + D3 Tablets,3,2296.86,359.85
+PE00119,2026-04-08,Bengaluru,Prescription Medicines,Azithromycin 500mg,5,966.0,102.79
+PE00233,2026-04-20,Karimnagar,Medical Devices,Thermometer,1,2957.74,644.55
+PE00359,2026-04-03,Guntur,OTC Medicines,Antacid Tablets,4,192.68,35.41
+PE01427,2026-06-14,Vijayawada,Lab Tests,Vitamin D Test,5,3460.6,407.33
+PE00522,2026-04-02,Vijayawada,OTC Medicines,Cough Syrup 100ml,3,384.33,47.71
+PE01100,2026-05-24,Bengaluru,Personal Care,Baby Diaper Pack,3,1102.26,108.77
+PE00174,2026-04-12,Visakhapatnam,Prescription Medicines,Metformin 500mg,4,2052.72,294.37
+PE00748,2026-05-12,Visakhapatnam,OTC Medicines,ORS Sachet,4,503.32,66.75
+PE01332,2026-05-09,Bengaluru,OTC Medicines,Paracetamol 500mg,3,208.23,28.99
+PE00941,2026-05-22,Bengaluru,OTC Medicines,Cetirizine 10mg,2,370.8,44.93
+PE00271,2026-04-29,Guntur,Personal Care,Sunscreen SPF50,2,592.0,
+PE02018,2026-06-30,Vijayawada,Prescription Medicines,Metformin 500mg,2,461.34,39.07
+PE00105,2026-04-23,Vijayawada,Prescription Medicines,Atorvastatin 10mg,2,1264.64,212.6
+PE00962,2026-05-22,Hyderabad,Prescription Medicines,Insulin Pen,2,895.52,159.81
+PE01498,2026-06-21,Vijayawada,Lab Tests,Lipid Profile,1,1217.99,193.09
+PE00888,2026-05-26,Tirupati,OTC Medicines,Cetirizine 10mg,5,254.7,
+PE00965,2026-05-17,Hyderabad,OTC Medicines,Cough Syrup 100ml,1,212.09,37.78
+PE00032,2026-04-15,Bengaluru,Personal Care,Face Wash,2,466.24,68.76
+PE01716,2026-06-23,Nellore,Prescription Medicines,Metformin 500mg,4,817.12,126.7
+PE00351,2026-04-10,Bengaluru,,Paracetamol 500mg,4,395.24,51.81
+PE00214,2026-04-03,Visakhapatnam,Personal Care,Antiseptic Liquid,1,408.53,48.71
+PE00181,2026-04-26,Nellore,OTC Medicines,Paracetamol 500mg,1,219.8,44.49
+PE00260,2026-04-06,Hyderabad,OTC Medicines,Cetirizine 10mg,2,418.96,74.68
+PE00051,2026-04-18,Hyderabad,OTC Medicines,ORS Sachet,4,460.88,98.71
+PE02026,2026-06-22,Hyderabad,Prescription Medicines,Atorvastatin 10mg,4,1754.84,338.84
+PE00981,2026-05-12,Hyderabad,Lab Tests,HbA1c Test,5,6525.75,590.15
+PE01495,2026-06-07,Hyderabad,OTC Medicines,Cetirizine 10mg,5,705.7,68.79
+PE01548,2026-06-19,Visakhapatnam,OTC Medicines,Paracetamol 500mg,2,104.2,22.37
+PE01550,2026-06-24,Vijayawada,OTC Medicines,Cetirizine 10mg,3,486.15,93.98
+PE00559,2026-04-10,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,3,1625.85,206.15
+PE00062,2026-04-09,Hyderabad,Prescription Medicines,Insulin Pen,3,339.87,55.39
+PE01584,2026-06-15,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,4,3508.04,
+PE02065,2026-06-08,Bengaluru,Personal Care,Antiseptic Liquid,1,363.97,31.65
+PE00838,2026-05-03,Vijayawada,Lab Tests,Vitamin D Test,5,4151.25,731.56
+PE01847,2026-06-16,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,1,911.17,189.3
+PE01426,2026-06-23,Tirupati,OTC Medicines,Paracetamol 500mg,4,439.44,48.3
+PE00155,2026-04-18,Bengaluru,Prescription Medicines,Amlodipine 5mg,5,1508.15,302.99
+PE01633,2026-06-09,Bengaluru,Wellness & Nutrition,Whey Protein 1kg,5,4237.45,482.47
+PE01063,2026-05-11,Warangal,Prescription Medicines,Azithromycin 500mg,2,452.46,56.31
+PE01487,2026-06-07,Karimnagar,Prescription Medicines,Amlodipine 5mg,5,1967.95,385.2
+PE01198,2026-05-16,Hyderabad,Medical Devices,Nebulizer,5,10774.6,1304.95
+PE01943,2026-06-11,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,4,4256.64,493.76
+PE01970,2026-06-07,Hyderabad,Medical Devices,Pulse Oximeter,1,1299.6,186.15
+PE02047,2026-06-09,Hyderabad,Prescription Medicines,Metformin 500mg,5,2152.95,352.07
+PE01631,2026-06-03,Hyderabad,Personal Care,Antiseptic Liquid,3,1184.25,225.46
+PE02032,2026-06-01,Bengaluru,Personal Care,Face Wash,4,1950.84,237.04
+PE00795,2026-05-30,Bengaluru,OTC Medicines,Cough Syrup 100ml,2,375.24,33.35
+PE00381,2026-04-22,Tirupati,Prescription Medicines,Azithromycin 500mg,2,195.44,37.97
+PE00526,2026-04-19,Karimnagar,Prescription Medicines,Metformin 500mg,4,1846.24,289.7
+PE01848,2026-06-20,Hyderabad,Prescription Medicines,Amlodipine 5mg,4,1502.4,124.31
+PE00286,2026-04-06,Guntur,Personal Care,Hand Sanitizer 500ml,1,139.8,19.64
+PE01205,2026-05-28,Bengaluru,Medical Devices,Thermometer,5,5852.8,685.76
+PE00449,2026-04-12,Tirupati,Personal Care,Sunscreen SPF50,2,627.3,126.14
+PE00006,2026-04-29,Visakhapatnam,OTC Medicines,Cetirizine 10mg,5,478.1,94.99
+PE01064,2026-05-11,Karimnagar,Wellness & Nutrition,Whey Protein 1kg,5,6164.9,645.99
+PE00182,2026-04-27,Nellore,OTC Medicines,Cough Syrup 100ml,5,862.2,160.28
+PE00405,2026-04-22,Warangal,Personal Care,Baby Diaper Pack,2,674.06,124.17
+PE01966,2026-06-23,Hyderabad,Prescription Medicines,Amlodipine 5mg,1,297.95,43.9
+PE00979,2026-05-15,Guntur,Prescription Medicines,Azithromycin 500mg,5,2567.05,459.54
+PE01078,2026-05-21,VIJAYAWADA,Lab Tests,HbA1c Test,2,1076.56,182.83
+PE01791,2026-06-14,Tirupati,Prescription Medicines,Amlodipine 5mg,4,1010.44,138.48
+PE00392,2026-04-09,Visakhapatnam,OTC Medicines,Cough Syrup 100ml,5,710.85,
+PE00676,2026-04-04,Bengaluru,Wellness & Nutrition,Multivitamin Tablets,3,1964.97,184.25
+PE00409,2026-04-29,Visakhapatnam,Personal Care,Antiseptic Liquid,5,852.15,142.52
+PE00156,2026-04-07,Bengaluru,OTC Medicines,Cetirizine 10mg,2,256.6,34.67
+PE00567,2026-04-12,Bengaluru,OTC Medicines,Cough Syrup 100ml,3,388.08,58.62
+PE01282,2026-05-21,Karimnagar,Personal Care,Antiseptic Liquid,1,178.96,16.06
+PE00091,2026-04-17,Visakhapatnam,OTC Medicines,Antacid Tablets,5,492.6,61.33
+PE01509,2026-06-23,Guntur,OTC Medicines,Antacid Tablets,4,521.92,66.73
+PE00314,2026-04-17,Visakhapatnam,OTC Medicines,Antacid Tablets,4,630.16,56.79
+PE01003,2026-05-08,Warangal,OTC Medicines,Paracetamol 500mg,5,363.35,56.62
+PE00487,2026-04-21,Warangal,OTC Medicines,Cetirizine 10mg,5,549.4,75.68
+PE01530,2026-06-01,Guntur,Wellness & Nutrition,Fish Oil Capsules,3,1006.68,144.98
+PE00064,2026-04-28,Vijayawada,Lab Tests,Full Body Checkup,5,6534.5,1381.98
+PE01556,2026-06-20,Guntur,OTC Medicines,ORS Sachet,3,227.16,26.34
+PE00863,2026-05-12,Tirupati,OTC Medicines,Cetirizine 10mg,1,55.62,8.28
+PE01851,2026-06-17,Bengaluru,OTC Medicines,Cetirizine 10mg,5,898.25,183.52
+PE00081,2026-04-22,Hyderabad,Personal Care,Sunscreen SPF50,3,700.53,132.52
+PE01523,2026-06-12,Vijayawada,Personal Care,Hand Sanitizer 500ml,5,1408.15,112.94
+PE01278,2026-05-05,Hyderabad,Prescription Medicines,Atorvastatin 10mg,2,1120.0,245.44
+PE00781,2026-05-29,Nellore,OTC Medicines,Antacid Tablets,5,413.5,60.76
+PE01606,2026-06-17,Guntur,OTC Medicines,Paracetamol 500mg,4,368.88,31.48
+PE01756,2026-06-19,Vijayawada,OTC Medicines,Cough Syrup 100ml,1,185.91,26.43
+PE00753,2026-05-28,Tirupati,OTC Medicines,Cetirizine 10mg,5,391.05,46.58
+PE01466,2026-06-01,Hyderabad,OTC Medicines,Antacid Tablets,2,348.28,28.18
+PE00939,2026-05-26,Nellore,OTC Medicines,Cough Syrup 100ml,1,82.1,17.06
+PE01784,2026-06-09,Hyderabad,OTC Medicines,Paracetamol 500mg,4,463.28,91.89
+PE01991,2026-06-29,Visakhapatnam,Prescription Medicines,Metformin 500mg,5,1012.45,195.24
+PE00263,2026-04-10,Warangal,Prescription Medicines,Atorvastatin 10mg,2,466.68,86.75
+PE00766,2026-05-21,Karimnagar,Medical Devices,Thermometer,4,2957.96,294.97
+PE00665,2026-04-19,Hyderabad,Prescription Medicines,Metformin 500mg,2,332.68,46.42
+PE01514,2026-06-06,Visakhapatnam,OTC Medicines,Antacid Tablets,2,83.84,10.75
+PE01095,2026-05-29,Vijayawada,Wellness & Nutrition,Multivitamin Tablets,4,5145.16,531.08
+PE00066,2026-04-17,Hyderabad,OTC Medicines,Paracetamol 500mg,1,191.54,17.03
+PE00028,2026-04-21,Hyderabad,Prescription Medicines,Amlodipine 5mg,2,230.66,36.04
+PE00436,2026-04-29,Hyderabad,Personal Care,Sunscreen SPF50,4,1354.76,162.2
+PE00986,2026-05-04,Tirupati,Medical Devices,Pulse Oximeter,4,5971.04,723.68
+PE00137,2026-04-22,Bengaluru,Prescription Medicines,Azithromycin 500mg,5,1398.1,296.35
+PE02050,2026-06-13,Visakhapatnam,Medical Devices,Thermometer,4,2781.12,528.41
+PE01933,2026-06-29,Tirupati,OTC Medicines,Cough Syrup 100ml,1,125.94,21.02
+PE01456,2026-06-12,Vijayawada,Personal Care,Hand Sanitizer 500ml,2,603.38,49.85
+PE02087,2026-06-06,Hyderabad,Prescription Medicines,Atorvastatin 10mg,3,1557.45,186.22
+PE01233,2026-05-23,Hyderabad,OTC Medicines,Paracetamol 500mg,5,945.5,177.0
+PE00082,2026-04-21,Tirupati,Prescription Medicines,Insulin Pen,3,402.69,71.25
+PE00245,2026-04-29,Bengaluru,Prescription Medicines,Atorvastatin 10mg,4,1993.88,
+PE01747,2026-06-18,HYDERABAD ,Prescription Medicines,Insulin Pen,5,2707.95,465.9
+PE01768,2026-06-23,Tirupati,Wellness & Nutrition,Multivitamin Tablets,2,2540.98,412.76
+PE00086,2026-04-22,Visakhapatnam,OTC Medicines,Cough Syrup 100ml,3,305.52,38.04
+PE01820,2026-06-27,Nellore,OTC Medicines,Cough Syrup 100ml,5,681.0,103.92
+PE00791,2026-05-14,Hyderabad,OTC Medicines,Antacid Tablets,2,387.52,33.59
+PE00929,2026-05-24,Nellore,Medical Devices,Glucometer Kit,3,2077.98,207.58
+PE01076,2026-05-01,Hyderabad,Prescription Medicines,Metformin 500mg,1,432.26,51.86
+PE00473,2026-04-10,Karimnagar,Personal Care,Hand Sanitizer 500ml,2,929.48,118.13
+PE00914,2026-05-09,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,431.54,
+PE00134,2026-04-12,Nellore,Prescription Medicines,Metformin 500mg,1,508.78,49.98
+PE01958,2026-06-11,Tirupati,Prescription Medicines,Atorvastatin 10mg,1,168.64,30.92
+PE00944,2026-05-04,Hyderabad,Medical Devices,Pulse Oximeter,3,7602.66,1645.73
+PE00796,2026-05-01,Bengaluru,OTC Medicines,Antacid Tablets,5,1079.55,120.96
+PE01727,2026-06-02,Warangal,Prescription Medicines,Azithromycin 500mg,3,1830.75,205.76
+PE00874,2026-05-27,Nellore,Wellness & Nutrition,Fish Oil Capsules,4,1909.32,409.28
+PE01645,2026-06-11,Visakhapatnam,,Fish Oil Capsules,4,1935.36,270.93
+PE01255,2026-05-12,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,1,295.1,24.06
+PE00516,2026-04-25,Tirupati,Personal Care,Face Wash,4,828.48,160.2
+PE00167,2026-04-12,Karimnagar,Personal Care,Hand Sanitizer 500ml,1,272.93,46.05
+PE00800,2026-05-15,Vijayawada,Lab Tests,HbA1c Test,2,1484.52,307.04
+PE01724,2026-06-03,Bengaluru,OTC Medicines,Antacid Tablets,3,125.55,24.39
+PE00555,2026-04-01,Vijayawada,Wellness & Nutrition,Immunity Booster Syrup,2,697.28,77.18
+PE01408,2026-06-27,Visakhapatnam,Lab Tests,Vitamin D Test,4,5819.4,1272.59
+PE00954,2026-05-24,Tirupati,Prescription Medicines,Atorvastatin 10mg,1,645.66,92.36
+PE01642,2026-06-12,Hyderabad,,Glucometer Kit,2,4466.98,834.04
+PE01079,2026-05-17,Karimnagar,Lab Tests,Lipid Profile,4,2246.92,441.13
+PE01849,2026-06-20,Hyderabad,Prescription Medicines,Insulin Pen,3,1524.6,155.14
+PE01279,2026-05-06,bengaluru ,OTC Medicines,Paracetamol 500mg,1,136.35,23.19
+PE00173,2026-04-22,Vijayawada,Medical Devices,Digital BP Monitor,3,4521.33,
+PE01780,2026-06-10,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,289.9,
+PE02031,2026-06-07,Tirupati,Prescription Medicines,Insulin Pen,1,450.2,69.13
+PE01390,2026-05-13,Visakhapatnam,Prescription Medicines,Atorvastatin 10mg,2,490.78,58.12
+PE01403,2026-06-26,Visakhapatnam,Medical Devices,Nebulizer,5,4619.35,498.04
+PE01468,2026-06-19,Vijayawada,Medical Devices,Nebulizer,4,10484.12,1585.7
+PE00058,2026-04-27,Visakhapatnam,OTC Medicines,ORS Sachet,5,832.1,159.22
+PE00773,2026-05-24,Vijayawada,Medical Devices,Glucometer Kit,5,15552.65,1360.75
+PE01965,2026-06-08,Hyderabad,Personal Care,Sunscreen SPF50,4,1764.68,163.53
+PE00037,2026-04-22,Hyderabad,OTC Medicines,ORS Sachet,5,319.35,60.49
+PE00858,2026-05-20,Guntur,Prescription Medicines,Azithromycin 500mg,3,479.34,88.9
+PE01864,2026-06-28,Guntur,Personal Care,Face Wash,1,347.54,60.96
+PE01610,2026-06-12,Vijayawada,OTC Medicines,Cough Syrup 100ml,3,326.22,36.59
+PE00612,2026-04-07,Karimnagar,Prescription Medicines,Amlodipine 5mg,4,1183.04,154.22
+PE02027,2026-06-19,Warangal,OTC Medicines,Cetirizine 10mg,2,337.82,42.48
+PE00481,2026-04-15,Hyderabad,Prescription Medicines,Metformin 500mg,5,3185.0,259.85
+PE00527,2026-04-12,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,1,952.36,188.59
+PE01416,2026-06-08,Hyderabad,OTC Medicines,Cough Syrup 100ml,1,93.44,12.57
+PE00383,2026-04-18,Karimnagar,OTC Medicines,Cough Syrup 100ml,2,405.2,50.51
+PE00804,2026-05-12,Warangal,Lab Tests,HbA1c Test,1,1760.62,353.65
+PE00387,2026-04-22,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,214.62,36.07
+PE01276,2026-05-03,Nellore,Medical Devices,Thermometer,2,2853.1,244.97
+PE00270,2026-04-13,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,3,1628.43,221.36
+PE01803,2026-06-25,Guntur,Lab Tests,HbA1c Test,1,558.48,48.19
+PE01954,2026-06-23,Warangal,Lab Tests,Thyroid Profile,2,2289.96,386.49
+PE01020,2026-05-03,Warangal,Wellness & Nutrition,Calcium + D3 Tablets,1,753.08,130.05
+PE02095,2026-06-24,Tirupati,Personal Care,Antiseptic Liquid,1,422.12,81.08
+PE00779,2026-05-31,Tirupati,Personal Care,Sunscreen SPF50,3,1042.44,
+PE00826,2026-05-26,Bengaluru,Medical Devices,Thermometer,1,2839.47,463.29
+PE01929,2026-06-11,Vijayawada,Prescription Medicines,Insulin Pen,4,2157.36,440.09
+PE00334,2026-04-30,Vijayawada,Medical Devices,Pulse Oximeter,5,4797.0,877.66
+PE00408,2026-04-07,Vijayawada,Personal Care,Face Wash,3,532.83,49.26
+PE00763,2026-05-14,Karimnagar,Prescription Medicines,Insulin Pen,1,524.75,93.77
+PE01071,2026-05-12,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,1,693.71,110.5
+PE00520,2026-04-30,Warangal,OTC Medicines,Cetirizine 10mg,5,944.65,166.63
+PE01181,2026-05-02,Hyderabad,Prescription Medicines,Metformin 500mg,3,681.99,98.77
+PE01431,2026-06-28,Guntur,Personal Care,Face Wash,4,1337.8,226.58
+PE00770,2026-05-31,Warangal,Lab Tests,Thyroid Profile,1,1245.56,247.82
+PE01147,2026-05-10,HYDERABAD ,Prescription Medicines,Insulin Pen,5,1438.15,156.89
+PE01230,2026-05-25,Nellore,Wellness & Nutrition,Immunity Booster Syrup,5,2795.45,612.73
+PE01037,2026-05-06,Warangal,Prescription Medicines,Metformin 500mg,3,574.59,117.18
+PE00374,2026-04-29,Hyderabad,Prescription Medicines,Metformin 500mg,4,465.44,62.96
+PE00966,2026-05-21,Warangal,Prescription Medicines,Metformin 500mg,3,919.59,201.19
+PE00329,2026-04-09,Visakhapatnam,OTC Medicines,Cough Syrup 100ml,5,1008.2,108.78
+PE01292,2026-05-10,Nellore,OTC Medicines,ORS Sachet,1,62.96,8.39
+PE00529,2026-04-12,Hyderabad,Prescription Medicines,Amlodipine 5mg,5,922.85,197.44
+PE01323,2026-05-21,Karimnagar,OTC Medicines,ORS Sachet,2,429.72,54.43
+PE00932,2026-05-29,Guntur,OTC Medicines,Antacid Tablets,3,572.79,124.37
+PE00921,2026-05-10,Hyderabad,OTC Medicines,Paracetamol 500mg,2,137.12,24.36
+PE01877,2026-06-14,Guntur,Wellness & Nutrition,Fish Oil Capsules,2,2696.3,564.34
+PE01025,2026-05-10,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,1,470.0,79.81
+PE01511,2026-06-02,Karimnagar,Medical Devices,Nebulizer,1,2426.96,344.6
+PE01241,2026-05-27,Vijayawada,Lab Tests,Full Body Checkup,1,1514.56,163.12
+PE00557,2026-04-22,Vijayawada,Wellness & Nutrition,Calcium + D3 Tablets,4,1456.84,130.56
+PE01259,2026-05-30,Hyderabad,Personal Care,Antiseptic Liquid,3,347.55,49.81
+PE01524,2026-06-29,Guntur,Prescription Medicines,Atorvastatin 10mg,1,331.61,32.42
+PE01197,2026-05-21,Karimnagar,Medical Devices,Pulse Oximeter,5,5428.15,1077.66
+PE01270,2026-05-29,Guntur,Lab Tests,Lipid Profile,5,8743.5,1573.84
+PE01705,2026-06-14,Warangal,Medical Devices,Thermometer,1,2029.95,329.5
+PE00907,2026-05-03,Karimnagar,Prescription Medicines,Azithromycin 500mg,3,540.21,44.7
+PE01380,2026-05-17,Karimnagar,Wellness & Nutrition,Fish Oil Capsules,1,1027.27,219.11
+PE01350,2026-05-19,Bengaluru,OTC Medicines,Paracetamol 500mg,5,964.5,81.0
+PE00215,2026-04-08,Nellore,Wellness & Nutrition,Whey Protein 1kg,3,3544.17,737.04
+PE00129,2026-04-10,Nellore,OTC Medicines,Paracetamol 500mg,5,781.7,114.12
+PE00591,2026-04-13,Nellore,Prescription Medicines,Atorvastatin 10mg,3,1803.24,201.05
+PE00595,2026-04-04,Visakhapatnam,Wellness & Nutrition,Fish Oil Capsules,3,1494.93,305.09
+PE01839,2026-06-30,Vijayawada,Personal Care,Antiseptic Liquid,1,383.77,58.35
+PE00777,2026-05-03,Nellore,OTC Medicines,Cough Syrup 100ml,1,141.65,18.34
+PE00769,2026-05-20,Bengaluru,Prescription Medicines,Insulin Pen,5,2542.3,295.41
+PE01744,2026-06-05,Hyderabad,Prescription Medicines,Atorvastatin 10mg,5,2135.4,378.73
+PE00247,2026-04-13,Visakhapatnam,OTC Medicines,Antacid Tablets,1,71.47,7.62
+PE00880,2026-05-28,Vijayawada,OTC Medicines,Paracetamol 500mg,4,791.24,71.87
+PE00384,2026-04-19,Hyderabad,Personal Care,Face Wash,1,255.07,26.85
+PE00488,2026-04-13,Karimnagar,Prescription Medicines,Insulin Pen,4,2413.24,439.21
+PE00632,2026-04-16,Guntur,Prescription Medicines,Atorvastatin 10mg,2,708.46,108.94
+PE01759,2026-06-06,Bengaluru,Wellness & Nutrition,Whey Protein 1kg,4,3913.16,356.38
+PE01884,2026-06-06,Hyderabad,Medical Devices,Glucometer Kit,1,2297.09,201.92
+PE01990,2026-06-29,Guntur,OTC Medicines,Cough Syrup 100ml,4,208.92,35.58
+PE00009,2026-04-17,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,5,5879.75,944.12
+PE00212,2026-04-28,Visakhapatnam,Prescription Medicines,Atorvastatin 10mg,3,1436.01,241.7
+PE00206,2026-04-29,Visakhapatnam,Prescription Medicines,Azithromycin 500mg,2,1092.28,194.61
+PE01386,2026-05-04,Hyderabad,Lab Tests,HbA1c Test,4,2727.36,412.53
+PE00238,2026-04-26,bengaluru ,Lab Tests,HbA1c Test,2,2247.38,233.26
+PE01519,2026-06-19,Warangal,OTC Medicines,ORS Sachet,4,577.68,47.62
+PE00824,2026-05-04,Nellore,Personal Care,Hand Sanitizer 500ml,4,1199.36,100.12
+PE00217,2026-04-17,Warangal,Prescription Medicines,Azithromycin 500mg,1,519.4,50.92
+PE01243,2026-05-21,Bengaluru,Personal Care,Baby Diaper Pack,5,1918.3,174.5
+PE01437,2026-06-02,Hyderabad,,Cough Syrup 100ml,5,357.35,32.33
+PE01827,2026-06-19,Guntur,OTC Medicines,Cetirizine 10mg,1,134.43,16.45
+PE01789,2026-06-22,Warangal,Prescription Medicines,Insulin Pen,3,1047.0,121.68
+PE01162,2026-05-08,Bengaluru,Lab Tests,HbA1c Test,4,1869.88,221.09
+PE01529,2026-06-27,Warangal,OTC Medicines,Cetirizine 10mg,3,615.42,111.47
+PE00241,2026-04-23,Vijayawada,Wellness & Nutrition,Immunity Booster Syrup,1,1151.85,202.24
+PE00316,2026-04-02,Karimnagar,Wellness & Nutrition,Fish Oil Capsules,4,3826.96,474.4
+PE00104,2026-04-07,Warangal,Wellness & Nutrition,Immunity Booster Syrup,3,1296.87,283.83
+PE01892,2026-06-19,Vijayawada,Wellness & Nutrition,Calcium + D3 Tablets,3,1451.37,119.95
+PE01897,2026-06-15,Hyderabad,Prescription Medicines,Azithromycin 500mg,3,1505.16,190.6
+PE00535,2026-04-26,Tirupati,Lab Tests,Vitamin D Test,3,2288.49,404.72
+PE00937,2026-05-21, Vijayawada ,Medical Devices,Thermometer,4,7795.92,1237.43
+PE00538,2026-04-24,Bengaluru,Prescription Medicines,Amlodipine 5mg,3,784.29,98.3
+PE00482,2026-04-30, hyderabad,Prescription Medicines,Atorvastatin 10mg,2,273.02,37.56
+PE00415,2026-04-02,HYDERABAD ,OTC Medicines,Cetirizine 10mg,4,429.8,50.49
+PE01669,2026-06-10,Tirupati,Prescription Medicines,Metformin 500mg,5,1457.45,280.29
+PE01564,2026-06-02,Vijayawada,Personal Care,Baby Diaper Pack,2,965.16,95.67
+PE00627,2026-04-21,Bengaluru,Personal Care,Hand Sanitizer 500ml,5,1765.85,365.89
+PE01699,2026-06-10,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,2,1275.66,138.98
+PE00598,2026-04-28,bengaluru ,Personal Care,Hand Sanitizer 500ml,2,685.0,96.33
+PE01928,2026-06-07,Karimnagar,Wellness & Nutrition,Multivitamin Tablets,1,1347.98,171.95
+PE01634,2026-06-13,Nellore,OTC Medicines,Paracetamol 500mg,2,354.5,60.77
+PE01134,2026-05-05,Nellore,Personal Care,Baby Diaper Pack,2,400.02,70.38
+PE00220,2026-04-01,Nellore,Wellness & Nutrition,Whey Protein 1kg,1,812.97,152.6
+PE01813,2026-06-02,Hyderabad,Medical Devices,Glucometer Kit,2,6120.78,1307.5
+PE00848,2026-05-17,Visakhapatnam,Prescription Medicines,Atorvastatin 10mg,3,1592.28,201.07
+PE01090,2026-05-12,Vijayawada,Personal Care,Hand Sanitizer 500ml,4,1773.92,203.34
+PE01031,2026-05-24,Warangal,Prescription Medicines,Amlodipine 5mg,4,2356.16,310.49
+PE01682,2026-06-20,Bengaluru,Medical Devices,Glucometer Kit,3,6533.37,977.46
+PE01315,2026-05-14,Bengaluru,OTC Medicines,Cough Syrup 100ml,1,68.46,12.45
+PE01905,2026-06-17,Vijayawada,Lab Tests,Thyroid Profile,4,5375.72,478.28
+PE01888,2026-06-24,Vijayawada,Wellness & Nutrition,Immunity Booster Syrup,1,813.29,159.91
+PE00782,2026-05-21, hyderabad,OTC Medicines,Paracetamol 500mg,2,224.04,42.67
+PE00850,2026-05-11,Hyderabad,,Paracetamol 500mg,1,146.92,19.15
+PE00851,2026-05-01,Hyderabad,OTC Medicines,Cetirizine 10mg,3,546.24,71.15
+PE00325,2026-04-16,Bengaluru,Wellness & Nutrition,Fish Oil Capsules,3,2169.09,177.01
+PE01029,2026-05-09,Nellore,OTC Medicines,ORS Sachet,4,211.84,43.98
+PE00623,2026-04-06,Hyderabad,OTC Medicines,ORS Sachet,3,312.84,54.04
+PE00973,2026-05-12,Karimnagar,OTC Medicines,Cetirizine 10mg,3,591.81,65.64
+PE00423,2026-04-03,Karimnagar,Prescription Medicines,Metformin 500mg,3,957.45,136.37
+PE01778,2026-06-08,Hyderabad,Prescription Medicines,Atorvastatin 10mg,2,410.28,43.6
+PE01105,2026-05-25,Visakhapatnam,OTC Medicines,ORS Sachet,1,99.51,17.25
+PE00775,2026-05-11,Bengaluru,Medical Devices,Pulse Oximeter,2,1420.1,266.3
+PE01272,2026-05-26,Hyderabad,Personal Care,Hand Sanitizer 500ml,5,1569.55,236.73
+PE00700,2026-04-08,Tirupati,Prescription Medicines,Insulin Pen,5,1276.05,240.44
+PE00135,2026-04-27,Bengaluru,Medical Devices,Pulse Oximeter,4,11324.52,1142.17
+PE02004,2026-06-09,Warangal,Prescription Medicines,Azithromycin 500mg,2,335.04,53.44
+PE01544,2026-06-21,Hyderabad,OTC Medicines,Cough Syrup 100ml,5,235.8,48.5
+PE00249,2026-04-13,Vijayawada,Personal Care,Baby Diaper Pack,5,2518.1,273.58
+PE00788,2026-05-17,Vijayawada,OTC Medicines,ORS Sachet,1,212.5,41.93
+PE02006,2026-06-30,Hyderabad,OTC Medicines,Cough Syrup 100ml,1,163.02,13.94
+PE00002,2026-04-18,Guntur,Prescription Medicines,Insulin Pen,4,2042.28,331.08
+PE00332,2026-04-15,Visakhapatnam,Prescription Medicines,Azithromycin 500mg,5,3184.75,610.87
+PE00664,2026-04-21,bengaluru ,OTC Medicines,Antacid Tablets,3,236.43,
+PE00394,2026-04-10,Tirupati,Wellness & Nutrition,Immunity Booster Syrup,5,3408.0,349.35
+PE00239,2026-04-26,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,2,534.12,97.37
+PE00510,2026-04-29,Vijayawada,Prescription Medicines,Insulin Pen,5,2710.6,567.85
+PE01574,2026-06-11,Nellore,OTC Medicines,Cetirizine 10mg,1,206.46,
+PE00512,2026-04-15,Warangal,OTC Medicines,Cetirizine 10mg,5,1093.85,118.04
+PE00694,2026-04-16,Warangal,Medical Devices,Pulse Oximeter,1,3082.18,669.99
+PE01576,2026-06-28,Nellore,OTC Medicines,Antacid Tablets,2,318.5,41.27
+PE01401,2026-06-15,Vijayawada,Wellness & Nutrition,Fish Oil Capsules,3,1115.82,177.03
+PE00859,2026-05-13,Vijayawada,Wellness & Nutrition,Multivitamin Tablets,3,994.32,218.16
+PE00729,2026-05-27,Nellore,Prescription Medicines,Atorvastatin 10mg,4,721.52,120.76
+PE02096,2026-06-14,Hyderabad,Lab Tests,Full Body Checkup,3,1426.74,164.04
+PE01099,2026-05-24,Nellore,Wellness & Nutrition,Fish Oil Capsules,4,1602.48,292.81
+PE00026,2026-04-15,Visakhapatnam,Medical Devices,Nebulizer,5,10565.15,1097.75
+PE01264,2026-05-04,Nellore,Prescription Medicines,Amlodipine 5mg,5,599.7,79.16
+PE00459,2026-04-27,Bengaluru,Personal Care,Face Wash,4,928.6,121.79
+PE01341,2026-05-30,Hyderabad,Medical Devices,Digital BP Monitor,3,3347.13,302.17
+PE01880,2026-06-12,Nellore,OTC Medicines,ORS Sachet,5,493.9,84.65
+PE00273,2026-04-19,Hyderabad,Prescription Medicines,Insulin Pen,4,1152.8,158.24
+PE00493,2026-04-22,Vijayawada,Personal Care,Sunscreen SPF50,5,1694.45,155.35
+PE01889,2026-06-02,Nellore,OTC Medicines,Cough Syrup 100ml,4,242.44,
+PE01462,2026-06-18,Vijayawada,Lab Tests,HbA1c Test,3,2556.63,528.18
+PE00480,2026-04-05,Visakhapatnam,Wellness & Nutrition,Whey Protein 1kg,4,3867.4,425.61
+PE00951,2026-05-14,Guntur,Personal Care,Baby Diaper Pack,5,586.2,49.91
+PE01691,2026-06-22,Hyderabad,OTC Medicines,Cetirizine 10mg,3,612.81,95.29
+PE01635,2026-06-07,Bengaluru,Medical Devices,Glucometer Kit,2,1977.84,226.94
+PE01198,2026-05-16,Hyderabad,Medical Devices,Nebulizer,5,10774.6,1304.95
+PE00561,2026-04-07,Bengaluru,OTC Medicines,Paracetamol 500mg,5,870.75,82.8
+PE00778,2026-05-31,Hyderabad,Prescription Medicines,Metformin 500mg,3,1366.44,253.74
+PE01641,2026-06-08,Nellore,Wellness & Nutrition,Calcium + D3 Tablets,1,266.82,32.38
+PE01124,2026-05-19,Guntur,OTC Medicines,Cough Syrup 100ml,4,227.04,34.31
+PE01721,2026-06-22,Tirupati,,Cetirizine 10mg,5,230.65,
+PE01316,2026-05-23,Karimnagar,Personal Care,Antiseptic Liquid,4,1357.96,113.14
+PE00401,2026-04-27,Tirupati,Prescription Medicines,Azithromycin 500mg,1,495.81,73.04
+PE00177,2026-04-26,Nellore,Wellness & Nutrition,Calcium + D3 Tablets,1,383.58,48.45
+PE01268,2026-05-11,Vijayawada,Prescription Medicines,Metformin 500mg,2,935.04,85.39
+PE01739,2026-06-25,Hyderabad,Personal Care,Baby Diaper Pack,1,210.5,25.48
+PE01486,2026-06-21,Bengaluru,Personal Care,Sunscreen SPF50,1,374.0,48.92
+PE01910,2026-06-06,Nellore,OTC Medicines,Antacid Tablets,1,82.37,6.92
+PE01042,2026-05-13,Karimnagar,Medical Devices,Digital BP Monitor,3,7151.34,1428.44
+PE01200,2026-05-25, hyderabad,Prescription Medicines,Metformin 500mg,5,1488.4,281.01
+PE00547,2026-04-07,Visakhapatnam,Prescription Medicines,Amlodipine 5mg,5,2200.8,361.28
+PE00244,2026-04-08,Visakhapatnam,Wellness & Nutrition,Multivitamin Tablets,2,2224.32,222.54
+PE01674,2026-06-07,Nellore,Prescription Medicines,Azithromycin 500mg,5,1309.2,223.04
+PE00610,2026-04-10,Hyderabad,Medical Devices,Pulse Oximeter,5,13817.05,1543.68
+PE01525,2026-06-23,Hyderabad,Medical Devices,Pulse Oximeter,3,2579.28,420.73
+PE01291,2026-05-20,vijayawada,Wellness & Nutrition,Fish Oil Capsules,4,1894.88,222.57
+PE00354,2026-04-06,Karimnagar,Prescription Medicines,Insulin Pen,2,444.18,85.47
+PE00507,2026-04-21,Bengaluru,,Paracetamol 500mg,4,795.44,170.42
+PE01260,2026-05-17,Visakhapatnam,Medical Devices,Nebulizer,4,4841.68,498.75
+PE01367,2026-05-28,Hyderabad,OTC Medicines,ORS Sachet,3,236.37,23.98
+PE01322,2026-05-26,Tirupati,OTC Medicines,Paracetamol 500mg,3,283.05,
+PE00740,2026-05-14,HYDERABAD ,OTC Medicines,Paracetamol 500mg,3,426.45,66.84
+PE00213,2026-04-11,Warangal,Medical Devices,Nebulizer,1,2518.34,514.82
+PE00576,2026-04-13,Tirupati,Personal Care,Face Wash,1,430.69,81.77
+PE01154,2026-05-20,Warangal,Personal Care,Baby Diaper Pack,1,149.52,24.79
+PE01117,2026-05-25,Visakhapatnam,OTC Medicines,Cetirizine 10mg,3,325.26,31.21
+PE01121,2026-05-28,Tirupati,Personal Care,Hand Sanitizer 500ml,4,1626.2,230.31
+PE00306,2026-04-10,Bengaluru,OTC Medicines,Cough Syrup 100ml,3,606.48,91.68
+PE01837,2026-06-06,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,1,390.19,37.34
+PE00608,2026-04-07,Warangal,Wellness & Nutrition,Fish Oil Capsules,5,1735.85,227.49
+PE00074,2026-04-22,Vijayawada,OTC Medicines,Antacid Tablets,2,235.26,29.66
+PE00887,2026-05-23,Hyderabad,Personal Care,Hand Sanitizer 500ml,5,944.45,189.59
+PE02069,2026-06-19,Hyderabad,OTC Medicines,Cetirizine 10mg,2,174.38,24.2
+PE01155,2026-05-24,VIJAYAWADA,Prescription Medicines,Metformin 500mg,4,1592.76,135.61
+PE00472,2026-04-07,Visakhapatnam,Prescription Medicines,Amlodipine 5mg,4,2482.36,379.24
+PE02048,2026-06-10,Nellore,Prescription Medicines,Atorvastatin 10mg,4,1042.2,
+PE00593,2026-04-15,Bengaluru,Medical Devices,Pulse Oximeter,3,3786.18,627.3
+PE01484,2026-06-01,Vijayawada,OTC Medicines,ORS Sachet,2,169.78,27.48
+PE01896,2026-06-28,Bengaluru,Prescription Medicines,Metformin 500mg,3,585.87,88.01
+PE02036,2026-06-04,Nellore,,ORS Sachet,2,263.0,37.43
+PE00178,2026-04-01,Warangal,Prescription Medicines,Atorvastatin 10mg,2,424.48,38.59
+PE00902,2026-05-07,Tirupati,Medical Devices,Glucometer Kit,2,3113.92,410.98
+PE01280,2026-05-10,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,4,1479.36,215.17
+PE01448,2026-06-20,Vijayawada,Personal Care,Hand Sanitizer 500ml,2,245.2,
+PE00650,2026-04-17,Hyderabad,Personal Care,Sunscreen SPF50,4,1852.8,152.28
+PE01565,2026-06-23,Bengaluru,,ORS Sachet,2,133.4,
+PE01043,2026-05-03,Hyderabad,OTC Medicines,Antacid Tablets,1,108.62,18.27
+PE00190,2026-04-15,Karimnagar,OTC Medicines,Cetirizine 10mg,5,512.95,97.34
+PE00364,2026-04-16,Bengaluru,OTC Medicines,ORS Sachet,3,493.2,70.81
+PE01310,2026-05-13,Tirupati,Personal Care,Baby Diaper Pack,5,1436.85,156.94
+PE00339,2026-04-16,Bengaluru,Medical Devices,Nebulizer,1,995.15,
+PE00554,2026-04-19,Tirupati,Personal Care,Face Wash,1,136.53,25.37
+PE00903,2026-05-17,Guntur,Prescription Medicines,Insulin Pen,3,856.68,104.67
+PE01855,2026-06-04,Tirupati,Medical Devices,Nebulizer,2,2579.88,282.54
+PE00012,2026-04-18,Bengaluru,Lab Tests,Vitamin D Test,4,5350.64,658.49
+PE01720,2026-06-15,Hyderabad,Lab Tests,Lipid Profile,4,6254.72,899.93
+PE01754,2026-06-17,Hyderabad,Medical Devices,Glucometer Kit,1,1488.19,205.81
+PE01041,2026-05-28,Hyderabad,Prescription Medicines,Atorvastatin 10mg,4,2101.44,215.59
+PE01746,2026-06-14,Vijayawada,OTC Medicines,Paracetamol 500mg,1,174.64,30.09
+PE01192,2026-05-21,Guntur,OTC Medicines,ORS Sachet,5,613.8,93.61
+PE01343,2026-05-05, Vijayawada ,Wellness & Nutrition,Multivitamin Tablets,1,521.65,74.07
+PE00490,2026-04-13,Bengaluru,Wellness & Nutrition,Whey Protein 1kg,5,3576.95,486.82
+PE01769,2026-06-09,Hyderabad,Personal Care,Antiseptic Liquid,2,173.1,16.4
+PE00843,2026-05-08,Bengaluru,Personal Care,Baby Diaper Pack,3,273.27,26.29
+PE01128,2026-05-12,Tirupati,Prescription Medicines,Azithromycin 500mg,5,1770.85,331.29
+PE01202,2026-05-18,Guntur,Lab Tests,Thyroid Profile,2,2034.46,333.23
+PE01035,2026-05-06,Bengaluru,Prescription Medicines,Azithromycin 500mg,2,201.96,42.36
+PE00287,2026-04-06,Vijayawada,Prescription Medicines,Insulin Pen,2,701.36,64.91
+PE00774,2026-05-04,vijayawada,OTC Medicines,Antacid Tablets,3,443.7,73.14
+PE01776,2026-06-30,Hyderabad,Prescription Medicines,Atorvastatin 10mg,4,432.24,38.66
+PE01461,2026-06-05,Vijayawada,Medical Devices,Pulse Oximeter,2,4899.4,
+PE00957,2026-05-09,Karimnagar,Lab Tests,HbA1c Test,2,1059.58,164.12
+PE01026,2026-05-15,Warangal,Personal Care,Face Wash,2,202.46,34.87
+PE01520,2026-06-28,Guntur,OTC Medicines,ORS Sachet,5,428.05,48.93
+PE00674,2026-04-19,Nellore,OTC Medicines,ORS Sachet,1,116.21,17.37
+PE00470,2026-04-30,Vijayawada,OTC Medicines,ORS Sachet,1,174.3,15.28
+PE00605,2026-04-23,Bengaluru,Personal Care,Baby Diaper Pack,2,1011.68,174.54
+PE01814,2026-06-20,Bengaluru,OTC Medicines,Antacid Tablets,1,156.29,24.92
+PE00536,2026-04-21,VIJAYAWADA,Personal Care,Sunscreen SPF50,2,853.66,161.87
+PE00969,2026-05-03,Vijayawada,OTC Medicines,Paracetamol 500mg,5,1042.65,94.98
+PE01661,2026-06-18,Hyderabad,Prescription Medicines,Atorvastatin 10mg,3,500.4,44.69
+PE00393,2026-04-20,Visakhapatnam,OTC Medicines,Paracetamol 500mg,5,389.8,71.86
+PE01473,2026-06-26,Visakhapatnam,OTC Medicines,ORS Sachet,3,380.85,62.79
+PE01802,2026-06-02,Warangal,Wellness & Nutrition,Calcium + D3 Tablets,2,771.18,163.14
+PE00377,2026-04-23,Visakhapatnam,Prescription Medicines,Azithromycin 500mg,1,195.94,23.61
+PE01098,2026-05-10,Karimnagar,Prescription Medicines,Insulin Pen,4,1379.2,205.61
+PE00584,2026-04-26,Hyderabad,OTC Medicines,ORS Sachet,5,1066.4,214.09
+PE00089,2026-04-19,Bengaluru,Prescription Medicines,Amlodipine 5mg,1,546.37,109.72
+PE01057,2026-05-23,Hyderabad,Wellness & Nutrition,Immunity Booster Syrup,1,1151.36,212.04
+PE00825,2026-05-11,Guntur,OTC Medicines,Antacid Tablets,4,413.0,49.88
+PE00738,2026-05-07,Nellore,Wellness & Nutrition,Multivitamin Tablets,5,3614.45,634.06
+PE01743,2026-06-14,Tirupati,Personal Care,Sunscreen SPF50,1,381.77,53.89
+PE01676,2026-06-05,Visakhapatnam,Prescription Medicines,Amlodipine 5mg,1,628.26,132.66
+PE01109,2026-05-08,Tirupati,Prescription Medicines,Insulin Pen,2,1087.38,101.22
+PE01214,2026-05-28,Karimnagar,OTC Medicines,Paracetamol 500mg,5,1092.8,141.48
+PE01281,2026-05-20,Nellore,,Azithromycin 500mg,4,1096.2,168.93
+PE00279,2026-04-05,Bengaluru,Prescription Medicines,Insulin Pen,5,1909.8,236.33
+PE00337,2026-04-16,Visakhapatnam,OTC Medicines,Cough Syrup 100ml,3,380.82,46.83
+PE01866,2026-06-26,Hyderabad,Prescription Medicines,Insulin Pen,5,2324.5,326.89
+PE01139,2026-05-06,Bengaluru,OTC Medicines,Paracetamol 500mg,5,598.8,110.08
+PE01180,2026-05-27,Karimnagar,Wellness & Nutrition,Fish Oil Capsules,1,900.3,78.22
+PE00817,2026-05-09,Vijayawada,Lab Tests,HbA1c Test,1,636.8,
+PE00230,2026-04-06,Guntur,OTC Medicines,Antacid Tablets,2,294.08,44.46
+PE01766,2026-06-30,Visakhapatnam,Prescription Medicines,Azithromycin 500mg,1,646.76,104.11
+PE00266,2026-04-03,Karimnagar,Medical Devices,Nebulizer,2,4195.12,565.41
+PE01070,2026-05-21,Guntur,Personal Care,Face Wash,5,2053.85,426.03
+PE01946,2026-06-30,Karimnagar,Personal Care,Antiseptic Liquid,1,434.73,46.31
+PE01176,2026-05-03,Vijayawada,Personal Care,Antiseptic Liquid,5,464.2,101.3
+PE00728,2026-05-10,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,5,4227.05,376.8
+PE00014,2026-04-15,Warangal,OTC Medicines,Antacid Tablets,5,1034.25,134.86
+PE01066,2026-05-13,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,5,5524.3,1152.05
+PE02061,2026-06-14,Bengaluru,OTC Medicines,Paracetamol 500mg,2,270.68,27.98
+PE00464,2026-04-02,Vijayawada,Lab Tests,Full Body Checkup,2,2843.82,616.68
+PE00300,2026-04-30,Hyderabad,OTC Medicines,ORS Sachet,4,410.92,71.37
+PE00675,2026-04-25,Vijayawada,Personal Care,Sunscreen SPF50,3,909.39,178.67
+PE01703,2026-06-11,HYDERABAD ,Personal Care,Antiseptic Liquid,5,2689.85,220.69
+PE00234,2026-04-27,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,3,1833.39,286.53
+PE00861,2026-05-20,Hyderabad,Personal Care,Baby Diaper Pack,1,388.22,45.56
+PE01375,2026-05-19,Hyderabad,Prescription Medicines,Atorvastatin 10mg,1,432.68,59.87
+PE00617,2026-04-12,Visakhapatnam,Wellness & Nutrition,Fish Oil Capsules,3,883.23,99.34
+PE01976,2026-06-19,Hyderabad,OTC Medicines,Antacid Tablets,4,816.28,143.87
+PE01017,2026-05-11,Nellore,Prescription Medicines,Amlodipine 5mg,4,1683.2,333.08
+PE00078,2026-04-17,Bengaluru,Medical Devices,Thermometer,2,3119.28,532.62
+PE00485,2026-04-09,Vijayawada,Wellness & Nutrition,Fish Oil Capsules,4,1698.48,366.08
+PE01810,2026-06-06,Guntur,OTC Medicines,ORS Sachet,5,476.95,66.42
+PE01505,2026-06-19,Vijayawada,Medical Devices,Thermometer,5,11638.3,1940.68
+PE01881,2026-06-29,Bengaluru,Prescription Medicines,Atorvastatin 10mg,4,2470.36,515.86
+PE00759,2026-05-16,Bengaluru,OTC Medicines,Paracetamol 500mg,2,214.42,17.46
+PE00583,2026-04-19,Tirupati,Lab Tests,Lipid Profile,3,1565.64,
+PE01830,2026-06-14,Hyderabad,Personal Care,Sunscreen SPF50,5,2181.35,360.66
+PE00476,2026-04-08,Nellore,Prescription Medicines,Metformin 500mg,1,360.48,44.65
+PE01325,2026-05-21,Vijayawada,OTC Medicines,Paracetamol 500mg,4,633.52,137.03
+PE01583,2026-06-16,Guntur,,Fish Oil Capsules,1,1271.07,209.55
+PE01302,2026-05-25,Warangal,Prescription Medicines,Insulin Pen,1,177.88,16.77
+PE01413,2026-06-05,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,130.48,21.04
+PE01391,2026-05-07,Guntur,Personal Care,Antiseptic Liquid,3,489.96,62.76
+PE00020,2026-04-09,Hyderabad,OTC Medicines,Antacid Tablets,3,203.58,25.22
+PE01704,2026-06-05,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,4,1926.44,381.83
+PE00169,2026-04-17,Tirupati,Wellness & Nutrition,Whey Protein 1kg,4,2164.08,341.43
+PE01781,2026-06-19,Vijayawada,Personal Care,Antiseptic Liquid,3,790.26,168.0
+PE00257,2026-04-03,Bengaluru,OTC Medicines,Paracetamol 500mg,3,407.16,40.39
+PE01842,2026-06-22,Guntur,Medical Devices,Nebulizer,1,2196.62,268.76
+PE01859,2026-06-10,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,2,1804.42,255.3
+PE01186,2026-05-15,Vijayawada,Wellness & Nutrition,Fish Oil Capsules,4,1462.84,149.75
+PE00782,2026-05-21, hyderabad,OTC Medicines,Paracetamol 500mg,2,224.04,42.67
+PE00261,2026-04-07,Karimnagar,Medical Devices,Nebulizer,4,10441.24,2207.8
+PE00285,2026-04-28,Nellore,Prescription Medicines,Atorvastatin 10mg,2,250.68,52.37
+PE01246,2026-05-20,Hyderabad,OTC Medicines,Cetirizine 10mg,2,276.26,41.19
+PE00353,2026-04-05,Warangal,Medical Devices,Pulse Oximeter,4,9582.08,1109.9
+PE01561,2026-06-25,Hyderabad,Medical Devices,Pulse Oximeter,5,6950.1,635.96
+PE00315,2026-04-03,Hyderabad,Personal Care,Face Wash,5,1412.9,126.39
+PE01059,2026-05-06,Guntur,OTC Medicines,Paracetamol 500mg,5,205.8,
+PE00789,2026-05-09,Tirupati,Prescription Medicines,Metformin 500mg,5,2530.5,331.89
+PE01239,2026-05-14,Vijayawada,OTC Medicines,Cough Syrup 100ml,4,563.56,122.48
+PE00046,2026-04-10,Vijayawada,Personal Care,Sunscreen SPF50,4,919.48,189.79
+PE00893,2026-05-07,Warangal,Personal Care,Baby Diaper Pack,2,364.0,
+PE00255,2026-04-07,Hyderabad,OTC Medicines,ORS Sachet,1,109.64,9.41
+PE01102,2026-05-27,Warangal,Prescription Medicines,Metformin 500mg,1,121.61,19.83
+PE00734,2026-05-05,Visakhapatnam,Wellness & Nutrition,Fish Oil Capsules,3,1987.95,223.71
+PE00004,2026-04-13,Nellore,Wellness & Nutrition,Whey Protein 1kg,3,1949.43,428.58
+PE00697,2026-04-24,Hyderabad,OTC Medicines,ORS Sachet,1,108.46,16.81
+PE00494,2026-04-03,Hyderabad,Prescription Medicines,Atorvastatin 10mg,5,1788.95,337.5
+PE01785,2026-06-04,Visakhapatnam,Wellness & Nutrition,Multivitamin Tablets,3,2544.84,413.7
+PE00549,2026-04-30,Bengaluru,OTC Medicines,Cetirizine 10mg,2,84.56,11.84
+PE00268,2026-04-14,Hyderabad,Prescription Medicines,Atorvastatin 10mg,3,1439.19,161.13
+PE02037,2026-06-10,Hyderabad,Prescription Medicines,Insulin Pen,3,461.67,55.37
+PE00186,2026-04-07,Tirupati,Personal Care,Antiseptic Liquid,3,1598.34,231.25
+PE01152,2026-05-14,Guntur,OTC Medicines,Cough Syrup 100ml,4,358.76,41.95
+PE02089,2026-06-17,Bengaluru,OTC Medicines,ORS Sachet,4,692.2,69.9
+PE01652,2026-06-02,Bengaluru,OTC Medicines,Cough Syrup 100ml,3,362.88,30.68
+PE00400,2026-04-29,Hyderabad,,Antacid Tablets,1,92.08,7.98
+PE01352,2026-05-04,Hyderabad,OTC Medicines,ORS Sachet,2,85.82,
+PE00184,2026-04-06,vijayawada,OTC Medicines,Antacid Tablets,5,557.5,48.41
+PE01301,2026-05-07,Tirupati,Prescription Medicines,Amlodipine 5mg,2,892.26,165.79
+PE01056,2026-05-04,Hyderabad,Medical Devices,Thermometer,1,1693.04,305.63
+PE00879,2026-05-18,Vijayawada,Medical Devices,Glucometer Kit,4,4379.2,382.28
+PE01599,2026-06-22,Hyderabad,OTC Medicines,Cough Syrup 100ml,1,163.0,16.49
+PE01470,2026-06-13,Bengaluru,OTC Medicines,Antacid Tablets,5,945.1,164.8
+PE00007,2026-04-13,Vijayawada,Prescription Medicines,Metformin 500mg,5,2002.45,403.32
+PE02072,2026-06-26,Vijayawada,Wellness & Nutrition,Fish Oil Capsules,1,578.16,61.45
+PE00083,2026-04-05,Visakhapatnam,OTC Medicines,Paracetamol 500mg,3,645.06,136.77
+PE00330,2026-04-05,Guntur,OTC Medicines,Cetirizine 10mg,1,52.87,4.87
+PE01854,2026-06-21,Bengaluru,Prescription Medicines,Metformin 500mg,1,134.9,21.65
+PE01171,2026-05-06,Guntur,Lab Tests,Full Body Checkup,1,785.09,77.36
+PE01119,2026-05-07,Vijayawada,OTC Medicines,ORS Sachet,5,311.75,57.33
+PE00646,2026-04-25,Hyderabad,Prescription Medicines,Metformin 500mg,1,210.09,27.83
+PE00151,2026-04-22, hyderabad,Lab Tests,HbA1c Test,1,1256.57,230.34
+PE00719,2026-05-04,Warangal,Personal Care,Antiseptic Liquid,4,1634.6,200.26
+PE00895,2026-05-29,Guntur,Prescription Medicines,Atorvastatin 10mg,2,1001.98,
+PE01890,2026-06-18,Vijayawada,OTC Medicines,Antacid Tablets,5,278.2,50.43
+PE00378,2026-04-14,Hyderabad,Prescription Medicines,Insulin Pen,4,456.88,64.43
+PE01765,2026-06-27,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,2,1972.98,433.07
+PE02076,2026-06-08,Nellore,Prescription Medicines,Atorvastatin 10mg,3,824.91,70.06
+PE02022,2026-06-14,Vijayawada,OTC Medicines,Paracetamol 500mg,1,204.68,35.58
+PE01883,2026-06-04,Warangal,Prescription Medicines,Amlodipine 5mg,1,106.96,
+PE01006,2026-05-11,Hyderabad,Prescription Medicines,Azithromycin 500mg,5,663.3,79.71
+PE01500,2026-06-26,Nellore,Medical Devices,Pulse Oximeter,4,10170.92,1077.55
+PE01106,2026-05-23,Vijayawada,OTC Medicines,Antacid Tablets,1,106.68,20.0
+PE00641,2026-04-27,Bengaluru,OTC Medicines,Cetirizine 10mg,3,543.99,115.45
+PE01238,2026-05-23,Warangal,Personal Care,Antiseptic Liquid,3,660.99,111.19
+PE01231,2026-05-11,Guntur,OTC Medicines,ORS Sachet,2,240.78,34.89
+PE00750,2026-05-17,Hyderabad,Prescription Medicines,Azithromycin 500mg,4,377.16,37.58
+PE00686,2026-04-19,Visakhapatnam,Wellness & Nutrition,Fish Oil Capsules,4,1101.08,113.67
+PE02083,2026-06-19,Guntur,Lab Tests,Vitamin D Test,5,6244.15,820.91
+PE01508,2026-06-15,Tirupati,Lab Tests,HbA1c Test,1,1406.44,300.55
+PE01995,2026-06-30,Vijayawada,Prescription Medicines,Metformin 500mg,5,2331.25,245.4
+PE00875,2026-05-27,Bengaluru,Prescription Medicines,Atorvastatin 10mg,5,452.4,93.62
+PE01506,2026-06-26,Guntur,Prescription Medicines,Atorvastatin 10mg,3,1486.95,269.84
+PE00833,2026-05-12,Visakhapatnam,Wellness & Nutrition,Whey Protein 1kg,1,691.76,151.75
+PE01209,2026-05-17,Warangal,Personal Care,Baby Diaper Pack,3,1529.31,173.75
+PE01077,2026-05-15,Bengaluru,Lab Tests,Thyroid Profile,1,654.29,96.74
+PE00708,2026-05-12,Tirupati,OTC Medicines,Antacid Tablets,1,217.59,25.18
+PE01853,2026-06-16,Vijayawada,Personal Care,Antiseptic Liquid,5,423.7,82.52
+PE01614,2026-06-04,Hyderabad,Prescription Medicines,Metformin 500mg,2,924.36,138.91
+PE00355,2026-04-28,Hyderabad,Personal Care,Face Wash,5,2086.9,167.82
+PE01150,2026-05-30,Bengaluru,Medical Devices,Pulse Oximeter,4,4107.44,441.66
+PE00566,2026-04-16,Warangal,Prescription Medicines,Metformin 500mg,4,2431.76,534.67
+PE00446,2026-04-16,Hyderabad,OTC Medicines,Antacid Tablets,4,176.76,19.85
+PE01527,2026-06-18,Vijayawada,Medical Devices,Pulse Oximeter,3,4794.45,1038.75
+PE00663,2026-04-09,Guntur,Lab Tests,Thyroid Profile,4,2696.8,529.29
+PE01290,2026-05-07,Karimnagar,Prescription Medicines,Azithromycin 500mg,5,2053.05,276.84
+PE00968,2026-05-27,Visakhapatnam,Medical Devices,Nebulizer,2,6086.08,756.85
+PE00176,2026-04-14,Warangal,Prescription Medicines,Atorvastatin 10mg,4,458.6,38.17
+PE01018,2026-05-19,Vijayawada,Medical Devices,Nebulizer,5,1864.7,213.66
+PE00532,2026-04-09,Nellore,Lab Tests,Vitamin D Test,4,5934.96,559.19
+PE01603,2026-06-26,Nellore,Wellness & Nutrition,Fish Oil Capsules,2,1540.24,135.91
+PE01972,2026-06-18,Hyderabad,OTC Medicines,ORS Sachet,2,163.9,16.68
+PE02064,2026-06-11,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,1,387.29,82.23
+PE00367,2026-04-14,Hyderabad,OTC Medicines,Cetirizine 10mg,5,896.5,105.2
+PE00884,2026-05-14,Karimnagar,OTC Medicines,Antacid Tablets,4,831.12,126.02
+PE01398,2026-05-09,Bengaluru,OTC Medicines,Paracetamol 500mg,2,132.34,
+PE00631,2026-04-15,Hyderabad,Wellness & Nutrition,Immunity Booster Syrup,3,1166.88,105.13
+PE01984,2026-06-13,Visakhapatnam,OTC Medicines,Paracetamol 500mg,4,166.28,16.3
+PE00226,2026-04-07,Bengaluru,Prescription Medicines,Azithromycin 500mg,4,2519.6,510.5
+PE01440,2026-06-25,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,1,838.29,71.96
+PE01142,2026-05-26,Bengaluru,Medical Devices,Pulse Oximeter,2,1616.38,280.21
+PE01449,2026-06-21,Hyderabad,Prescription Medicines,Metformin 500mg,2,211.54,42.03
+PE01844,2026-06-04,Hyderabad,OTC Medicines,Cetirizine 10mg,4,785.88,112.82
+PE00519,2026-04-19,Bengaluru,OTC Medicines,Paracetamol 500mg,2,250.98,52.27
+PE01265,2026-05-17,Warangal,OTC Medicines,Paracetamol 500mg,2,351.96,49.27
+PE01918,2026-06-09,Hyderabad,Prescription Medicines,Atorvastatin 10mg,5,1108.85,137.8
+PE01974,2026-06-17,Hyderabad,Personal Care,Sunscreen SPF50,3,758.46,165.65
+PE01709,2026-06-11,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,5,1879.75,168.17
+PE00288,2026-04-06,Visakhapatnam,Lab Tests,Full Body Checkup,5,3911.8,821.7
+PE01593,2026-06-03,Vijayawada,Prescription Medicines,Atorvastatin 10mg,3,1540.5,280.53
+PE01805,2026-06-18,Warangal,OTC Medicines,Paracetamol 500mg,2,163.86,23.36
+PE01547,2026-06-07,Tirupati,Personal Care,Hand Sanitizer 500ml,3,1341.66,203.52
+PE01481,2026-06-15,Warangal,OTC Medicines,Cough Syrup 100ml,3,525.0,99.34
+PE01212,2026-05-11,Guntur,Prescription Medicines,Azithromycin 500mg,3,522.87,85.94
+PE01846,2026-06-03,Warangal,OTC Medicines,Paracetamol 500mg,3,310.02,27.28
+PE01166,2026-05-06,Visakhapatnam,OTC Medicines,Antacid Tablets,1,177.52,35.67
+PE01538,2026-06-19,Nellore,Lab Tests,Thyroid Profile,3,3877.71,768.34
+PE00390,2026-04-20,Vijayawada,Lab Tests,HbA1c Test,4,2766.12,394.29
+PE00606,2026-04-03,Bengaluru,Prescription Medicines,Azithromycin 500mg,5,1740.15,224.07
+PE01401,2026-06-15,Vijayawada,Wellness & Nutrition,Fish Oil Capsules,3,1115.82,177.03
+PE00515,2026-04-24,Bengaluru,Medical Devices,Nebulizer,1,3149.85,332.05
+PE01942,2026-06-25,Vijayawada,Wellness & Nutrition,Immunity Booster Syrup,5,6802.0,576.96
+PE01767,2026-06-14,Bengaluru,Wellness & Nutrition,Multivitamin Tablets,1,494.87,90.15
+PE00513,2026-04-29,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,177.28,24.26
+PE00678,2026-04-29,Visakhapatnam,Prescription Medicines,Insulin Pen,3,490.62,78.56
+PE01719,2026-06-07,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,249.36,39.2
+PE00534,2026-04-03,Visakhapatnam,Personal Care,Hand Sanitizer 500ml,5,1006.6,94.54
+PE01921,2026-06-23,Hyderabad,OTC Medicines,ORS Sachet,4,648.52,56.62
+PE01366,2026-05-05,Vijayawada,Medical Devices,Thermometer,5,14086.65,2906.12
+PE00102,2026-04-19,Visakhapatnam,OTC Medicines,ORS Sachet,3,297.54,24.97
+PE01790,2026-06-11,Hyderabad,Prescription Medicines,Insulin Pen,3,1090.62,238.82
+PE01040,2026-05-15,Hyderabad,OTC Medicines,Cough Syrup 100ml,1,132.6,27.32
+PE00934,2026-05-08,Tirupati,Prescription Medicines,Insulin Pen,1,567.02,119.34
+PE01558,2026-06-07,Vijayawada,Medical Devices,Nebulizer,2,2223.48,435.7
+PE00358,2026-04-11,Nellore,OTC Medicines,Antacid Tablets,3,455.22,48.54
+PE00812,2026-05-02,Tirupati,Personal Care,Antiseptic Liquid,1,210.09,34.49
+PE01607,2026-06-27,Visakhapatnam,Wellness & Nutrition,Whey Protein 1kg,5,2625.25,461.77
+PE00100,2026-04-10,Guntur,Medical Devices,Digital BP Monitor,2,3633.1,742.33
+PE02011,2026-06-25,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,5,2927.75,530.42
+PE00548,2026-04-04,Tirupati,Prescription Medicines,Atorvastatin 10mg,4,1060.0,205.19
+PE00395,2026-04-01,Warangal,,Baby Diaper Pack,1,199.23,19.12
+PE02010,2026-06-08,Hyderabad,OTC Medicines,ORS Sachet,3,571.23,117.51
+PE00615,2026-04-21,Karimnagar,Prescription Medicines,Metformin 500mg,4,1524.16,162.13
+PE02039,2026-06-26,Warangal,,Cetirizine 10mg,1,145.91,29.59
+PE01381,2026-05-09,Bengaluru,Prescription Medicines,Insulin Pen,2,327.3,60.74
+PE00660,2026-04-15,Hyderabad,Prescription Medicines,Azithromycin 500mg,3,824.37,120.75
+PE01469,2026-06-13,Bengaluru,,Antacid Tablets,5,762.0,126.12
+PE02100,2026-06-18,Hyderabad,Prescription Medicines,Amlodipine 5mg,1,507.47,73.39
+PE01857,2026-06-15,Karimnagar,Prescription Medicines,Atorvastatin 10mg,2,968.82,103.88
+PE00741,2026-05-23,Warangal,OTC Medicines,Antacid Tablets,3,122.04,15.28
+PE01537,2026-06-20,Hyderabad,Prescription Medicines,Azithromycin 500mg,4,2538.68,214.78
+PE00792,2026-05-25,Bengaluru,OTC Medicines,Cetirizine 10mg,3,199.2,27.54
+PE00784,2026-05-29,Nellore,Medical Devices,Nebulizer,2,5484.86,1003.69
+PE00709,2026-05-07,Guntur,OTC Medicines,Cetirizine 10mg,1,170.32,28.68
+PE01061,2026-05-28,Warangal,Prescription Medicines,Azithromycin 500mg,3,518.1,112.31
+PE01049,2026-05-17,Bengaluru,Medical Devices,Pulse Oximeter,4,8889.96,1460.61
+PE01993,2026-06-03,Warangal,OTC Medicines,Cough Syrup 100ml,4,743.28,145.15
+PE00967,2026-05-10,Karimnagar,Personal Care,Antiseptic Liquid,3,572.37,91.48
+PE01948,2026-06-05,Visakhapatnam,OTC Medicines,Cetirizine 10mg,2,427.32,71.32
+PE00475,2026-04-07,Nellore,Medical Devices,Pulse Oximeter,4,11430.96,2082.91
+PE01295,2026-05-24,Warangal,Wellness & Nutrition,Fish Oil Capsules,1,676.73,81.62
+PE01339,2026-05-27,Vijayawada,Prescription Medicines,Azithromycin 500mg,3,1029.45,140.77
+PE01219,2026-05-29,Bengaluru,OTC Medicines,Antacid Tablets,2,95.48,
+PE00718,2026-05-22,Warangal,OTC Medicines,ORS Sachet,1,95.15,18.37
+PE01009,2026-05-07,Guntur,Wellness & Nutrition,Whey Protein 1kg,3,1120.74,112.47
+PE00096,2026-04-20,VIJAYAWADA,Wellness & Nutrition,Calcium + D3 Tablets,5,2337.05,385.49
+PE00402,2026-04-22,Hyderabad,Lab Tests,Lipid Profile,5,5415.6,1065.5
+PE00460,2026-04-27,Nellore,Wellness & Nutrition,Multivitamin Tablets,5,2674.3,563.06
+PE01251,2026-05-01,Bengaluru,Wellness & Nutrition,Multivitamin Tablets,1,541.3,102.04
+PE00035,2026-04-28,Nellore,Lab Tests,Vitamin D Test,2,1784.76,
+PE00457,2026-04-19,Nellore,Personal Care,Baby Diaper Pack,3,1122.15,161.9
+PE00698,2026-04-29,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,5,6791.7,669.39
+PE00521,2026-04-14,Vijayawada,Lab Tests,Lipid Profile,4,1798.2,
+PE00671,2026-04-27,Bengaluru,Lab Tests,Vitamin D Test,2,2864.0,325.71
+PE01617,2026-06-09,Hyderabad,Personal Care,Sunscreen SPF50,2,385.5,65.69
+PE01867,2026-06-02,Nellore,Lab Tests,Full Body Checkup,4,2875.16,537.35
+PE01963,2026-06-23,Hyderabad,Lab Tests,Vitamin D Test,4,2279.72,482.83
+PE01757,2026-06-02,Nellore,Prescription Medicines,Metformin 500mg,3,1567.98,241.28
+PE00749,2026-05-22,Bengaluru,Wellness & Nutrition,Whey Protein 1kg,1,1067.38,196.67
+PE01183,2026-05-05,Karimnagar,OTC Medicines,Cetirizine 10mg,2,254.36,37.67
+PE01112,2026-05-31,Bengaluru,Prescription Medicines,Insulin Pen,4,2525.96,366.38
+PE00017,2026-04-14,Bengaluru,OTC Medicines,Cetirizine 10mg,4,836.88,142.94
+PE00568,2026-04-21,Bengaluru,Prescription Medicines,Azithromycin 500mg,4,1342.68,251.81
+PE00045,2026-04-02,Vijayawada,Lab Tests,Vitamin D Test,4,6519.12,778.39
+PE01438,2026-06-07,Hyderabad,OTC Medicines,Cetirizine 10mg,5,1034.55,85.76
+PE01460,2026-06-18,Hyderabad,OTC Medicines,Cetirizine 10mg,2,399.56,37.83
+PE00211,2026-04-24,Hyderabad,Prescription Medicines,Amlodipine 5mg,2,1222.24,204.25
+PE00572,2026-04-24,Hyderabad,OTC Medicines,ORS Sachet,2,341.86,39.09
+PE01868,2026-06-22,Hyderabad,Prescription Medicines,Metformin 500mg,1,590.91,63.29
+PE01589,2026-06-03,Warangal,Wellness & Nutrition,Calcium + D3 Tablets,2,1280.84,242.7
+PE00638,2026-04-19,Guntur,Prescription Medicines,Azithromycin 500mg,4,1215.6,166.3
+PE00739,2026-05-02,Warangal,OTC Medicines,ORS Sachet,1,114.56,24.75
+PE01665,2026-06-16,Bengaluru,OTC Medicines,Paracetamol 500mg,5,1081.15,92.54
+PE01836,2026-06-30,Bengaluru,Wellness & Nutrition,Whey Protein 1kg,2,754.34,104.36
+PE00455,2026-04-25,Hyderabad,,Azithromycin 500mg,1,209.77,41.15
+PE01629,2026-06-11,Hyderabad,OTC Medicines,Cetirizine 10mg,3,443.01,77.0
+PE00168,2026-04-14,Guntur,Wellness & Nutrition,Fish Oil Capsules,5,6233.8,769.93
+PE01823,2026-06-11,Guntur,Wellness & Nutrition,Fish Oil Capsules,3,4134.21,440.64
+PE01311,2026-05-18,Nellore,Medical Devices,Thermometer,2,1109.48,220.75
+PE00744,2026-05-29,Karimnagar,Personal Care,Face Wash,1,381.28,32.28
+PE01258,2026-05-14,Karimnagar,OTC Medicines,Paracetamol 500mg,3,220.8,35.41
+PE00246,2026-04-30,Guntur,Wellness & Nutrition,Whey Protein 1kg,4,2821.2,238.67
+PE01361,2026-05-13,Tirupati,Personal Care,Hand Sanitizer 500ml,4,1547.0,321.28
+PE00590,2026-04-04,vijayawada,Wellness & Nutrition,Immunity Booster Syrup,1,783.51,131.02
+PE01620,2026-06-09,Hyderabad,Personal Care,Antiseptic Liquid,1,428.23,58.95
+PE00116,2026-04-18,Hyderabad,Prescription Medicines,Amlodipine 5mg,3,300.63,25.99
+PE01378,2026-05-20,Vijayawada,Wellness & Nutrition,Calcium + D3 Tablets,5,4158.9,913.01
+PE01792,2026-06-02,Vijayawada,OTC Medicines,ORS Sachet,5,621.9,132.8
+PE00842,2026-05-16,Bengaluru,Personal Care,Sunscreen SPF50,1,221.68,32.37
+PE01087,2026-05-13,Guntur,Wellness & Nutrition,Whey Protein 1kg,4,2740.88,228.08
+PE01551,2026-06-07,Bengaluru,Personal Care,Sunscreen SPF50,4,1301.0,243.12
+PE00121,2026-04-26,Vijayawada,OTC Medicines,Cough Syrup 100ml,2,186.08,37.31
+PE01773,2026-06-10,Guntur,Prescription Medicines,Metformin 500mg,3,553.83,96.04
+PE00747,2026-05-22,Bengaluru,Prescription Medicines,Azithromycin 500mg,3,1850.04,282.8
+PE01775,2026-06-14,Nellore,Lab Tests,Lipid Profile,3,3985.35,859.16
+PE00947,2026-05-08,Guntur,Personal Care,Hand Sanitizer 500ml,2,729.0,93.03
+PE00999,2026-05-06,Hyderabad,Medical Devices,Nebulizer,2,5701.88,563.46
+PE00606,2026-04-03,Bengaluru,Prescription Medicines,Azithromycin 500mg,5,1740.15,224.07
+PE00323,2026-04-03,Guntur,Wellness & Nutrition,Calcium + D3 Tablets,4,2742.4,416.38
+PE01610,2026-06-12,Vijayawada,OTC Medicines,Cough Syrup 100ml,3,326.22,36.59
+PE00705,2026-05-02,Hyderabad,Wellness & Nutrition,Immunity Booster Syrup,3,1354.5,136.59
+PE00071,2026-04-06,Visakhapatnam,Prescription Medicines,Amlodipine 5mg,3,996.75,158.11
+PE01615,2026-06-07,Visakhapatnam,Personal Care,Sunscreen SPF50,2,1039.16,144.22
+PE01979,2026-06-22,Hyderabad,Personal Care,Sunscreen SPF50,4,951.76,165.58
+PE01736,2026-06-23,Guntur,Prescription Medicines,Atorvastatin 10mg,2,960.7,
+PE00373,2026-04-16,Tirupati,Lab Tests,HbA1c Test,1,1243.97,138.49
+PE00347,2026-04-13,Tirupati,Personal Care,Hand Sanitizer 500ml,5,2710.55,345.62
+PE01400,2026-05-07,Hyderabad,Personal Care,Hand Sanitizer 500ml,5,664.5,69.39
+PE02015,2026-06-20,Vijayawada,Prescription Medicines,Insulin Pen,1,635.68,61.22
+PE00242,2026-04-13,Guntur,Wellness & Nutrition,Multivitamin Tablets,1,1258.58,214.74
+PE01770,2026-06-17,Guntur,Personal Care,Antiseptic Liquid,1,460.34,94.76
+PE00445,2026-04-10,Visakhapatnam,OTC Medicines,Cetirizine 10mg,1,175.0,23.36
+PE01116,2026-05-07,Visakhapatnam,Prescription Medicines,Amlodipine 5mg,4,2372.24,209.49
+PE00210,2026-04-18,Bengaluru,Personal Care,Face Wash,1,482.22,88.51
+PE02007,2026-06-23,Bengaluru,Wellness & Nutrition,Calcium + D3 Tablets,5,1336.3,176.06
+PE01513,2026-06-06,Visakhapatnam,Wellness & Nutrition,Multivitamin Tablets,2,1237.22,135.34
+PE00453,2026-04-01,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,2,1482.76,270.98
+PE00647,2026-04-12,Visakhapatnam,Prescription Medicines,Azithromycin 500mg,4,617.56,53.89
+PE00327,2026-04-16,Bengaluru,Personal Care,Antiseptic Liquid,1,334.13,60.58
+PE00398,2026-04-10,Visakhapatnam,Medical Devices,Glucometer Kit,1,3075.74,396.75
+PE02099,2026-06-11,Hyderabad,OTC Medicines,Paracetamol 500mg,3,332.67,47.44
+PE00199,2026-04-27,Hyderabad,Prescription Medicines,Insulin Pen,4,1889.96,294.24
+PE01696,2026-06-23,Hyderabad,Lab Tests,HbA1c Test,1,614.05,60.95
+PE00095,2026-04-05,Bengaluru,Personal Care,Antiseptic Liquid,5,1994.45,398.8
+PE01510,2026-06-30,Guntur,Prescription Medicines,Azithromycin 500mg,4,450.2,69.7
+PE01678,2026-06-12,Bengaluru,Personal Care,Face Wash,1,140.04,22.46
+PE00189,2026-04-09,Warangal,OTC Medicines,ORS Sachet,1,94.65,15.02
+PE00764,2026-05-20,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,4,2341.16,300.29
+PE00165,2026-04-09,Hyderabad,OTC Medicines,Paracetamol 500mg,5,671.6,93.65
+PE00486,2026-04-19,Vijayawada,Medical Devices,Thermometer,3,8373.72,1258.63
+PE00712,2026-05-04,Warangal,Wellness & Nutrition,Multivitamin Tablets,2,990.8,128.96
+PE00113,2026-04-27,Visakhapatnam,Wellness & Nutrition,Multivitamin Tablets,3,1773.81,161.91
+PE00164,2026-04-15,Bengaluru,Prescription Medicines,Metformin 500mg,4,1147.48,
+PE00051,2026-04-18,Hyderabad,OTC Medicines,ORS Sachet,4,460.88,98.71
+PE01797,2026-06-02,Hyderabad,OTC Medicines,Cetirizine 10mg,1,198.21,37.1
+PE00785,2026-05-17,HYDERABAD ,OTC Medicines,Antacid Tablets,4,515.52,47.68
+PE01586,2026-06-13,Hyderabad,Prescription Medicines,Azithromycin 500mg,1,532.7,81.21
+PE00688,2026-04-24,Bengaluru,Wellness & Nutrition,Whey Protein 1kg,5,5426.7,907.86
+PE00901,2026-05-30,Hyderabad,Medical Devices,Digital BP Monitor,3,5741.67,
+PE02005,2026-06-23,Vijayawada,Prescription Medicines,Metformin 500mg,5,784.6,138.54
+PE01224,2026-05-29,Vijayawada,Personal Care,Sunscreen SPF50,4,1619.36,142.49
+PE01149,2026-05-01,Guntur,OTC Medicines,Cough Syrup 100ml,2,222.26,28.47
+PE00933,2026-05-08,Tirupati,OTC Medicines,Paracetamol 500mg,3,389.61,44.36
+PE01072,2026-05-15,Bengaluru,Wellness & Nutrition,Fish Oil Capsules,1,694.67,
+PE00077,2026-04-22, Vijayawada ,Wellness & Nutrition,Fish Oil Capsules,4,2549.44,446.37
+PE01424,2026-06-12,Bengaluru,Prescription Medicines,Metformin 500mg,5,2397.85,336.65
+PE01828,2026-06-25,Nellore,OTC Medicines,ORS Sachet,3,339.87,59.31
+PE01660,2026-06-13,Vijayawada,Wellness & Nutrition,Multivitamin Tablets,4,4243.04,911.56
+PE00331,2026-04-07,Hyderabad,OTC Medicines,Paracetamol 500mg,3,366.42,30.92
+PE01887,2026-06-12,Vijayawada,Personal Care,Hand Sanitizer 500ml,2,1069.74,100.56
+PE02093,2026-06-22,Hyderabad,Personal Care,Baby Diaper Pack,2,904.68,131.4
+PE01911,2026-06-23,Warangal,Wellness & Nutrition,Calcium + D3 Tablets,2,1182.44,226.83
+PE00742,2026-05-09,Tirupati,Prescription Medicines,Atorvastatin 10mg,1,473.57,59.04
+PE00474,2026-04-25,Karimnagar,Prescription Medicines,Amlodipine 5mg,3,1257.27,253.21
+PE00626,2026-04-30,Warangal,,Calcium + D3 Tablets,2,1751.08,355.87
+PE01083,2026-05-25,Hyderabad,OTC Medicines,ORS Sachet,2,219.72,18.63
+PE00183,2026-04-18,Bengaluru,Prescription Medicines,Atorvastatin 10mg,4,785.96,68.5
+PE01653,2026-06-21,Guntur,Prescription Medicines,Atorvastatin 10mg,2,506.58,72.36
+PE00238,2026-04-26,bengaluru ,Lab Tests,HbA1c Test,2,2247.38,233.26
+PE01992,2026-06-26,Bengaluru,Personal Care,Hand Sanitizer 500ml,1,478.62,63.59
+PE01569,2026-06-28,Warangal,Personal Care,Sunscreen SPF50,5,2619.85,457.67
+PE00185,2026-04-15,Visakhapatnam,Wellness & Nutrition,Immunity Booster Syrup,2,2304.18,277.05
+PE00672,2026-04-30,Tirupati,OTC Medicines,Antacid Tablets,5,445.65,
+PE00878,2026-05-15,Guntur,Medical Devices,Thermometer,1,1413.56,306.9
+PE01913,2026-06-05,Bengaluru,Medical Devices,Nebulizer,5,10085.75,1914.93
+PE01249,2026-05-14,Guntur,OTC Medicines,Paracetamol 500mg,3,283.2,61.2
+PE01337,2026-05-16,Bengaluru,Prescription Medicines,Atorvastatin 10mg,1,153.25,20.42
+PE02060,2026-06-25,Hyderabad,Prescription Medicines,Atorvastatin 10mg,4,1258.0,157.92
+PE00269,2026-04-06,Visakhapatnam,Medical Devices,Thermometer,4,7599.16,1123.01
+PE01772,2026-06-27,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,3,1871.25,294.8
+PE02023,2026-06-13,Nellore,OTC Medicines,ORS Sachet,5,815.2,83.91
+PE01997,2026-06-05,Warangal,,Whey Protein 1kg,4,1972.88,292.77
+PE00617,2026-04-12,Visakhapatnam,Wellness & Nutrition,Fish Oil Capsules,3,883.23,99.34
+PE00662,2026-04-23,Visakhapatnam,Prescription Medicines,Azithromycin 500mg,1,209.98,42.43
+PE01263,2026-05-20,Bengaluru,Lab Tests,Lipid Profile,1,1385.9,203.94
+PE01430,2026-06-19,Visakhapatnam,Wellness & Nutrition,Multivitamin Tablets,4,5018.0,924.95
+PE02030,2026-06-05,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,1,1342.48,207.19
+PE00601,2026-04-02,Vijayawada,Prescription Medicines,Atorvastatin 10mg,3,549.45,107.48
+PE01940,2026-06-26,Hyderabad,OTC Medicines,Cough Syrup 100ml,3,185.4,17.8
+PE01578,2026-06-05, hyderabad,Personal Care,Sunscreen SPF50,5,1041.3,148.75
+PE00500,2026-04-09,Bengaluru,Prescription Medicines,Metformin 500mg,3,651.9,52.82
+PE00958,2026-05-21,Bengaluru,Prescription Medicines,Insulin Pen,5,1689.5,151.33
+PE00417,2026-04-23,Vijayawada,Medical Devices,Thermometer,4,10895.8,2283.69
+PE01184,2026-05-03,Hyderabad,Lab Tests,HbA1c Test,4,5959.96,741.8
+PE00562,2026-04-21,Hyderabad,Personal Care,Hand Sanitizer 500ml,3,1433.76,128.92
+PE01540,2026-06-20,Guntur,Lab Tests,Thyroid Profile,4,5587.24,556.26
+PE00025,2026-04-01,Vijayawada,Prescription Medicines,Metformin 500mg,5,1782.85,313.05
+PE01492,2026-06-15,Hyderabad,Personal Care,Face Wash,1,403.14,66.69
+PE00428,2026-04-10,Hyderabad,OTC Medicines,Antacid Tablets,5,366.85,43.95
+PE00871,2026-05-22,Guntur,Personal Care,Face Wash,4,1903.92,390.7
+PE01027,2026-05-15,Vijayawada,Prescription Medicines,Atorvastatin 10mg,4,1802.88,339.03
+PE00904,2026-05-24,Visakhapatnam,OTC Medicines,Cough Syrup 100ml,2,384.14,72.26
+PE00995,2026-05-14,Nellore,Wellness & Nutrition,Immunity Booster Syrup,3,1060.89,128.67
+PE01793,2026-06-19,Hyderabad,,Amlodipine 5mg,1,490.51,95.68
+PE01692,2026-06-24,Warangal,OTC Medicines,ORS Sachet,1,114.04,22.33
+PE00265,2026-04-24,Guntur,Prescription Medicines,Atorvastatin 10mg,4,1264.76,
+PE01731,2026-06-11,Hyderabad,Personal Care,Antiseptic Liquid,3,1306.11,140.66
+PE00063,2026-04-10,Tirupati,,ORS Sachet,5,457.0,45.13
+PE01708,2026-06-12,Vijayawada,Medical Devices,Nebulizer,4,2357.0,306.5
+PE00433,2026-04-25,Hyderabad,OTC Medicines,Paracetamol 500mg,1,180.18,24.77
+PE01840,2026-06-12,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,2,670.76,83.64
+PE02049,2026-06-05,Hyderabad,Prescription Medicines,Amlodipine 5mg,2,821.3,132.56
+PE00835,2026-05-04,Tirupati,Medical Devices,Nebulizer,2,1735.62,247.02
+PE00256,2026-04-06, BENGALURU,Medical Devices,Pulse Oximeter,3,1064.97,101.41
+PE00683,2026-04-01,Warangal,OTC Medicines,Cetirizine 10mg,5,241.1,
+PE00070,2026-04-03,Karimnagar,Medical Devices,Glucometer Kit,1,2570.28,237.24
+PE00368,2026-04-16,Hyderabad,OTC Medicines,Paracetamol 500mg,2,225.9,26.79
+PE02055,2026-06-08,Karimnagar,Wellness & Nutrition,Immunity Booster Syrup,5,6075.5,1046.22
+PE00085,2026-04-09,Guntur,OTC Medicines,Paracetamol 500mg,4,192.04,30.16
+PE00313,2026-04-08,Bengaluru,OTC Medicines,ORS Sachet,1,128.53,18.56
+PE00073,2026-04-25,Warangal,Wellness & Nutrition,Fish Oil Capsules,3,2163.45,416.36
+PE00013,2026-04-26,Tirupati,Prescription Medicines,Azithromycin 500mg,4,1330.08,
+PE00575,2026-04-13,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,2,1623.94,325.35
+PE02024,2026-06-11,Karimnagar,Medical Devices,Pulse Oximeter,2,3815.38,691.53
+PE01654,2026-06-16,Vijayawada,Prescription Medicines,Atorvastatin 10mg,2,1008.54,218.95
+PE01465,2026-06-08,Visakhapatnam,Wellness & Nutrition,Immunity Booster Syrup,5,3491.2,453.99
+PE00798,2026-05-29,Hyderabad,Prescription Medicines,Metformin 500mg,1,554.42,61.07
+PE01630,2026-06-25,Visakhapatnam,Personal Care,Face Wash,5,2432.8,283.67
+PE02000,2026-06-25,Hyderabad,Prescription Medicines,Insulin Pen,3,644.04,90.87
+PE00320,2026-04-06,Nellore,Prescription Medicines,Metformin 500mg,2,1292.7,265.65
+PE00752,2026-05-24,Warangal,Wellness & Nutrition,Fish Oil Capsules,3,1694.88,246.77
+PE01144,2026-05-02,Vijayawada,Prescription Medicines,Azithromycin 500mg,1,193.01,37.92
+PE02017,2026-06-15,Hyderabad,Medical Devices,Pulse Oximeter,2,2024.56,416.41
+PE00425,2026-04-09,Nellore,Wellness & Nutrition,Multivitamin Tablets,4,4030.52,801.83
+PE01907,2026-06-29,Hyderabad,Prescription Medicines,Atorvastatin 10mg,2,947.96,115.97
+PE01240,2026-05-14,Warangal,Prescription Medicines,Amlodipine 5mg,1,109.86,15.41
+PE00923,2026-05-26,Bengaluru,Personal Care,Sunscreen SPF50,4,1719.24,356.55
+PE01405,2026-06-08,Hyderabad,Prescription Medicines,Amlodipine 5mg,4,731.72,101.0
+PE00310,2026-04-13,Hyderabad,OTC Medicines,ORS Sachet,1,78.96,11.79
+PE01491,2026-06-30,Vijayawada,Personal Care,Antiseptic Liquid,1,290.97,58.52
+PE00628,2026-04-22,Warangal,Medical Devices,Nebulizer,1,2550.35,540.33
+PE00421,2026-04-04,Hyderabad,Prescription Medicines,Azithromycin 500mg,2,1117.64,190.73
+PE01402,2026-06-22,Hyderabad,Medical Devices,Digital BP Monitor,5,15944.95,2737.68
+PE00837,2026-05-24,Warangal,Personal Care,Hand Sanitizer 500ml,2,592.5,
+PE00808,2026-05-02,Bengaluru,OTC Medicines,ORS Sachet,2,387.38,57.98
+PE00325,2026-04-16,Bengaluru,Wellness & Nutrition,Fish Oil Capsules,3,2169.09,177.01
+PE00410,2026-04-25,Vijayawada,Prescription Medicines,Metformin 500mg,4,2537.72,230.58
+PE02063,2026-06-23,Warangal,Medical Devices,Glucometer Kit,1,1470.2,306.87
+PE01053,2026-05-27,Tirupati,Wellness & Nutrition,Calcium + D3 Tablets,5,1571.1,278.39
+PE01735,2026-06-18,Warangal,Medical Devices,Nebulizer,2,3751.14,539.53
+PE00029,2026-04-16,Karimnagar,Prescription Medicines,Amlodipine 5mg,1,162.32,25.03
+PE01011,2026-05-14,Guntur,Prescription Medicines,Atorvastatin 10mg,5,1858.6,265.19
+PE01091,2026-05-07,Visakhapatnam,Wellness & Nutrition,Fish Oil Capsules,4,1571.68,260.66
+PE01618,2026-06-10,Warangal,OTC Medicines,Cough Syrup 100ml,4,583.28,82.45
+PE01923,2026-06-04,Tirupati,OTC Medicines,ORS Sachet,4,472.56,89.95
+PE00011,2026-04-21,Hyderabad,Medical Devices,Digital BP Monitor,4,9087.04,1635.97
+PE00399,2026-04-14,Hyderabad,Prescription Medicines,Azithromycin 500mg,2,779.12,108.46
+PE01628,2026-06-18,HYDERABAD ,OTC Medicines,Paracetamol 500mg,3,576.72,116.09
+PE00350,2026-04-27,Vijayawada,Prescription Medicines,Metformin 500mg,5,1073.0,88.49
+PE01824,2026-06-25,Tirupati,Prescription Medicines,Atorvastatin 10mg,4,1376.96,196.11
+PE01068,2026-05-28, hyderabad,Medical Devices,Digital BP Monitor,5,4911.7,661.97
+PE00528,2026-04-01,Warangal,OTC Medicines,Cetirizine 10mg,3,130.14,16.29
+PE00706,2026-05-28,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,1,426.07,74.74
+PE00754,2026-05-16,Guntur,Wellness & Nutrition,Whey Protein 1kg,5,4837.3,602.57
+PE01235,2026-05-21,Tirupati,Medical Devices,Pulse Oximeter,2,5322.78,
+PE00645,2026-04-23,Hyderabad,OTC Medicines,Paracetamol 500mg,2,247.7,40.24
+PE00984,2026-05-25,Hyderabad,Personal Care,Baby Diaper Pack,1,385.63,53.84
+PE00865,2026-05-30,Hyderabad,OTC Medicines,Antacid Tablets,5,517.35,83.22
+PE01165,2026-05-08,Nellore,Personal Care,Antiseptic Liquid,5,593.75,74.24
+PE01074,2026-05-28,Hyderabad,Personal Care,Hand Sanitizer 500ml,4,1888.28,
+PE02090,2026-06-06,Hyderabad,Prescription Medicines,Insulin Pen,1,99.72,14.55
+PE00657,2026-04-25,Guntur,Wellness & Nutrition,Immunity Booster Syrup,2,2166.46,301.11
+PE00440,2026-04-01,Bengaluru,Medical Devices,Thermometer,4,1680.52,327.47
+PE00040,2026-04-03,Bengaluru,OTC Medicines,ORS Sachet,1,114.1,23.47
+PE01862,2026-06-05,Tirupati,Wellness & Nutrition,Multivitamin Tablets,2,1117.74,196.8
+PE01788,2026-06-13,Visakhapatnam,Wellness & Nutrition,Calcium + D3 Tablets,4,4180.08,413.27
+PE00369,2026-04-11,Nellore,OTC Medicines,Paracetamol 500mg,2,402.12,54.47
+PE00338,2026-04-06,Visakhapatnam,OTC Medicines,Paracetamol 500mg,3,319.98,69.75
+PE00136,2026-04-04,Tirupati,OTC Medicines,Antacid Tablets,2,80.54,10.72
+PE00661,2026-04-18,Nellore,Prescription Medicines,Amlodipine 5mg,2,224.68,33.23
+PE02088,2026-06-21,Guntur,Personal Care,Hand Sanitizer 500ml,5,2127.5,217.5
+PE00437,2026-04-21,Vijayawada,Wellness & Nutrition,Fish Oil Capsules,1,967.31,143.54
+PE01570,2026-06-22,Bengaluru,Prescription Medicines,Amlodipine 5mg,3,1407.87,285.39
+PE00259,2026-04-13,Visakhapatnam,Personal Care,Baby Diaper Pack,1,468.29,62.05
+PE00087,2026-04-27,Visakhapatnam,Prescription Medicines,Atorvastatin 10mg,3,331.68,
+PE01299,2026-05-03,Bengaluru,OTC Medicines,Cough Syrup 100ml,1,84.49,11.14
+PE01399,2026-05-07,Hyderabad,Medical Devices,Pulse Oximeter,1,703.0,105.3
+PE01034,2026-05-14,Karimnagar,Wellness & Nutrition,Immunity Booster Syrup,4,3585.88,564.49
+PE02055,2026-06-08,Karimnagar,Wellness & Nutrition,Immunity Booster Syrup,5,6075.5,1046.22
+PE01968,2026-06-10,Hyderabad,Prescription Medicines,Insulin Pen,3,649.23,110.05
+PE02078,2026-06-27,Visakhapatnam,Wellness & Nutrition,Whey Protein 1kg,5,5522.8,915.03
+PE01546,2026-06-27,Nellore,Prescription Medicines,Atorvastatin 10mg,3,445.44,95.38
+PE00587,2026-04-25,Vijayawada,OTC Medicines,ORS Sachet,4,726.8,124.65
+PE01307,2026-05-07,Bengaluru,Lab Tests,Thyroid Profile,1,1373.86,203.12
+PE00743,2026-05-08,Vijayawada,Prescription Medicines,Amlodipine 5mg,3,863.7,135.72
+PE01499,2026-06-06,Guntur,Prescription Medicines,Amlodipine 5mg,5,2084.9,355.51
+PE02097,2026-06-04,Tirupati,OTC Medicines,Antacid Tablets,5,496.0,81.2
+PE00468,2026-04-05,Bengaluru,Personal Care,Antiseptic Liquid,1,178.1,23.56
+PE01876,2026-06-24,Warangal,OTC Medicines,Paracetamol 500mg,4,830.08,141.68
+PE01835,2026-06-10,Vijayawada,OTC Medicines,Cetirizine 10mg,1,126.86,24.8
+PE01228,2026-05-12,Guntur,Medical Devices,Thermometer,2,5227.12,649.18
+PE00499,2026-04-15,Bengaluru,Prescription Medicines,Azithromycin 500mg,5,2608.05,248.15
+PE00462,2026-04-15,Bengaluru,OTC Medicines,Cough Syrup 100ml,2,421.1,49.66
+PE00170,2026-04-24,Warangal,Prescription Medicines,Azithromycin 500mg,3,619.32,
+PE01237,2026-05-18,Hyderabad,,Whey Protein 1kg,4,4189.48,870.68
+PE01999,2026-06-10,Bengaluru,,Nebulizer,4,11821.56,1862.59
+PE00831,2026-05-24,Warangal,Prescription Medicines,Amlodipine 5mg,5,2333.7,490.51
+PE00768,2026-05-12,Guntur,OTC Medicines,Cough Syrup 100ml,3,348.09,64.69
+PE01167,2026-05-23,Hyderabad,OTC Medicines,Cough Syrup 100ml,3,319.86,70.2
+PE00693,2026-04-23,Karimnagar,Prescription Medicines,Metformin 500mg,3,624.03,106.47
+PE00203,2026-04-21,Tirupati,,Metformin 500mg,5,560.65,56.29
+PE01567,2026-06-26,Guntur,Wellness & Nutrition,Fish Oil Capsules,1,1316.92,177.27
+PE01357,2026-05-18,Vijayawada,Prescription Medicines,Amlodipine 5mg,4,1415.4,242.88
+PE00381,2026-04-22,Tirupati,Prescription Medicines,Azithromycin 500mg,2,195.44,37.97
+PE01771,2026-06-12,Hyderabad,Prescription Medicines,Insulin Pen,4,1441.68,146.05
+PE01738,2026-06-18,Guntur,Prescription Medicines,Metformin 500mg,2,748.0,99.29
+PE01687,2026-06-20,Hyderabad,,Atorvastatin 10mg,5,3063.9,390.9
+PE01973,2026-06-02,Guntur,OTC Medicines,Cetirizine 10mg,3,591.42,104.42
+PE01957,2026-06-18,Vijayawada,Prescription Medicines,Amlodipine 5mg,3,924.21,95.02
+PE00563,2026-04-08,Bengaluru,Lab Tests,Lipid Profile,2,3349.46,447.97
+PE01081,2026-05-19,Guntur,OTC Medicines,Antacid Tablets,1,130.15,18.79
+PE01729,2026-06-28,Vijayawada,OTC Medicines,Cetirizine 10mg,2,130.3,17.57
+PE00540,2026-04-25,Guntur,OTC Medicines,Paracetamol 500mg,3,270.45,51.3
+PE00429,2026-04-08,Hyderabad,OTC Medicines,ORS Sachet,1,182.46,22.7
+PE01497,2026-06-29,Visakhapatnam,Wellness & Nutrition,Calcium + D3 Tablets,4,1343.6,248.87
+PE01293,2026-05-24,Guntur,Wellness & Nutrition,Multivitamin Tablets,3,3523.26,630.68
+PE01133,2026-05-12,Hyderabad,OTC Medicines,Antacid Tablets,5,707.3,119.1
+PE00079,2026-04-01,Hyderabad,Prescription Medicines,Amlodipine 5mg,3,1209.0,139.4
+PE01445,2026-06-08,Vijayawada,OTC Medicines,Antacid Tablets,3,322.86,64.68
+PE01681,2026-06-02,Bengaluru,Prescription Medicines,Amlodipine 5mg,4,1855.92,319.6
+PE01488,2026-06-07,Hyderabad,Wellness & Nutrition,Multivitamin Tablets,1,318.49,57.8
+PE01694,2026-06-15,Hyderabad,Prescription Medicines,Atorvastatin 10mg,5,1046.7,172.36
+PE00948,2026-05-27,Bengaluru,OTC Medicines,Antacid Tablets,3,579.03,100.25
+PE00478,2026-04-21,Warangal,Wellness & Nutrition,Fish Oil Capsules,2,2350.18,
+PE00248,2026-04-02,Bengaluru,Prescription Medicines,Azithromycin 500mg,1,183.21,20.13
+PE00832,2026-05-03,Bengaluru,Wellness & Nutrition,Calcium + D3 Tablets,2,2500.1,240.16
+PE01022,2026-05-07, hyderabad,Medical Devices,Thermometer,4,4272.36,388.82
+PE01227,2026-05-31,Visakhapatnam,OTC Medicines,Paracetamol 500mg,5,281.95,54.01
+PE00975,2026-05-06,Vijayawada,Prescription Medicines,Metformin 500mg,2,942.58,187.45
+PE00758,2026-05-26,Vijayawada,Lab Tests,Thyroid Profile,3,4147.62,756.15
+PE00122,2026-04-01,Vijayawada,Personal Care,Baby Diaper Pack,3,1089.12,
+PE00821,2026-05-23,Nellore,Prescription Medicines,Azithromycin 500mg,2,229.72,31.71
+PE00237,2026-04-29,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,215.38,23.99
+PE01632,2026-06-27,Tirupati,Wellness & Nutrition,Whey Protein 1kg,5,3678.45,415.11
+PE01247,2026-05-20,Warangal,Wellness & Nutrition,Whey Protein 1kg,5,4087.8,658.26
+PE00372,2026-04-17,Vijayawada,Personal Care,Hand Sanitizer 500ml,2,929.64,150.87
+PE01196,2026-05-22,Warangal,Wellness & Nutrition,Immunity Booster Syrup,5,2456.05,202.48
+PE01024,2026-05-21,Nellore,OTC Medicines,Paracetamol 500mg,3,260.07,28.08
+PE01478,2026-06-08,Bengaluru,Lab Tests,Vitamin D Test,4,6119.68,794.69
+PE02042,2026-06-21,Nellore,Wellness & Nutrition,Fish Oil Capsules,4,2025.76,
+PE00038,2026-04-22,Hyderabad,Prescription Medicines,Metformin 500mg,1,515.1,93.3
+PE00041,2026-04-02,Tirupati,,Metformin 500mg,1,221.73,27.36
+PE00153,2026-04-10,Bengaluru,Medical Devices,Thermometer,5,8960.85,1760.23
+PE00533,2026-04-24,Nellore,Wellness & Nutrition,Fish Oil Capsules,4,3873.96,595.11
+PE01707,2026-06-06,Bengaluru,OTC Medicines,ORS Sachet,2,154.64,21.66
+PE00147,2026-04-28,Bengaluru,Lab Tests,Thyroid Profile,3,1896.69,178.69
+PE01502,2026-06-21,Vijayawada,Personal Care,Antiseptic Liquid,3,1549.41,222.82
+PE00441,2026-04-21,Visakhapatnam,OTC Medicines,Antacid Tablets,2,92.22,18.58
+PE00653,2026-04-03,Hyderabad,Prescription Medicines,Metformin 500mg,2,483.76,57.81
+PE01985,2026-06-08,Tirupati,Wellness & Nutrition,Immunity Booster Syrup,1,1369.45,
+PE00604,2026-04-04,Hyderabad,OTC Medicines,Cough Syrup 100ml,3,599.31,72.43
+PE00995,2026-05-14,Nellore,Wellness & Nutrition,Immunity Booster Syrup,3,1060.89,128.67
+PE00115,2026-04-18,Guntur,Prescription Medicines,Azithromycin 500mg,1,175.74,21.89
+PE00397,2026-04-02,Tirupati,Wellness & Nutrition,Fish Oil Capsules,3,1494.72,282.32
+PE00945,2026-05-22,Nellore,OTC Medicines,Cough Syrup 100ml,2,361.7,64.3
+PE00280,2026-04-23,Bengaluru,Prescription Medicines,Metformin 500mg,4,2004.8,388.02
+PE00635,2026-04-17,Visakhapatnam,,Hand Sanitizer 500ml,4,772.28,138.67
+PE01199,2026-05-14,Karimnagar,Prescription Medicines,Amlodipine 5mg,4,2587.12,309.98
+PE01714,2026-06-07,Warangal,OTC Medicines,ORS Sachet,3,490.23,107.02
+PE01164,2026-05-14,Nellore,Prescription Medicines,Metformin 500mg,2,1176.56,107.27
+PE00496,2026-04-20,Vijayawada,OTC Medicines,Cetirizine 10mg,2,90.24,14.37
+PE01927,2026-06-14, Vijayawada ,OTC Medicines,ORS Sachet,4,269.56,54.0
+PE01303,2026-05-31,Vijayawada,Wellness & Nutrition,Immunity Booster Syrup,3,890.34,155.09
+PE01355,2026-05-26,Warangal,OTC Medicines,Paracetamol 500mg,4,727.32,93.16
+PE00640,2026-04-17,Vijayawada,Prescription Medicines,Metformin 500mg,4,1518.2,305.18
+PE00994,2026-05-14,Guntur,OTC Medicines,Paracetamol 500mg,5,495.25,51.48
+PE01552,2026-06-05,Vijayawada,Personal Care,Face Wash,3,472.17,48.36
+PE01266,2026-05-04,Karimnagar,OTC Medicines,Paracetamol 500mg,3,372.72,45.64
+PE00790,2026-05-21,Guntur,OTC Medicines,ORS Sachet,3,423.09,81.9
+PE00229,2026-04-16,Tirupati,Medical Devices,Nebulizer,1,2816.7,535.58
+PE01894,2026-06-02,Vijayawada,Prescription Medicines,Azithromycin 500mg,2,207.8,45.67
+PE00658,2026-04-04,Guntur,OTC Medicines,ORS Sachet,4,830.4,69.56
+PE01345,2026-05-11,Nellore,Medical Devices,Thermometer,3,3333.42,669.86
+PE00145,2026-04-14,Karimnagar,OTC Medicines,Antacid Tablets,4,373.44,46.25
+PE01406,2026-06-25,HYDERABAD ,Personal Care,Antiseptic Liquid,2,617.38,90.6
+PE01046,2026-05-18,Guntur,Prescription Medicines,Atorvastatin 10mg,1,347.35,32.74
+PE00321,2026-04-18,Hyderabad,Prescription Medicines,Atorvastatin 10mg,3,485.58,105.76
+PE01073,2026-05-26,Karimnagar,Prescription Medicines,Azithromycin 500mg,2,433.16,70.5
+PE01257,2026-05-21,Hyderabad,Prescription Medicines,Atorvastatin 10mg,1,482.62,75.56
+PE00724,2026-05-15,Hyderabad,Prescription Medicines,Metformin 500mg,2,313.24,53.56
+PE01097,2026-05-11,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,5,6816.45,839.54
+PE01476,2026-06-21,Guntur,Medical Devices,Pulse Oximeter,2,6311.34,1096.93
+PE00180,2026-04-05,Visakhapatnam,Wellness & Nutrition,Fish Oil Capsules,1,1255.3,140.74
+PE00867,2026-05-27, BENGALURU,Wellness & Nutrition,Immunity Booster Syrup,3,1317.36,134.16
+PE00681,2026-04-04,Warangal,OTC Medicines,Paracetamol 500mg,1,70.69,12.91
+PE00341,2026-04-10,Vijayawada,OTC Medicines,Cetirizine 10mg,2,378.8,81.03
+PE01062,2026-05-16,vijayawada,Prescription Medicines,Atorvastatin 10mg,4,2524.08,411.48
+PE00036,2026-04-23,Tirupati,OTC Medicines,Antacid Tablets,3,420.12,
+PE01919,2026-06-21,Vijayawada,Wellness & Nutrition,Whey Protein 1kg,5,3254.3,316.24
+PE00553,2026-04-07,Hyderabad,Prescription Medicines,Azithromycin 500mg,3,674.04,128.33
+PE01774,2026-06-14,Hyderabad,Lab Tests,Thyroid Profile,2,2446.76,426.35
+PE01624,2026-06-03,Hyderabad,Medical Devices,Nebulizer,1,2831.98,250.58
+PE00110,2026-04-16,Visakhapatnam,OTC Medicines,ORS Sachet,2,118.68,11.89
+PE01370,2026-05-17,Bengaluru,Prescription Medicines,Atorvastatin 10mg,3,1610.16,145.46
+PE00039,2026-04-11,Hyderabad,,Calcium + D3 Tablets,3,2778.96,247.18
+PE00420,2026-04-03,Vijayawada,Medical Devices,Digital BP Monitor,2,1170.68,
+PE01975,2026-06-04,Hyderabad,Prescription Medicines,Insulin Pen,2,1078.38,221.21
+PE01000,2026-05-22,Hyderabad,Prescription Medicines,Insulin Pen,3,1313.76,262.25
+PE01443,2026-06-30,Bengaluru,OTC Medicines,Antacid Tablets,4,318.56,67.64
+PE00846,2026-05-31,Karimnagar,OTC Medicines,ORS Sachet,5,510.25,102.09
+PE01225,2026-05-16,Visakhapatnam,Personal Care,Baby Diaper Pack,2,343.32,64.8
+PE01328,2026-05-03,Hyderabad,Personal Care,Face Wash,3,1102.86,169.84
+PE00864,2026-05-04,Nellore,Prescription Medicines,Amlodipine 5mg,3,1021.47,131.56
+PE01419,2026-06-12,Visakhapatnam,Personal Care,Hand Sanitizer 500ml,4,1579.24,206.19
+PE01012,2026-05-20,Tirupati,Wellness & Nutrition,Fish Oil Capsules,2,2477.02,515.64
+PE00148,2026-04-13,Vijayawada,Wellness & Nutrition,Calcium + D3 Tablets,2,1917.76,234.74
+PE01433,2026-06-06,Warangal,OTC Medicines,Cetirizine 10mg,1,112.44,
+PE00725,2026-05-02,Vijayawada,Personal Care,Face Wash,4,1536.0,248.83
+PE01115,2026-05-09,Hyderabad,OTC Medicines,Cough Syrup 100ml,2,224.9,26.43
+PE00034,2026-04-14,Bengaluru,Medical Devices,Glucometer Kit,5,12912.2,2568.61
+PE00957,2026-05-09,Karimnagar,Lab Tests,HbA1c Test,2,1059.58,164.12
+PE01901,2026-06-17,Hyderabad,Wellness & Nutrition,Fish Oil Capsules,5,3672.05,575.63
+PE00120,2026-04-16,HYDERABAD ,Prescription Medicines,Azithromycin 500mg,5,495.8,105.29
+PE01045,2026-05-24,Hyderabad,OTC Medicines,Cough Syrup 100ml,4,281.84,26.66
+PE01201,2026-05-19,Tirupati,Medical Devices,Glucometer Kit,3,1922.58,349.38
+PE00069,2026-04-18,Vijayawada,Medical Devices,Digital BP Monitor,5,5270.15,686.25
+PE01126,2026-05-04,Tirupati,OTC Medicines,Cough Syrup 100ml,2,345.6,46.01
+PE01146,2026-05-21,Nellore,Personal Care,Hand Sanitizer 500ml,5,1387.7,129.19
+PE00715,2026-05-25,Hyderabad,Medical Devices,Thermometer,2,3468.96,441.74
+PE01333,2026-05-06,Hyderabad,OTC Medicines,Paracetamol 500mg,1,197.54,42.49
+PE00448,2026-04-02,Bengaluru,Prescription Medicines,Amlodipine 5mg,4,2472.24,459.59
+PE01093,2026-05-25,Vijayawada,Wellness & Nutrition,Fish Oil Capsules,1,1393.44,
+PE00642,2026-04-29,Bengaluru,Wellness & Nutrition,Whey Protein 1kg,3,1111.29,163.81
+PE02082,2026-06-04,Tirupati,Wellness & Nutrition,Whey Protein 1kg,1,1012.52,110.41
+PE00588,2026-04-19,Guntur,OTC Medicines,ORS Sachet,1,99.85,15.24
+PE00541,2026-04-23,Vijayawada,Personal Care,Hand Sanitizer 500ml,5,2583.8,281.41
+PE01319,2026-05-16,Tirupati,Medical Devices,Glucometer Kit,1,1162.43,170.96
+PE01804,2026-06-08,Bengaluru,OTC Medicines,ORS Sachet,4,383.32,32.41
+PE01467,2026-06-20,Hyderabad,Medical Devices,Nebulizer,2,3945.58,724.2
+PE00703,2026-05-24,Vijayawada,Lab Tests,Full Body Checkup,1,1413.64,238.03
+PE01434,2026-06-14,Hyderabad,OTC Medicines,Paracetamol 500mg,2,283.3,43.77
+PE00067,2026-04-20,Warangal,Wellness & Nutrition,Calcium + D3 Tablets,2,791.0,172.36
+PE01094,2026-05-27,Hyderabad,Prescription Medicines,Atorvastatin 10mg,4,1744.68,147.6
+PE00704,2026-05-22,Visakhapatnam,Medical Devices,Glucometer Kit,5,8808.65,1674.34
+PE01471,2026-06-02,Nellore,OTC Medicines,Paracetamol 500mg,4,594.76,74.59
+PE00730,2026-05-29,Nellore,Personal Care,Sunscreen SPF50,2,962.24,86.02
+PE00454,2026-04-14,Hyderabad,Wellness & Nutrition,Calcium + D3 Tablets,5,3147.15,342.71
+PE01955,2026-06-30,Warangal,Medical Devices,Pulse Oximeter,4,5564.16,507.56
+PE01534,2026-06-23,Bengaluru,Wellness & Nutrition,Immunity Booster Syrup,5,4175.5,408.95
+PE00126,2026-04-23,Hyderabad,Medical Devices,Pulse Oximeter,5,3398.55,484.75
+PE00345,2026-04-23,Visakhapatnam,Lab Tests,Vitamin D Test,2,866.58,156.76
+PE01335,2026-05-09,Tirupati,OTC Medicines,Cetirizine 10mg,2,407.24,80.95
+PE01308,2026-05-21,Guntur,OTC Medicines,Cough Syrup 100ml,2,208.5,33.89
+PE01591,2026-06-09,Nellore,Prescription Medicines,Azithromycin 500mg,3,345.69,71.85
+PE00857,2026-05-20,Bengaluru,Medical Devices,Digital BP Monitor,4,7918.28,743.5
+PE01879,2026-06-26,Visakhapatnam,Prescription Medicines,Amlodipine 5mg,5,1414.85,144.39
+PE01751,2026-06-29,Bengaluru,Personal Care,Hand Sanitizer 500ml,4,2110.52,353.42
+PE00130,2026-04-06,Warangal,Medical Devices,Thermometer,5,10808.6,1747.96
+PE01451,2026-06-05,Bengaluru,OTC Medicines,Cough Syrup 100ml,3,585.24,114.29
+PE00585,2026-04-10,Nellore,Wellness & Nutrition,Fish Oil Capsules,5,1910.0,263.04
+PE01640,2026-06-03,Nellore,Wellness & Nutrition,Whey Protein 1kg,3,2430.45,287.08
+PE00854,2026-05-25,Visakhapatnam,Medical Devices,Digital BP Monitor,3,4262.16,819.41
+PE01313,2026-05-06,Bengaluru,Medical Devices,Nebulizer,2,4979.56,598.67
+PE01563,2026-06-27,Hyderabad,Wellness & Nutrition,Whey Protein 1kg,4,2481.8,442.6
+PE01734,2026-06-24,Bengaluru,Medical Devices,Thermometer,3,6634.26,
+PE00802,2026-05-18,bengaluru ,Wellness & Nutrition,Fish Oil Capsules,4,2477.08,229.22
+PE02067,2026-06-17,Bengaluru,Medical Devices,Glucometer Kit,1,3038.67,574.48
+PE01086,2026-05-18,Warangal,Lab Tests,Vitamin D Test,3,4624.08,585.47
+PE01647,2026-06-15,Hyderabad,Prescription Medicines,Metformin 500mg,4,2440.28,466.37
+PE00162,2026-04-15,Hyderabad,OTC Medicines,Cough Syrup 100ml,1,205.27,32.25
+PE01321,2026-05-30,Visakhapatnam,Wellness & Nutrition,Immunity Booster Syrup,3,1113.39,141.66
+PE00750,2026-05-17,Hyderabad,Prescription Medicines,Azithromycin 500mg,4,377.16,37.58
+PE00502,2026-04-18,Hyderabad,Prescription Medicines,Atorvastatin 10mg,5,885.15,71.84
+PE00946,2026-05-04,Warangal,Lab Tests,Vitamin D Test,3,1217.34,134.45
+PE00302,2026-04-26,Tirupati,Medical Devices,Thermometer,2,6100.56,1207.04
+PE02053,2026-06-13,Bengaluru,Prescription Medicines,Amlodipine 5mg,3,474.24,73.28
+PE02062,2026-06-24,Visakhapatnam,Medical Devices,Digital BP Monitor,1,3074.82,666.6
+PE00264,2026-04-21,Vijayawada,Personal Care,Sunscreen SPF50,2,737.3,151.68
+PE00828,2026-05-11,Hyderabad,OTC Medicines,ORS Sachet,4,387.4,52.55
+PE00720,2026-05-11,Karimnagar,Medical Devices,Digital BP Monitor,2,1768.12,301.11
+PE00890,2026-05-15,Vijayawada,Prescription Medicines,Insulin Pen,2,348.54,44.41
+PE00707,2026-05-09,bengaluru ,Personal Care,Face Wash,5,2601.1,318.55
+PE01483,2026-06-27,Hyderabad,Prescription Medicines,Amlodipine 5mg,3,1916.91,382.5
+PE01873,2026-06-11, hyderabad,Prescription Medicines,Insulin Pen,3,306.18,54.83
+PE01764,2026-06-16,Hyderabad,Personal Care,Sunscreen SPF50,5,549.2,74.68
+PE01909,2026-06-29,Hyderabad,Wellness & Nutrition,Immunity Booster Syrup,4,3877.68,646.13
+PE01172,2026-05-02,Vijayawada,Prescription Medicines,Amlodipine 5mg,4,1470.0,267.6
+PE01900,2026-06-16,Hyderabad,OTC Medicines,Antacid Tablets,1,43.27,5.71
+PE01305,2026-05-11,Vijayawada,OTC Medicines,Antacid Tablets,1,65.39,6.85
+PE01101,2026-05-30,Vijayawada,OTC Medicines,Cough Syrup 100ml,2,237.9,
