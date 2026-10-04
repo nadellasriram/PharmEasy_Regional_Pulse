@@ -1,11 +1,12 @@
-
 # PharmEasy Regional Pulse
 
 ## Regional Performance Analysis and Dashboard
 
+This project analyzes regional sales performance using PharmEasy order data. It covers data generation, cleaning, validation, SQL-based metrics, significant-change flagging, draft reporting, human review, and an interactive dashboard.
+
 ## How to Run the Project
 
-The project was developed using Google Colab and can also be run in a local Python environment after cloning the repository.
+The project was developed using Google Colab and can also be run locally after cloning the repository.
 
 ### 1. Clone the repository
 
@@ -54,7 +55,17 @@ This creates the database using the cleaned order data and region master file.
 python queries.py
 ```
 
-This executes the SQL checks and calculates regional and monthly performance results.
+This executes the SQL checks, calculates regional and monthly performance results, identifies significant changes, and saves the results in `state.json`.
+
+**Generate the draft report and test the review gate**
+
+```bash
+python run_report_review.py
+```
+
+This loads the saved metrics, generates draft insight reports for flagged regions, and exercises the `approve`, `edit`, and `reject` review decisions. The test run appends entries to `audit_log.jsonl`.
+
+The review decisions in this script are test cases. They demonstrate the review-gate behavior and do not represent actual manager approval.
 
 **Launch the dashboard**
 
@@ -66,11 +77,13 @@ Open the local URL displayed in the terminal to explore the dashboard.
 
 ### Report generation and human review
 
-The project also includes `draft_report.py` and `review_gate.py`. These files provide functions for preparing insight reports and recording human review decisions.
+The reporting workflow uses three modules:
 
-They are function-based modules rather than standalone command-line scripts. The complete report-generation and review workflow should be exercised through the appropriate function calls. The commands above cover dataset generation, cleaning, database creation, SQL validation, and dashboard launch.
+- `metrics_engine.py` calculates percentage changes, flags significant regions, and saves or loads state.
+- `draft_report.py` prepares a draft insight report for each flagged region.
+- `review_gate.py` records a review decision, reviewer note, and whether external use is allowed.
 
----
+The `run_report_review.py` script connects these modules for a reproducible demonstration of the workflow.
 
 ## Reviewer Cover Note
 
@@ -78,22 +91,25 @@ Guntur's sales increased by **122.19% from April to May 2026**, followed by a **
 
 ### Key Deliverables
 
-* **Dashboard:** `app.py` — Interactive dashboard with sales, profit, order count, regional comparisons, category breakdowns, and monthly trends.
-* **Executive Summary:** Embedded in the dashboard using the CII format, highlighting the main findings and their business implications.
-* **Recommendation Memo:** `memo.md` — A focused analysis of Guntur's sales change, with a recommendation for further investigation.
-* **Presentation Storyline:** `presentation_storyline.md` — Executive and regional-manager narratives, including anticipated questions and responses.
+- **Dashboard:** `app.py` — Interactive dashboard with sales, profit, order count, regional comparisons, category breakdowns, and monthly trends.
+- **CII Executive Narrative:** Embedded in the dashboard, highlighting the key business situation, insights, and implications.
+- **Recommendation Memo:** `memo.md` — Focused analysis of Guntur's sales change, with a recommendation for further investigation.
+- **Review Memo:** `review_memo.md` — Checklist for validating the report before manager approval.
+- **Presentation Storyline:** `presentation_storyline.md` — Executive and regional-manager narratives, including anticipated questions and responses.
+- **Draft Report and Review Workflow:** `draft_report.py`, `review_gate.py`, and `run_report_review.py` — Draft generation and a testable human review process.
 
 ### Suggested Review Order
 
-1. Open the dashboard and read the executive summary.
-2. Review the recommendation memo.
-3. Read the presentation storyline and its Q&A section.
+1. Open the dashboard and read the CII executive narrative.
+2. Review the generated draft report and the flagged regional changes.
+3. Read the recommendation memo and its supporting evidence.
+4. Use the review memo to check data quality, metric accuracy, threshold application, regional coverage, and report wording.
+5. Review the human review workflow and its audit log.
+6. Read the presentation storyline and its Q&A section.
 
 ### Unverified Assumption
 
-Any explanation involving demand, promotions, or other external factors remains a hypothesis until verified using additional evidence.
-
----
+[MEDIUM] Any explanation involving demand, promotions or other external factors remains a hypothesis until verified using additional evidence.
 
 ## About This Project
 
@@ -120,12 +136,12 @@ The dataset initially contained 2,159 order rows. It included inconsistent regio
 
 The key dataset checks were:
 
-* Raw order rows: 2,159
-* Duplicate rows removed: 59
-* Clean order rows: 2,100
-* Regions in the master file: 10
-* Regions with recorded orders: 9
-* Product categories: 6
+- Raw order rows: 2,159
+- Duplicate rows removed: 59
+- Clean order rows: 2,100
+- Regions in the master file: 10
+- Regions with recorded orders: 9
+- Product categories: 6
 
 Kurnool is included in the region master file but has no recorded orders in the cleaned order data.
 
@@ -133,42 +149,43 @@ Kurnool is included in the region master file but has no recorded orders in the 
 
 During the project, I worked with:
 
-* **Python:** For data generation, cleaning, calculations, and workflow automation.
-* **pandas:** For handling and transforming the order data.
-* **SQLite:** For storing the cleaned data and validating metrics through SQL queries.
-* **Streamlit:** For creating the interactive dashboard.
-* **Plotly:** For visualizing regional and monthly performance.
-* **Google Colab:** For writing and running the Python scripts during development.
-* **GitHub:** For organizing and sharing the project files.
+- **Python:** For data generation, cleaning, calculations, and workflow automation.
+- **pandas:** For handling and transforming the order data.
+- **SQLite:** For storing the cleaned data and validating metrics through SQL queries.
+- **Streamlit:** For creating the interactive dashboard.
+- **Plotly:** For visualizing regional and monthly performance.
+- **Google Colab:** For writing and running the Python scripts during development.
+- **GitHub:** For organizing and sharing the project files.
 
 The project does not require API keys or paid services.
 
----
-
 ## Project Files
 
-| File                         | Description                                           |
-| ---------------------------- | ----------------------------------------------------- |
-| `generate_dataset.py`        | Generates the raw order data and region master file   |
-| `pharmeasy_orders_raw.csv`   | Raw order dataset                                     |
-| `regions_master.csv`         | Master list of regions and related details            |
-| `clean_data.py`              | Cleans and validates the raw data                     |
-| `pharmeasy_orders_clean.csv` | Cleaned order dataset                                 |
-| `data_quality_report.md`     | Summary of data-quality checks and results            |
-| `build_db.py`                | Creates the SQLite database                           |
-| `pharmeasy.db`               | Database containing the project data                  |
-| `queries.py`                 | SQL queries and validation checks                     |
-| `metrics_engine.py`          | Calculates performance metrics and handles flagging   |
-| `draft_report.py`            | Generates the draft insight report                    |
-| `memo.md`                    | Business-focused recommendation memo                  |
-| `review_gate.py`             | Handles the human review process                      |
-| `state.json` | Saved state for the monthly metrics and alert flags |
+| File | Description |
+|---|---|
+| `generate_dataset.py` | Generates the raw order data and region master file |
+| `pharmeasy_orders_raw.csv` | Raw order dataset |
+| `regions_master.csv` | Master list of regions and related details |
+| `clean_data.py` | Cleans and validates the raw data |
+| `pharmeasy_orders_clean.csv` | Cleaned order dataset |
+| `data_quality_report.md` | Summary of data-quality checks and results |
+| `build_db.py` | Creates the SQLite database |
+| `pharmeasy.db` | Database containing the project data |
+| `queries.py` | SQL queries and validation checks |
+| `metrics_engine.py` | Calculates performance metrics and handles flagging |
+| `state.json` | Saved state for monthly metrics and alert flags |
+| `draft_report.py` | Generates the draft insight report |
+| `run_report_review.py` | Runs report generation and demonstrates the review workflow |
+| `review_gate.py` | Handles human review decisions and audit logging |
+| `audit_log.jsonl` | Audit entries created by review decisions |
+| `memo.md` | Business-focused recommendation memo |
+| `review_memo.md` | Checklist for reviewing the report before approval |
+| `reliability_checklist.md` | Checklist for reviewing reliability |
+| `app.py` | Streamlit dashboard with Plotly charts |
+| `presentation_storyline.md` | Executive and regional-manager presentation storyline |
+| `README.md` | Project overview and instructions |
 
-The review function creates `audit_log.jsonl` when a review decision is recorded. The committed log contains test entries generated by the review-gate test harness.
-| `reliability_checklist.md`   | Checklist for reviewing reliability                   |
-| `app.py`                     | Streamlit dashboard with Plotly charts                |
-| `presentation_storyline.md`  | Executive and regional-manager presentation storyline |
-| `README.md`                  | Project overview and instructions                     |
+The review function creates or appends to `audit_log.jsonl` when a review decision is recorded. The committed log may contain test entries generated during validation.
 
 ## Key Findings
 
@@ -195,10 +212,8 @@ Working on this project gave me an opportunity to connect the concepts I learned
 
 I also learned that identifying a change in the data is only one part of analysis. Understanding what caused that change requires further investigation and business context. This is something I want to continue improving as I work on more analytics projects.
 
----
-
 ## Submission
 
 This project is maintained in a public GitHub repository as part of my Analytics and AI capstone. The repository contains the scripts, datasets, database, reports, and dashboard files used to complete the project.
 
-**Repository:** `https://github.com/nadellasriram/PharmEasy_Regional_Pulse`
+**Repository:** https://github.com/nadellasriram/PharmEasy_Regional_Pulse

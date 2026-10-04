@@ -7,4 +7,4 @@
 
 3. Critique and refine: Reviewed the report output for Guntur and checked that it includes the monthly sales changes and an implication for further review.
 
-4. Human sign-off: Tested the review gate with approve, edit, and reject decisions and verified that external use is allowed only for an approved report.
+4. Human sign-off: Manager approval is pending, so keep the memo restricted from external use until the manager's decision is recorded.
