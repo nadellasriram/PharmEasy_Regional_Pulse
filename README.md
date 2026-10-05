@@ -100,12 +100,10 @@ Guntur's sales increased by **122.19% from April to May 2026**, followed by a **
 
 ### Suggested Review Order
 
-1. Open the dashboard and read the CII executive narrative.
-2. Review the generated draft report and the flagged regional changes.
-3. Read the recommendation memo and its supporting evidence.
-4. Use the review memo to check data quality, metric accuracy, threshold application, regional coverage, and report wording.
-5. Review the human review workflow and its audit log.
-6. Read the presentation storyline and its Q&A section.
+1. Open the dashboard (`app.py`) and read the embedded CII executive narrative.
+2. Read the recommendation memo (`memo.md`) and its supporting evidence.
+3. Review the presentation storyline (`presentation_storyline.md`) to see how the finding would be defended live.
+4. Use the supporting scripts and review/audit files for verification if needed.
 
 ### Unverified Assumption
 
